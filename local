@@ -339,7 +339,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 #KODIPROP:inputstream.adaptive.license_key=78ab64fa90f137a697743b5dc27b2f96:de4d31c7fc6005ede28abab2a0720a9f
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
-=================M3U================
+//=================M3U================//
 
 #EXTINF:-1 tvg-name="WILD PLANET"tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/f/AmazonStores/ATVPDKIKX0DER/9414a0bff52e8e5d10b98b41a3134145.w400.h400.png"tvg-chno=""group-title="LOCAL",  Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
@@ -413,7 +413,7 @@ https://radio.wish1075.com/web/stream/wish.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/kgHGPY2/imageonline-co-glowimage.png" group-title="Local",Super Radyo DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
-===================CONVERGE & CIGNAL=============
+//===================CONVERGE & CIGNAL=============//
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
@@ -1489,6 +1489,8 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/pl_sdi9.mpd
 #EXTINF:-1 tvg-id="pilipinalive10" tvg-name="PILIPINAS LIVE #10" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="🇵🇭 PILIPINAS LIVE",PILIPINAS LIVE #10
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi10.mpd
 
+//===============MAX================//
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"01019b6ffe7f731d4bbb5b4036524537":"3a9f4a9f151e6470c0e961442a2b82b8","0102e8614c300fb887aeb8607609d8fb":"dfe079ddcfedbf6f07645cef53bdfaa5","0105a4272944a95c347a898b6eaa716e":"4971b587a19c099fad8ed95d4f5044f1","01002674bb019061f5186e8657b3ab7c":"f8c0ea571df5597c278ea8c44fa6ad1a"}
 #EXTINF:-1 tvg-id="hbo" tvg-logo="https://i.imgur.com/esz4fys.png" group-logo="https://i.imgur.com/SDZP7cx.png" group-title="Max",HBO
@@ -1512,8 +1514,6 @@ https://cf.live.us.prd.media.max.com/live/use1/407_CixiNzYyMjE4Ni1iMTEwLTU4YmUtO
 https://akm.live.us.prd.media.max.com/live/use1/a28_CiwwZTk1YWRhNC0xMjlhLTU3NTktOWQ4YS1kMDRhYzM0OTIyM2ItdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTM3U
-
 #KODIPROP:inputstream.adaptive.license_key={"0101d446569f83c252984087a2134e53":"680be34b4a9c9264771b1983b1fdc99c","01025975307b5c0501e871030074aace":"b0105302cbae23d951beb12690056536","01054c395afda28e2d011e24f9f06366":"8be94833f27311300837091a3040d824","010046cabb98a07e4cdf09c3efb3c121":"19b0f83f56620f27f1579a81dbe6c88d"}
 #EXTINF:-1 tvg-id="hbozone" tvg-logo="https://i.imgur.com/yJiXqiC.png" group-logo="https://i.imgur.com/SDZP7cx.png" group-title="Max",HBO Zone
 https://gcp.live.na.prd.media.max.com/live/use1/e91_CixhY2EwNjZmYi05OGJiLTU3NmItYjg2YS0zZDRhZmVkN2ZiOGUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd
