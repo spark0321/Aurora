@@ -801,10 +801,7 @@ https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
 ==========================CON-CIG MOVIES================================
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="converge.ph" tvg-name="CONVERGE VISION INFO" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 CONV-CIG MOVIES",CONVERGE VISION INFO
-http://143.44.136.110:6910/001/2/ch00000090990000001339/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
