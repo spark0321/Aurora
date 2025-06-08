@@ -1552,6 +1552,96 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/pl_sdi9.mpd
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi10.mpd
 
 #EXTM3U billed-msg="🇵🇭 Jaybee™  Cignal TV and Converge 🇵🇭"
+====================================== PREMIUM MPD ===============================
+
+#EXTINF:-1 tvg-name="LaLiga TV" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/La-Liga-TV.png" group-title="Prime Video UK Sport", LaLiga TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="UK | TNT Sports 1" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/TNTSports1GB._SL170_FMpng_.png" group-title="Prime Video UK Sport",TNT Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="UK | TNT Sports 2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/TNTSports2GBWhite._SL170_FMpng_.png" group-title="Prime Video UK Sport",TNT Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="UK | TNT Sports 3" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/TNTSports3GBWhite._SL170_FMpng_.png" group-title="Prime Video UK Sport",TNT Sports 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="UK | TNT Sports 4" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/TNTSports4GBWhite._SL170_FMpng_.png" group-title="Prime Video UK Sport",TNT Sports 4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-id="UK | TNT Sports 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%205.png" group-title="Prime Video UK Sport",TNT Sports 5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+#EXTVLCOPT:http-referrer=IndiHomeTV - Live Streaming TV Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-name="Rock Entertainment" group-title="IndiHome" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f6/Rock_Entertainment_%282021-.n.v.%29.png/revision/latest/thumbnail/width/360/height/360?cb=20220514034733" ,Rock Entertainment
+https://streaming.indihometv.com/atm/DASH//rock_entertainment/manifest.mpd
+
+
+
+#EXTVLCOPT:http-referrer=IndiHomeTV - Live Streaming TV Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-name="Cartoonito" group-title="IndiHome" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/Cartoonito_logo.svg" ,Cartoonito
+https://streaming.indihometv.com/atm/DASH//boomerang/manifest.mpd
+
+
+
+#EXTVLCOPT:http-referrer=IndiHomeTV - Live Streaming TV Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-name="AXN" group-title="IndiHome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/AXN_logo.svg" ,AXN
+https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd
+
+
+
+#EXTVLCOPT:http-referrer=IndiHomeTV - Live Streaming TV Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-name="Fun Planet" group-title="IndiHome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Fun_Planet.png" , Fun Planet
+https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
+
+
+
+#EXTVLCOPT:http-referrer=IndiHomeTV - Live Streaming TV Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-name="Rock Action" group-title="IndiHome" tvg-logo="https://www.ais.th/content/dam/ais/consumer/content/lifestyle/tv-and-movie/premuim-content/ch_logo-rock.jpg" ,Rock Action
+https://streaming.indihometv.com/atm/DASH//ROCK_ACTION/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"94bc19ad9cb04a7e6871e650a7f6529c":"83e7dc469eb303c4237db6750225f6be"}
+#EXTINF:-1 tvg-id="Amazon.US.KoreanBlockbusters" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/korean_blockbusters._SL170_FMpng_.png" group-title="AMAZON",Korean Blockbuster
+https://aba2opzaaaaaaaambptdxcmdygr3l.9be0b55c226b4023a71eca813144822a.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ol6pl6uagx/out/v1/92163be177b542c59d3b804d8c9dbee2/cenc.mpd
+
+#EXTINF:-1 tvg-id="Amazon.US.AMAZONMOVIES" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s134756_lw_h8_ab._SL170_FMpng_.png" group-title="AMAZON",Amazon Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3e429eb91a1791d55df2a554dc58dda7":"2f688f94ef580a61eada6932598137e4"}
+https://abbfefcaaaaaaaamd5xd44ij4vbyj.a17d0dfbc05b48999f461f3f6cff0eb6.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
+
+#EXTINF:-1 tvg-id="I558.65687.zap2it.com" tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" tvg-name="MGM+",MGM+
+#EXTGRP: Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={34bbe1d5cad94e81a2f2eb3275611f85:7e6a42fbe78e7ff8c20cb4eeb475ed17}
+https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd
+
+#EXTINF:-1 tvg-id="SONY MAX.in" tvg-name="SONY MAX.in" tvg-logo="https://iconape.com/wp-content/files/ws/121356/svg/Sony_MAX_logo.svg" group-title="Sony", Sony MAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
+
 
 ===================== Cignal Mpd ====================================
 #EXTINF:-1  tvg-id="GMA.Pinoy.TV..sg" tvg-logo="https://i.imgur.com/Eo0f51v.png" group-title="CIGNALPLAY",GMA Pinoy TV
