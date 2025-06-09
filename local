@@ -1602,7 +1602,7 @@ https://streaming.indihometv.com/atm/DASH//boomerang/manifest.mpd
 
 #EXTVLCOPT:http-referrer=IndiHomeTV - Live Streaming TV Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-name="AXN" group-title="IndiHome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/AXN_logo.svg" ,AXN
+#EXTINF:-1 tvg-name="AXN" group-title="IndiHome" tvg-logo="https://hdpng.com/images/axn-logo-vector-png--200.png" ,AXN
 https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd
 
 
@@ -1630,20 +1630,19 @@ https://aba2opzaaaaaaaambptdxcmdygr3l.9be0b55c226b4023a71eca813144822a.emt.cf.ww
 #KODIPROP:inputstream.adaptive.license_key={"3e429eb91a1791d55df2a554dc58dda7":"2f688f94ef580a61eada6932598137e4"}
 https://abbfefcaaaaaaaamd5xd44ij4vbyj.a17d0dfbc05b48999f461f3f6cff0eb6.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 
-#EXTINF:-1 tvg-id="I558.65687.zap2it.com" tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" tvg-name="MGM+",MGM+
-#EXTGRP: Movies
+#EXTINF:-1 tvg-id="I558.65687.zap2it.com" tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" group-title="Movies",MGM+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={34bbe1d5cad94e81a2f2eb3275611f85:7e6a42fbe78e7ff8c20cb4eeb475ed17}
 https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd
 
-#EXTINF:-1 tvg-id="SONY MAX.in" tvg-name="SONY MAX.in" tvg-logo="https://iconape.com/wp-content/files/ws/121356/svg/Sony_MAX_logo.svg" group-title="Sony", Sony MAX
+#EXTINF:-1 tvg-id="SONY MAX.in" tvg-name="SONY MAX.in" tvg-logo="https://iconape.com/wp-content/files/ws/121356/svg/Sony_MAX_logo.svg" group-title="Moviea", Sony MAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
 
-===================== Cignal Mpd ====================================
+===================== CignalPlay ====================================
 #EXTINF:-1  tvg-id="GMA.Pinoy.TV..sg" tvg-logo="https://i.imgur.com/Eo0f51v.png" group-title="CIGNALPLAY",GMA Pinoy TV
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
@@ -1716,7 +1715,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
 #KODIPROP:key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
-#EXTINF:-1  tvg-id="Rptv.ph" tvg-logo="https://i.ytimg.com/vi/bdyMQxcBV00/hqdefault.jpg" group-title=CIGNALPLAY",RPTV
+#EXTINF:-1  tvg-id="Rptv.ph" tvg-logo="https://i.ytimg.com/vi/bdyMQxcBV00/hqdefault.jpg" group-title="CIGNALPLAY",RPTV
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 #KODIPROP:key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
@@ -1908,7 +1907,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
 #KODIPROP:key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
-#EXTINF:-1  tvg-id="ROCKACTION.ph" tvg-logo="https://i.imgur.com/PJZmoyW.png" group-title="LOCAL",Rock Action
+#EXTINF:-1  tvg-id="ROCKACTION.ph" tvg-logo="https://i.imgur.com/PJZmoyW.png" group-title="CIGNALPLAY",Rock Action
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
 #KODIPROP:key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
@@ -1987,14 +1986,13 @@ https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
 ========================================== M3U8 ========================================
-#EXTINF:-1 tvg-id="PBS.Kids.us" tvg-name="pbskids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/PBS_Kids_%28Old%29_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20210403123013
-" group-title="LOCAL", PBS Kids
+#EXTINF:-1 tvg-id="PBS.Kids.us" tvg-name="pbskids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/PBS_Kids_%28Old%29_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20210403123013" group-title="M3U8", PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
 
 #EXTINF: -1 tvg-id="CINEMO!.ph" tvg-logo="https://i.imgur.com/2Jn7QHG.png" group-title="M3U8", CineMo!
 https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg.ph" tvg-name="Bloomberg Television" tvg-logo="https://i.imgur.com/ZIVpA5s.png" group-title="M3U8",Bloomberg Television
+#EXTINF:-1 tvg-id="Bloomberg.ph" tvg-name="Bloomberg Television" tvg-logo="https://i.imgur.com/ZIVpA5s.png" group-title="M3U8", Bloomberg Television
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/iQnLy7q.png" group-title="M3U8",Al Jazeera
@@ -2003,8 +2001,7 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 #EXTINF:-1 tvg-id="Nat.Geo.Wild.HD.my" tvg-name="National Geographic Wild" tvg-logo="https://i.imgur.com/8X4jiMY.png" group-title="M3U8",National Geographic Wild
 https://amg00426-littledotstudio-realwildnz-samsungnz-wz0bm.amagi.tv/playlist/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scientology Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Scientology_Network.jpg/revision/latest?cb=20210620160903
-" group-title="M3U8",Scientology Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scientology Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Scientology_Network.jpg/revision/latest?cb=20210620160903" group-title="M3U8",Scientology Network
 https://stream6.scientology.org/master.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arirang Korea " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="M3U8",Arirang Korea 
@@ -2028,8 +2025,7 @@ https://dhkq1p9audihq.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/AMC_Thriller_2020.png/revision/latest?cb=20240824194847"group-title="M3U8",  AMC Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_(TV)_Logo_2012.png
-" group-title="M3U8",DW Philippines
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_(TV)_Logo_2012.png" group-title="M3U8",DW Philippines
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kgHGPY2/imageonline-co-glowimage.png" group-title="M3U8",Super Radyo DZBB
