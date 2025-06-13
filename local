@@ -1630,7 +1630,7 @@ https://aba2opzaaaaaaaambptdxcmdygr3l.9be0b55c226b4023a71eca813144822a.emt.cf.ww
 #KODIPROP:inputstream.adaptive.license_key={"3e429eb91a1791d55df2a554dc58dda7":"2f688f94ef580a61eada6932598137e4"}
 https://abbfefcaaaaaaaamd5xd44ij4vbyj.a17d0dfbc05b48999f461f3f6cff0eb6.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 
-#EXTINF:-1 tvg-id="I558.65687.zap2it.com" tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" group-title="Movies",MGM+
+#EXTINF:-1 tvg-id="I558.65687.zap2it.com" tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" group-title="Movie",MGM+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={34bbe1d5cad94e81a2f2eb3275611f85:7e6a42fbe78e7ff8c20cb4eeb475ed17}
 https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd
@@ -2022,13 +2022,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fish TV" tvg-logo="https://imgur.com/mImCDrc.png" group-title="M3U8",Fish TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wired2fish/playlist.m3u8
 
-#EXTINF:-1 tvg-name="AMERICAN IDOL"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/American_Idol_logo.png/revision/latest/scale-to-width-down/284?cb=20110406005511"tvg-chno=""group-title="M3U8",  American Idol
+#EXTINF:-1 tvg-name="AMERICAN IDOL"tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/American_Idol_logo.png/revision/latest/scale-to-width-down/284?cb=20110406005511"tvg-chno="" group-title="M3U8",  American Idol
 https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-name="AMERICA'S GOT TALENT"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrtSuhruLSS8wEIm-7cnXMPAbVz7UIV_aMg&s"tvg-chno=""group-title="M3U8",  America's Got Talent
+#EXTINF:-1 tvg-name="AMERICA'S GOT TALENT"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrtSuhruLSS8wEIm-7cnXMPAbVz7UIV_aMg&s" tvg-chno="" group-title="M3U8",  America's Got Talent
 https://dhkq1p9audihq.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/AMC_Thriller_2020.png/revision/latest?cb=20240824194847"group-title="M3U8",  AMC Thrillers
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/AMC_Thriller_2020.png/revision/latest?cb=20240824194847" group-title="M3U8",  AMC Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_(TV)_Logo_2012.png" group-title="M3U8",DW Philippines
