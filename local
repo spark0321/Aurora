@@ -1641,6 +1641,12 @@ https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mp
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://logodix.com/logo/605532.png" group-title="Vision", STUDIO UNIVERSAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+
 
 ===================== CignalPlay ====================================
 #EXTINF:-1  tvg-id="GMA.Pinoy.TV..sg" tvg-logo="https://i.imgur.com/Eo0f51v.png" group-title="CIGNALPLAY",GMA Pinoy TV
