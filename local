@@ -1,6 +1,6 @@
 #EXTM3U billed-msg="🇵🇭 LivePass™  Cignal TV, Converge and International 🇵🇭"
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/ryansnetcafe/epg/refs/heads/main/ph.xml, https://raw.githubusercontent.com/ryansnetcafe/epg/refs/heads/main/ph2.xml, https://raw.githubusercontent.com/ryansnetcafe/epg/refs/heads/main/kr.xml, https://raw.githubusercontent.com/ryansnetcafe/epg/refs/heads/main/id.xml, https://raw.githubusercontent.com/ryansnetcafe/epg/refs/heads/main/my.xml, https://raw.githubusercontent.com/ryansnetcafe/epg/refs/heads/main/hk.xml, https://raw.githubusercontent.com/ryansnetcafe/epg/refs/heads/main/uk.gz, https://raw.githubusercontent.com/ryansnetcafe/epg/refs/heads/main/ca.gz, https://raw.githubusercontent.com/ryansnetcafe/epg/refs/heads/main/us.gz, https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz"
+#EXTM3U url-tvg="ttps://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz"
 
 ########## Cignal TV ##########
 
