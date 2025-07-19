@@ -5,6 +5,12 @@
 
 #EXTINF:-1 group-logo="https://t4.ftcdn.net/jpg/02/98/28/57/360_F_298285715_ct4qtZOJH119A39TdMrbkLsfziVCX1Rz.jpg"
 
+#EXTINF:-1 tvg-id="" tvg-name="Paquiao vs Barrios" tvg-logo="https://cdn.manilastandard.net/wp-content/uploads/2025/05/Pacquiao-vs-Barrios-1-150x188.jpgg" group-title="Local",Paquiao vs Barrios
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363233303438393537383939373636:375650765372326e6c50544b337a6933
+http://143.44.136.110:6910/001/2/ch...nifest.mpd?virtualDomain=001.live_hls.zte.com
+
+
 #EXTINF:-1  tvg-name="GMA Pinoy TV" tvg-id="GMA.Pinoy.TV..sg" tvg-logo="https://i.imgur.com/Eo0f51v.png" group-title="LOCAL",GMA Pinoy TV
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
