@@ -5,10 +5,15 @@
 
 #EXTINF:-1 group-logo="https://t4.ftcdn.net/jpg/02/98/28/57/360_F_298285715_ct4qtZOJH119A39TdMrbkLsfziVCX1Rz.jpg"
 
-#EXTINF:-1 tvg-id="" tvg-name="Paquiao vs Barrios" tvg-logo="https://cdn.manilastandard.net/wp-content/uploads/2025/05/Pacquiao-vs-Barrios-1-150x188.jpgg" group-title="Local",Paquiao vs Barrios
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-id="pbc" tvg-logo="https://i.imgur.com/H24OJZx.png" group-logo="https://i.imgur.com/na7WMFe.png" group-title="PBC PPV",Pacquiao vs Barrios (Converge)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233303438393537383939373636:375650765372326e6c50544b337a6933
-http://143.44.136.110:6910/001/2/ch...nifest.mpd?virtualDomain=001.live_hls.zte.com
+http://143.44.136.110:6910/001/2/ch00000090990000001173/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="pbc" tvg-logo="https://i.imgur.com/H24OJZx.png" group-logo="https://i.imgur.com/na7WMFe.png" group-title="PBC PPV",Pacquiao vs Barrios (Cignal)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/cg_ppv_main_hd.mpd
 
 
 #EXTINF:-1  tvg-name="GMA Pinoy TV" tvg-id="GMA.Pinoy.TV..sg" tvg-logo="https://i.imgur.com/Eo0f51v.png" group-title="LOCAL",GMA Pinoy TV
