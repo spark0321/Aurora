@@ -2225,6 +2225,26 @@ https://live-atv-cdn.izzigo.tv/4/out/u/dash/NICKMUSICSD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=57588399a2a939927418a588126e316d:6566f7996a957773701e2de8741ce176
 https://live-atv-cdn.izzigo.tv/4/out/u/dash/TEENNICKHD/default.mpd
 
+#EXTINF:-1  tvg-id="" tvg-name="Bizaare Foods" tvg-logo="" group-title="World TV",Bizaare Foods
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key="OOEBc2vO582r1RBQ8i9iiA","k":"-OoT0DvRQPbytrfhMgJFNw"
+https://a34aivottlinear-a.akamaihd..../v1/d6973d90414c4b16abd73a167db13aaa/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-name="Studio Universal" tvg-logo="" group-title="World TV", Studio Universal
+https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="BuddyStar.id" tvg-name="Buddy Star" tvg-logo="" group-title="World TV", Buddy Star
+https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+
+
 ########### FM Radio #################
 
 #EXTINF:-1 group-logo="https://www.freeiconspng.com/thumbs/radio-fm-icon/radio-fm-icon-3.png"
