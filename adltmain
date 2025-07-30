@@ -1,5 +1,5 @@
 #EXTM3U
-
+x-url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml, https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml.gz, https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/tvpass-epg.xml, https://tvpass.org/epg.xml, https://github.com/atone77721/CIGNAL_EPG/raw/refs/heads/main/merged_epg.xml.gz"
 
 #EXTINF:-1 tvg-id="Playboy.us" tvg-name="Playboy" group-logo="https://i.imgur.com/1ryqkMd.png" parent-code="0000" tvg-logo="https://i.imgur.com/Fc9AdGR_d.png" video-track="1024x576" group-title="Adult",Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
