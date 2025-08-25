@@ -107,7 +107,7 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 #KODIPROP:key=4553f7e8011f411fb625cefc39274300:98f2f1d153367e84b5d559dc9dfb9a35
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
 
-#EXTINF:-1  tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/CGTN.svg" group-title="LOCAL",CGTN
+#EXTINF:-1  tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/CGTN.svg" group-title="CIGNAL",CGTN
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f854ee4412b11edb8780242ac120002:9f2c82a74e727deadbda389e18798d55
