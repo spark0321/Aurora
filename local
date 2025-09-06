@@ -1283,6 +1283,309 @@ http://161.49.17.2:6610/001/2/ch00000090990000001287/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001328/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
+********** Converge **********
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTDuu46cAy2TcG12e3qivppEG1i5nSyRkTt&s"
+
+#EXTINF:-1  tvg-id="Kapamilya Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Converge",Kapamilya Channel
+http://136.239.158.18:6410/001/2/ch00000090990000001248/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Converge",Kapamilya Channel HD
+http://136.239.158.18:6410/001/2/ch00000090990000001286/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="Converge",PBO
+http://136.239.158.18:6410/001/2/ch00000090990000001078/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/1200px-DZMM_TeleRadyo.svg.png" group-title="Converge",DZMM Teleradyo
+http://136.239.158.18:6410/001/2/ch00000090990000001249/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="Converge",ANC
+http://136.239.158.18:6410/001/2/ch00000090990000001274/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="Converge",MYX Philippines
+http://136.239.158.18:6410/001/2/ch00000090990000001252/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Converge",GMA 7
+http://136.239.158.18:6410/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Converge",GTV
+http://136.239.158.18:6410/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="Converge",ALL TV
+http://136.239.158.18:6410/001/2/ch00000090990000001179/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10" group-title="Converge",Bilyonaryo Channel
+http://136.239.158.18:6410/001/2/ch00000090990000001124/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Converge",TV5
+http://136.239.158.18:6410/001/2/ch00000090990000001088/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="Converge",A2Z
+http://136.239.158.18:6410/001/2/ch00000090990000001087/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="Converge",NET 25
+http://136.239.158.18:6410/001/2/ch00000090990000001090/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" group-title="Converge",IBC 13
+http://136.239.158.18:6410/001/2/ch00000090990000001089/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/300px-UNTV-Logo-2016.svg.png" group-title="Converge",UNTV
+http://136.239.158.18:6410/001/2/ch00000090990000001091/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428" group-title="Converge",PTV4
+http://136.239.158.18:6410/001/2/ch00000090990000001086/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/6/62/DZRH_TV_Logo_November_2021.png/revision/latest?cb=20211215134648" group-title="Converge",DZRH TV
+http://136.239.158.18:6410/001/2/ch00000090990000001174/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/UIqEr2y.png" group-title="Converge",Knowledge Channel
+http://136.239.158.18:6410/001/2/ch00000090990000001340/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Aliw_Channel_23_logo.png" group-title="Converge",Aliw Channel
+http://136.239.158.18:6410/001/2/ch00000090990000001190/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest?cb=20130823135759" group-title="Converge",CLTV 36
+http://136.239.158.18:6410/001/2/ch00000090990000001314/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/8/82/DZRJ_810_AM_TV_Logo_2022.png/revision/latest/scale-to-width-down/300?cb=20250102143126" group-title="Converge",RJTV
+http://136.239.158.18:6410/001/2/ch00000090990000001338/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Screenshot_2019-08-30_at_5.25.09_PM.png" group-title="Converge",RJTV 29
+http://136.239.158.18:6410/001/2/ch00000090990000001159/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/GNN_Logo_2025.png" group-title="Converge",GNN
+http://136.239.158.18:6410/001/2/ch00000090990000001234/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="Converge",One PH
+http://136.239.158.18:6410/001/2/ch00000090990000001198/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="Converge",One News
+http://136.239.158.18:6410/001/2/ch00000090990000001084/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Converge",Cinemo!
+http://136.239.158.18:6410/001/2/ch00000090990000001254/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="Converge",Cinema One
+http://136.239.158.18:6410/001/2/ch00000090990000001283/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" group-title="Converge",Viva Cinema
+http://136.239.158.18:6410/001/2/ch00000090990000001079/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/y4q1ttt/cinemaworld-2-1.png" group-title="Converge",Cinema World
+http://136.239.158.18:6410/001/2/ch00000090990000001158/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="Converge",Tap Movies
+http://136.239.158.18:6410/001/2/ch00000090990000001304/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/wgjPKFW/IMG-20241029-111906.png" group-title="Converge",Tap Action Flix
+http://136.239.158.18:6410/001/2/ch00000090990000001305/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/KJaSftF.png" group-title="Converge",Tap TV
+http://136.239.158.18:6410/001/2/ch00000090990000001149/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/3YvDUjL.png" group-title="Converge",Tap Edge
+http://136.239.158.18:6410/001/2/ch00000090990000001150/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Converge",TMC
+http://136.239.158.18:6410/001/2/ch00000090990000001080/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="Converge",Celestial Movies Pinoy
+http://136.239.158.18:6410/001/2/ch00000090990000001244/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/4JCkzjl.png" group-title="Converge",Celestial Classic Movies
+http://136.239.158.18:6410/001/2/ch00000090990000001248/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Converge",Cinemax
+http://136.239.158.18:6410/001/2/ch00000090990000001108/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="Converge",HBO
+http://136.239.158.18:6410/001/2/ch00000090990000001065/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/Thrill_logo_2014.png/revision/latest/scale-to-width-down/306?cb=20220502112950&path-prefix=vi" group-title="Converge",THRILL
+http://136.239.158.18:6410/001/2/ch00000090990000001253/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="Converge",Lotus Macao
+http://136.239.158.18:6410/001/2/ch00000090990000001196/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="Converge",Solarflix
+http://136.239.158.18:6410/001/2/ch00000090990000001243/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/0/0b/Jeepney_TV_3D_Logo_2015.png/revision/latest?cb=20230326142526" group-title="Converge",Jeepney TV
+http://136.239.158.18:6410/001/2/ch00000090990000001250/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Converge",AXN
+http://136.239.158.18:6410/001/2/ch00000090990000001182/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="Converge",Lifetime
+http://136.239.158.18:6410/001/2/ch00000090990000001075/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Converge",NBA TV Philippines
+http://136.239.158.18:6410/001/2/ch00000090990000001064/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" group-title="Converge",RPTV
+http://136.239.158.18:6410/001/2/ch00000090990000001094/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="Converge",One Sports
+http://136.239.158.18:6410/001/2/ch00000090990000001083/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Plus_Logo_1920x1080.png" group-title="Converge",Motor Vision+
+http://136.239.158.18:6410/001/2/ch00000090990000001245/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/ZsWDiRF.png" group-title="Converge",Tap Sports
+http://136.239.158.18:6410/001/2/ch00000090990000001151/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GlSP8PX.png" group-title="Converge",Pinoy Xtreme Channel
+http://136.239.158.18:6410/001/2/ch00000090990000001098/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005" group-title="Converge",SolarSports
+http://136.239.158.18:6410/001/2/ch00000090990000001081/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/4/44/Premier_Football_Logo_November_2020.png/revision/latest/scale-to-width-down/250?cb=20220402065521" group-title="Converge",Premier Football
+http://136.239.158.18:6410/001/2/ch00000090990000001127/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="Converge",SPOTV
+http://136.239.158.18:6410/001/2/ch00000090990000001133/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://iili.io/MkG2hg.png" group-title="Converge",SPOTV2
+http://136.239.158.18:6410/001/2/ch00000090990000001200/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="Converge",Premiere Sports
+http://136.239.158.18:6410/001/2/ch00000090990000001135/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/PremierSports2_logo.png/revision/latest/scale-to-width-down/250?cb=20220528091432" group-title="Converge",Premier Sports 2
+http://136.239.158.18:6410/001/2/ch00000090990000001204/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png" group-title="Converge",History
+http://136.239.158.18:6410/001/2/ch00000090990000001074/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Discovery-asia.png/220px-Discovery-asia.png" group-title="Converge",Discovery Asia
+http://136.239.158.18:6410/001/2/ch00000090990000001334/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="Converge",Discovery Channel
+http://136.239.158.18:6410/001/2/ch00000090990000001194/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/O5jBcL2.png" group-title="Converge",Asian Food Network
+http://136.239.158.18:6410/001/2/ch00000090990000001342/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Converge",CGTN Documentary
+http://136.239.158.18:6410/001/2/ch00000090990000001110/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="Converge",Channel News Asia
+http://136.239.158.18:6410/001/2/ch00000090990000001106/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" group-title="Converge",HGTV
+http://136.239.158.18:6410/001/2/ch00000090990000001162/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="http://115.146.176.131/images/14a646307c92e88856903295e6fa0d5c.png" group-title="Converge",Arirang
+http://136.239.158.18:6410/001/2/ch00000090990000001107/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/NHKBS23Horizontal.svg/1200px-NHKBS23Horizontal.svg.png" group-title="Converge",NHK BS
+http://136.239.158.18:6410/001/2/ch00000090990000001214/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png" group-title="Converge",Animal Planet
+http://136.239.158.18:6410/001/2/ch00000090990000001335/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="Converge",Crime & Investigation
+http://136.239.158.18:6410/001/2/ch00000090990000001144/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" group-title="Converge",Al Jazeera
+http://136.239.158.18:6410/001/2/ch00000090990000001343/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="Converge",KBS World
+http://136.239.158.18:6410/001/2/ch00000090990000001353/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="Converge",KIX
+http://136.239.158.18:6410/001/2/ch00000090990000001263/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Zd5zm7C.png" group-title="Converge",Fashion TV
+http://136.239.158.18:6410/001/2/ch00000090990000001102/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://img.cdn.nimg.jp/s/comch/channel-icon/original/ch2613780/7062563.jpg/512x512l_FFFFFFFF?key=cbb987ff9d3219b35c16f7868fbfc3a69b26d82d494d30a83a14721fb60a2e4e" group-title="Converge",KBS Korea
+http://136.239.158.18:6410/001/2/ch00000090990000001246/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHzEmFZaNE5sKGd0-VsgK4zyJms0kvnA_ZIQ&s" group-title="Converge",Xingkong
+http://136.239.158.18:6410/001/2/ch00000090990000001337/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20230829/ourmid/pngtree-gold-color-bs-letter-logo-on-dark-gray-geometric-shape-concept-vector-png-image_9954543.png" group-title="Converge",BS Premium
+http://136.239.158.18:6410/001/2/ch00000090990000001165/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="Converge",TLC
+http://136.239.158.18:6410/001/2/ch00000090990000001181/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="Converge",Warner TV
+http://136.239.158.18:6410/001/2/ch00000090990000001096/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Converge",CNN International
+http://136.239.158.18:6410/001/2/ch00000090990000001073/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/kVVax44.png" group-title="Converge",ABC Australia
+http://136.239.158.18:6410/001/2/ch00000090990000001111/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/HBisPOA.png" group-title="Converge",CCTV4
+http://136.239.158.18:6410/001/2/ch00000090990000001223/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c4/Metro_Channel_White_Logo_2018.png/revision/latest?cb=20210301130321" group-title="Converge",Metro Channel
+http://136.239.158.18:6410/001/2/ch00000090990000001267/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://brandlogos.net/wp-content/uploads/2022/10/usa_today-logo_brandlogos.net_9jygb.png" group-title="Converge",USA Today
+http://136.239.158.18:6410/001/2/ch00000090990000001199/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/deutsche_welle-brandlogo.net_.png" group-title="Converge",DW News
+http://136.239.158.18:6410/001/2/ch00000090990000001166/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="Converge",Fox News
+http://136.239.158.18:6410/001/2/ch00000090990000001105/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="Converge",Euro News
+http://136.239.158.18:6410/001/2/ch00000090990000001336/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://klean.nl/wp-content/uploads/Logo_TV5_Monde_-_2021.svg_.png" group-title="Converge",TV5 Monde
+http://136.239.158.18:6410/001/2/ch00000090990000001156/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Converge",France24
+http://136.239.158.18:6410/001/2/ch00000090990000001157/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-name="Cartoonito Asia" tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/x1wehbs.png" group-title="Converge",Cartoonito
+http://136.239.158.18:6410/001/2/ch00000090990000001125/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Wsj7iPd.png" group-title="Converge",Living Asia Channel
+http://136.239.158.18:6410/001/2/ch00000090990000001154/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-id="617.astro" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/544627ef-b613-4f03-86c9-037e51bd8747/dg81i5p-9a91c59b-1204-45af-bd05-2b80e17ea4b2.png/v1/fill/w_847,h_646/nick_jr__splat_3d_logo_with_2_objects_by_markthenostalgiafan_dg81i5p-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQ2IiwicGF0aCI6IlwvZlwvNTQ0NjI3ZWYtYjYxMy00ZjAzLTg2YzktMDM3ZTUxYmQ4NzQ3XC9kZzgxaTVwLTlhOTFjNTliLTEyMDQtNDVhZi1iZDA1LTJiODBlMTdlYTRiMi5wbmciLCJ3aWR0aCI6Ijw9ODQ3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.QrDR2E_SihXaeqHrYPxnlHesyT1kf2SObY6cdT-jBrY" group-title="Converge",Nick Jr
+http://136.239.158.18:6410/001/2/ch00000090990000001215/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-id="Cartoon Network" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="Converge",Cartoon Network
+http://136.239.158.18:6410/001/2/ch00000090990000001178/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-id="cgtnenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="Converge",CGTN
+http://136.239.158.18:6410/001/2/ch00000090990000001146/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-id="nhk_japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="Converge",NHK World Japan
+http://136.239.158.18:6410/001/2/ch00000090990000001145/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-id="Spot" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/3/32/Spotlight.png" group-title="Converge",Spotlight TV
+http://136.239.158.18:6410/001/2/ch00000090990000001134/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/WL2ugeZ.png" group-title="Converge",SMNI Channel
+http://136.239.158.18:6410/001/2/ch00000090990000001155/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png" group-title="Converge",Global Trekker
+http://136.239.158.18:6410/001/2/ch00000090990000001203/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkvWEPQltk-Xq-ixCjPdOGxoqgIlMsc095A&s" group-title="Converge",Light TV
+http://136.239.158.18:6410/001/2/ch00000090990000001103/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://jioswm.org/assets/ministries/onh-730979c3f694e6ba49c8fc43562e04e72f002697bf08e5c8854f3b71aac56676.png" group-title="Converge",Oras Ng Himala
+http://136.239.158.18:6410/001/2/ch00000090990000001175/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/INCTV_Logo_With_Shadow.webp/1043px-INCTV_Logo_With_Shadow.webp.png" group-title="Converge",INC TV
+http://136.239.158.18:6410/001/2/ch00000090990000001092/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://3abn.org/img/logos/3abn-logo-md.jpg" group-title="Converge",3ABN
+http://136.239.158.18:6410/001/2/ch00000090990000001183/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8NjV5sqkKOgSpV7-Nj5Dd0KHMVhrtW6ukg&s" group-title="Converge",EWTN
+http://136.239.158.18:6410/001/2/ch00000090990000001104/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
 
 **********World-TV**********
  
@@ -2193,6 +2496,25 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/ABC_Big_Kids_new.svg/revision/latest/scale-to-width-down/200?cb=20240602233413" group-title="World TV",ABC Big Kids
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4003d17d5a17a8/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name"HBO 2" tvg-logo="https://www.fulltv.com.ar/images/tv/hbo-2-3061.png" group-title="World TV", HBO 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8c6a262b77b153530a6caaf2e07944a:81071cf5808c0387adab93d8ff9b1f09
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="World TV",SONY MAX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
+https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" group-title="World TV",SONY PIX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name"Nitro Circus TV" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.2_LM6Az8EzabbUO1ma9IsAAAAA?pid=Api&P=0&h=180" group-title="World TV", Nitro Circus TV
+https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist720p.m3u8
 
 ########### FM Radio #################
 
