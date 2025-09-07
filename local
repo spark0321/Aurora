@@ -1581,6 +1581,16 @@ http://136.239.158.18:6410/001/2/ch00000090990000001104/manifest.mpd?JITPDRMType
 
 #EXTINF:-1 group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg"
 
+#EXTINF:-1 tvg-id="" tvg-name"HBOHD" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.i4KrlkFIyyOAKde4bgdAugAAAA?pid=Api&P=0" group-title="World TV", HBOHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name"HBO Family" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.UvFuR6v25txkbVyAQ6eksAAAAA?pid=Api&P=0" group-title="World TV", HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/3/3/cnn-international-logo-png_seeklogo-32708.png" group-title="World TV", CNN MAX FHD | AMZN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e83ba738e92cb13e764e14494641d0a7:9e49c0e4f83d9dac550026653c9eeecb
