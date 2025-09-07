@@ -6,6 +6,11 @@
 
 #EXTINF:-1 group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMESLoQEXw3EdeqyBqXoXURZe_5bBpPThP-6c9hdIarEH2RD5A_aem_bwCjbjg5M0372sYj8YRTjg"
 
+#EXTINF:-1 tvg-id="" tvg-name"Disney+" tvg-logo="" group-title="World TV", Disney+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f873dc6412b11edb8780242ac120002:7511efa4f5f1f82fe61776ba3b49fc10
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ppvhd298.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/52zEejy.png" group-title="CIGNAL",Al Jazeera
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f3d900a04d84492b31fe9f79ac614e3:d33ff14f50beac42969385583294b8f2
@@ -1284,7 +1289,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001287/manifest.mpd?JITPDRMType=Wi
 http://161.49.17.2:6610/001/2/ch00000090990000001328/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 ********** Converge **********
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTDuu46cAy2TcG12e3qivppEG1i5nSyRkTt&s"
+#EXTINF:-1 group-logo="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ewggvrliez68qby3o4rk"
 
 #EXTINF:-1  tvg-id="Kapamilya Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Converge",Kapamilya Channel
 http://136.239.158.18:6410/001/2/ch00000090990000001248/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -1596,67 +1601,50 @@ http://136.239.158.18:6410/001/2/ch00000090990000001104/manifest.mpd?JITPDRMType
 #KODIPROP:inputstream.adaptive.license_key=e83ba738e92cb13e764e14494641d0a7:9e49c0e4f83d9dac550026653c9eeecb
 https://otte-netskrt.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/lfboh9f8fh/out/v1/0c50ed44bc074cefa95d7ed4bd3bb793/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.PGDmxWRWck-P0ESmHfv-hAAAAA?pid=Api&P=0" group-title="World TV", Fox Sports 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte-netskrt.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
-
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.KpuKvEsg-rrsABZcxPRavAAAAA?pid=Api&P=0" group-title="World TV", Fox Sports 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://abemiifaaaaaaaampuxhuaqafcujo.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fxmuvc0wly/out/v1/4d6f0017354d48d2aa2929e745748056/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.co0Dv-PBKq-VGSrwD-ztGgAAAA?pid=Api&h=220&P=0" group-title="World TV", Fox News Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9bf1cd050850bd473e001624d8592a8:6fe34ffe147bfd3fa523840b33adb8cb
 https://otte-netskrt.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/e1kazxucdb/out/v1/eb73c9c0f7ea49659a04f33c18297bcf/cenc.mpd
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.Nkn5Z8TUVHF5L6HYsX4y0wAAAA?pid=Api&P=0" group-title="World TV", West Dakota Fox News Nine
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=710ae44bc9c140ed9ded9c5fc6281fbe:27e73198c78d595a4636299c970b2280
 https://abemiifaaaaaaaamoj65lhd5yh2io.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1dflrytam/out/v1/6aad0e7804634725a2f4b65ce1f120d3/cenc.mpd
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.kkXA7gzy_kc21ZVXnxAZnAAAAA?pid=Api&P=0" group-title="World TV", Fox Business
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79927557448f87c7a520778e47e1028b:b1ee3bf5347bfcaade6aa82cd8cdb12d
 https://otte-netskrt.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/sb6hjgpnqd/out/v1/6804abbf83904217b3857f03f80453c2/cenc.mpd
-
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="World TV", Fox Weather
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f86dc0f35857f4e29d1a10438142f05:ad9aa944cfc8e18c6144045245da0c59
 https://abemiifaaaaaaaamdhxhfl6zrqyyz.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2izbpbtply/out/v1/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/cenc.mpd
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.ByEwQwDSkM5I3jyTPAlCAAHaHa?pid=Api&P=0&h=180" group-title="World TV", B1G Network
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49858d73a482019bebef5083d94fad1e:9721388d0696dc0b545a7469c4040e1b
 https://abemiifaaaaaaaamdpyk3lhz75kvc.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n4okiwjwue/out/v1/72963a261352464085f2856db070053e/cenc.mpd
-
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.j7QLenOSUvuU2iJ204Si1AAAAA?pid=Api&P=0&h=180" group-title="World TV", Fox Deportes
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte-netskrt.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/hm5nmxzgr4/out/v1/21aca259874c427c9ef9dc808b46f50f/cenc.mpd
 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.98UAdlRPH7OX4-VQ9dGsfwAAAA?pid=Api&P=0&h=180" group-title="World TV", Fox Live Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dee36b534bfe5b1d4398888338457b:7ba62fa8ddfcf279d52230c4a3507add
 https://abemiifaaaaaaaambny6uoevgxe27.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u1zbm8kpzb/out/v1/225ab71b23b94c678b601e95e806e089/cenc.mpd
-
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.iBeCAyarzXIQSWSsSdpRPwAAAA?pid=Api&P=0&h=180" group-title="World TV", Fox Soul
@@ -1815,6 +1803,10 @@ https://bit.ly/42sWhyD?/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://bit.ly/3B1M54o?/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name"Boomerang US" tvg-logo="" group-title="World TV", Boomerang US
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5:92f495d531f1a463ed45a0ef20d0298f
+https://mc-kuu18fqa9t.bunny.run/test/dopamine/manifest.mpd
 
 #EXTINF:-1 tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20240924T011033SQUARE.png" group-title="World TV",Vevo Retro Rock
 #KODIPROP:contentlookup=False
@@ -1988,8 +1980,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
-
-
 
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png",AXN HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
