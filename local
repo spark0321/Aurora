@@ -6,7 +6,7 @@
 
 #EXTINF:-1 group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMESLoQEXw3EdeqyBqXoXURZe_5bBpPThP-6c9hdIarEH2RD5A_aem_bwCjbjg5M0372sYj8YRTjg"
 
-#EXTINF:-1 tvg-id="" tvg-name"Disney+" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.6Y1b2kRdrZH9jEx56MAZ6gAAAA?pid=Api&P=0" group-title="World TV", Disney+
+#EXTINF:-1 tvg-id="" tvg-name"Disney+" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.6Y1b2kRdrZH9jEx56MAZ6gAAAA?pid=Api&P=0" group-title="CIGNAL", Disney+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f873dc6412b11edb8780242ac120002:7511efa4f5f1f82fe61776ba3b49fc10
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ppvhd298.mpd
