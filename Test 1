@@ -1,293 +1,150 @@
 #EXTM3U
-#EXTINF:-1  group-title="International"tvg-logo="",BBC
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",CNN
-https://jmp2.uk/sam-GBBD8000016N.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",ABC News Live
-https://jmp2.uk/sam-USBC39000171G.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",AlJazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",CBS News
-http://fl3.moveonjoy.com/CBS_News/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",CTV News
-https://jmp2.uk/sam-CA1400004AE.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",CBC News
-https://jmp2.uk/sam-USBC4400003OU.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Sky News
-https://jmp2.uk/sam-USBB52000022Q.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",GB News
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",France 24
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",RTE News
-http://fortv.cc:8080/q8KuDU/354945/79108
-#EXTINF:-1  group-title="International"tvg-logo="",Arirang TV
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",TalkTV
-https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",CNBC
-http://fl5.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",NBC News Now
-https://jmp2.uk/sam-GBBB1500004LG.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",FOX5
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",ESPN News
-http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",LiveNow from Fox
-https://livetv-fa.tubi.video/fox-live-now/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",ABC Australia
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",NewsNation
-http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",NHK World
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Taiwan Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",FOX Soul
-http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Wion News
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",NEWSMAX2
-https://jmp2.uk/sam-USBA300028QU.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",RT News
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Fashion TV
-http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Start TV
-http://fl3.moveonjoy.com/Start_Tv/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",TCM
-http://fl1.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",FYI
-http://fl3.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Travel XP
-https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Xplore TV
-https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",MovieSphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",AMC
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Aspire
-http://143.244.60.30/Aspire/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Bounce
-http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Buzzr
-http://fl3.moveonjoy.com/Buzzr/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",CMT
-http://fl3.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Comedy Central
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",COMET
-http://fl3.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",COZI TV
-http://fl3.moveonjoy.com/COZI_TV/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",ION Plus
-https://fl3.moveonjoy.com/ION_Plus/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",ION
-http://143.244.60.30/ION_TV/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Discovery Channel
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Lifetime
-http://143.244.60.30/LIFETIME/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Sony Movie
-http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",LoveStories
-https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",VH1
-http://fl3.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",GoUSA TV
-https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Showtime
-http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Bravo
-http://fl3.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",BET
-http://fl3.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",TV One
-http://fl3.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",CMTV
-https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Nat Geo Wild
-http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",BBC America
-http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Disney Junior
-http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Nick Jr.
-http://fl3.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Disney Channel
-http://fl5.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",DISCOVERY LIFE
-http://143.244.60.30/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",DISNEY XD
-http://143.244.60.30/DISNEY_XD/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",HBO
-http://143.244.60.30/HBO/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",HBO Family
-http://143.244.60.30/HBO_FAMILY/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",HBO Zone
-http://143.244.60.30/HBO_ZONE/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",HBO Stream
-http://143.244.60.30/HBO_2/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",National Geographic
-http://143.244.60.30/National_Geographic/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",ESPN 2
-http://143.244.60.30/ESPN_2/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",OuterMax
-http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",FXM
-http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Outdoor Channel
-http://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Starz
-http://fl3.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",FXX
-http://fl3.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",SYFY
-http://fl3.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Smithsonian
-http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Oxygen East
-http://fl3.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",ACCN
-http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1  group-title="International",Tastemade
-https://tastemade-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",World Poker Tour
-https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",MSG
-http://fl3.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Wild TV
-https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Cartoon Network
-http://143.244.60.30/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Animal Planet
-http://143.244.60.30/Animal_Planet/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",DIY
-http://143.244.60.30/DIY/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Fuse
-http://fl3.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",LMN
-http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Mytime
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",GRIT TV
-http://143.244.60.30/GRIT_TV/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Hallmark
-http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",FoxBusiness
-http://41.205.93.154/FOXBUSINESS/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Cooking
-http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",MGM+East
-https://fl3.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",MGM+Marquee
-https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Destination America
-http://143.244.60.30/Destination_America/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Discovery Science
-http://143.244.60.30/Discovery_Science/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",HGTV
-http://143.244.60.30/HGTV/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",INSP TV
-http://143.244.60.30/INSP/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",MTV
-http://143.244.60.30/MTV/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",MTV Live
-http://143.244.60.30/MTV_LIVE/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",NickToons
-http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Kidoodle.TV
-https://jmp2.uk/sam-CAAJ34000122Z.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Animation+
-https://jmp2.uk/sam-CA400003FQ.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",BBC Kids
-https://jmp2.uk/sam-US800003JM.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Oprah Winfrey Network
-http://143.244.60.30/OWN/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",OUTSIDE TV
-http://143.244.60.30/OUTSIDE_TV/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Oxygen
-http://143.244.60.30/OXYGEN/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Paramount Network
-http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Starz Comedy
-http://143.244.60.30/STARZ_COMEDY/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Starz Edge
-http://143.244.60.30/STARZ_EDGE/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Starz Encore Action
-http://143.244.60.30/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Vice
-http://143.244.60.30/VICELAND/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",WGN
-http://143.244.60.30/WGN/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",NHL Network
-http://143.244.60.30/NHL_NETWORK/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",MLB Network
-http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Sportsman Channel
-http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",ESPN U
-http://fl3.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",SportsNet New York
-http://fl3.moveonjoy.com/SNY/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",FOX Sports
-https://jmp2.uk/sam-US2700001QY.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",NBC Sports
-https://jmp2.uk/sam-USBD420002446.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",SportsGrid
-https://jmp2.uk/sam-USBA300031OT.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",BEIN Sports
-http://143.244.60.30/BEIN_SPORTS/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",BEIN Sports Xtra
-https://jmp2.uk/sam-CABA8000043F.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",CBS Sports
-http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Pac-12 Insider
-https://pac12-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",NBA TV
-http://fl5.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",FIFA+
-https://jmp2.uk/sam-CABD1200008JG.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Tennis Channel
-http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Tennis Channel
-http://143.244.60.30/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",ACC Network
-http://143.244.60.30/ACC_NETWORK/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Crave 2
-http://fl3.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Crave 4
-http://fl3.moveonjoy.com/CRAVE_4/index.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Bloomberg TV
-https://jmp2.uk/sam-INBA5100021WP.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Bloomberg Originals
-https://jmp2.uk/sam-INBA5100022O4.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",GoUSA TV
-https://jmp2.uk/sam-INBA5100025YE.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",MBC
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Korea TV
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",TBS Seoul
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Gugak TV
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Ted Talks
-https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Kids TV
-https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Pulse
-https://lightning-pulse-xiaomi.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="International"tvg-logo="",Sky Sports F1
-http://fortv.cc:8080/q8KuDU/354945/53704
+
+
+
+#EXTINF:-1 tvg-id="Outdoor.Channel.US.us" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/outdoor_channel_hd-mediano.png" group-title="World TV",Outdoor
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTV.id" tvg-logo="https://images.seeklogo.com/logo-png/35/3/fashion-tv-logo-png_seeklogo-354473.png" group-title="World TV",Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="World TV" tvg-id="Sporty.Stuff.TV.Dummy.us" tvg-logo="https://tvtolive.com/wp-content/uploads/Red-Bull-TV-tvtolive.com_.jpg",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="NOW.80s.uk" group-title="World TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png",NOW 80
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Now.Rock.uk" group-title="World TV" tvg-logo="https://archive.org/services/img/now-rock_202309",NOW Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USBD300011KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20240910T003722SQUARE.png" group-title="World TV",Vevo '70s
+https://dlpg8tl1ugdoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u38d4zi2bpmec/Vevo_70s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD300011KQ
+
+#EXTINF:-1 tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20240910T003724SQUARE.png" group-title="World TV",Vevo '80s
+https://d17i214xp3vw8a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5vjb8mjxp73gd/Vevo_80s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD300012YC
+
+#EXTINF:-1 tvg-id="USBD3000133M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20240910T003727SQUARE.png" group-title="World TV",Vevo '90s
+https://d321u5fu9qef79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yinfe6h5dj8i1/Vevo_90s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000133M
+
+#EXTINF:-1 tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240910T003711SQUARE.png" group-title="World TV",Vevo 2010s
+https://d1td33xo32wcw8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eriheq1pngmtd/Vevo_2010s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD120002431
+
+#EXTINF:-1 tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20240910T003709SQUARE.png" group-title="World TV",Vevo 2K
+https://d4dkvp1ga8v8z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkvocv263tp96/Vevo_2K.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB4400015F5
+
+#EXTINF:-1 tvg-id="USBC3600001RQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20240910T003714SQUARE.png" group-title="World TV",Vevo Country
+https://d3u2u3qzvtw7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-apxt8ie33sx6d/Vevo_Country.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600001RQ
+
+#EXTINF:-1 tvg-id="USBC3600002EK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20240910T003717SQUARE.png" group-title="World TV",Vevo Hip-Hop
+https://d14y8035xivxd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-46idq7bdmcbwf/Vevo_Hip_Hop.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600002EK
+
+#EXTINF:-1 tvg-id="USBD1200008GL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20241105T024425SQUARE.png" group-title="World TV",Vevo Holiday
+https://d1ze674i4apj8g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dnsrl2co4rjn8/Vevo_Features.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD1200008GL
+
+#EXTINF:-1 tvg-id="USBC3600015GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20240910T003719SQUARE.png" group-title="World TV",Vevo Latino
+https://d1ylrwzh4ekdq4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2v53vq46l9e0c/Vevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600015GF
+
+#EXTINF:-1 tvg-id="USBC3600008WY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20240924T011028SQUARE.png" group-title="World TV",Vevo Pop
+https://d33yiufuiyic30.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f94huxetzks7d/Vevo_Pop.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600008WY
+
+#EXTINF:-1 tvg-id="USBC3900009K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20240924T011030SQUARE.png" group-title="World TV",Vevo R&B
+https://d3cu9t0v0j3v7r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-irsyy4yjtdieo/Vevo_R_B.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3900009K5
+
+#EXTINF:-1 tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20240924T011033SQUARE.png" group-title="World TV",Vevo Retro Rock
+https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
+
+#EXTINF:-1 tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20241014T232231SQUARE.png" group-title="World TV",NEW KPOP
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+
+
+#EXTINF:-1 tvg-id="Euronews.id" group-title="World TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Euronews_logo_(1997-1998).svg/180px-Euronews_logo_(1997-1998).svg.png",Euronews
+#KODIPROP:inputstream.adaptive.common_headers=referrer=https://www.indihometv.com/&user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="Studio Universal.id" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.9LTf9bD3fbu-1SF3r3z5hwAAAA&pid=Api&P=0&h=180" group-title="World TV" ,Studio Universal
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="CartoonNetwork.id" tvg-name="Cartoon Network" tvg-logo="https://iili.io/JmoBj8g.png" group-title="World TV", Cartoon Network
+https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS" tvg-logo="https://iili.io/JZICHR2.png" group-title="World TV", HITS
+https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="HITSNow.id" tvg-name="HITS NOW" tvg-logo="https://iili.io/JZICFVe.png" group-title="World TV", HITS Now
+https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
+#EXTINF:-1 tvg-id="Lifetime.id" tvg-name="Lifetime" tvg-logo="https://iili.io/JZICdD7.png" group-title="World TV", LifeTime
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemeshield1-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="SONY MAX.in" tvg-name="SONY MAX.in" tvg-logo="https://i.imgur.com/Z2zlXcs.png?v=1.0.0.1" group-title="World TV", Sony MAX
+https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="BBCWorldNews.id" tvg-name="BBC World News" tvg-logo="https://cdn4.mbahnunungonline.net/img/eHrjMov.png?v=1.0.0.1" group-title="World TV", BBC World News
+https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be6910ec53584120aa213203e8e2bd25:43239ebdca1b277d92221628db79c791
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW (English)" tvg-logo="https://iili.io/Jhksu87.png" group-title="World TV", DW English
+https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mpd/DwEnglishHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a94d7dbc775546ae8a7363800a64586c:6ede954c196e997735076255147c80aa
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Euronews.id" tvg-name="Euronews" tvg-logo="https://iili.io/JhksR99.png" group-title="World TV", Euronews
+https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mpd/EURONEWS.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="France24English.fr.id" tvg-name="France 24 English" tvg-logo="https://iili.io/Jhks5ue.png" group-title="World TV", France 24 English
+https://atemeshield1-voe.sysln.id/live/eds/France24/mpd/France24.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="" tvg-name="Jakarta GlobeNews" tvg-logo="https://pictr.com/images/2025/01/14/x19jen.png" group-title="World TV", Jakarta GlobeNews
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp.id" tvg-name="NHK World Japan" tvg-logo="https://iili.io/Jhks7wu.png" group-title="World TV", NHK World Japan
+https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
+
