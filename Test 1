@@ -1,57 +1,55 @@
 #EXTM3U
 
+#EXTINF:-1 group-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0014/3559/brand.gif?itok=mFL_U_yi"
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="GALAXY.id"tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="World TV", Galaxy
-https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="FILM4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" video-track="" group-title="UK",FILM4
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Uniques.id"tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="World TV", Uniques
-https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Originals.id"tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/TheOriginalsLogo.png/220px-TheOriginalsLogo.png" group-title="World TV", Originals
-https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="MORE4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/More4_2005.svg/revision/latest/scale-to-width-down/180?cb=20190815150227"  group-title="UK",MORE4
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="CineEdge.id"tvg-logo="https://www.lyngsat.com/logo/tv/cc/cineedge-uk.png" group-title="World TV", CineEdge
-https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 5" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.-x2Ci9agBRhy3BBhwH97JwAAAA?pid=Api&P=0&h=180"  group-title="UK",CHANNEL 5
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Superrix.id"tvg-logo="https://www.lyngsat.com/logo/tv/ss/superrix-uk.png" group-title="World TV", Superrix
-https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="https://www.antoniogenna.net/doppiaggio/paramountchannel.jpg"  group-title="UK", PARAMOUNT
+https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
 
-#EXTINF:-1  tvg-id="" tvg-name="Bizaare Foods" tvg-logo="" group-title="World TV",Bizaare Foods
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="OOEBc2vO582r1RBQ8i9iiA","k":"-OoT0DvRQPbytrfhMgJFNw"
-https://a34aivottlinear-a.akamaihd..../v1/d6973d90414c4b16abd73a167db13aaa/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="FOODNETWORK" tvg-logo="https://foodnetwork.co.uk/images/logo.png"  group-title="UK", FOODNETWORK
+https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-dash/foodnetwork.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-name="Studio Universal" tvg-logo="" group-title="World TV", Studio Universal
-https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://assets.emagazines.com/appIcon192x192_bloomberg_app_icon.png"  group-title="UK", BLOOMBERG
+https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="BuddyStar.id" tvg-name="Buddy Star" tvg-logo="" group-title="World TV", Buddy Star
-https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://images.seeklogo.com/logo-png/5/3/fashion-tv-logo-png_seeklogo-52179.png"  group-title="UK",FASHION TV
+https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-dash/fashiontv.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.U69ZkUHy8ShrJinKjvmMzAAAAA?pid=Api&P=0&h=180"  group-title="UK", CNBC
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-dash/cnbc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo-140x79.png"  group-title="UK", ALJAZEERA
+https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-dash/aljazeera.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.xDVZN-pgP8hXKaWI6xvaywAAAA?pid=Api&P=0&h=180"  group-title="UK", CNN
+https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="SKYNEWS" tvg-logo="https://images.seeklogo.com/logo-png/40/3/sky-news-2021-logo-png_seeklogo-405340.png?v=1957136085670530976"  group-title="UK", SKYNEWS
+https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ITV4" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.Iu9ebj9aPzfCCtAOacNJnAAAAA?pid=Api&P=0&h=180"  group-title="UK", ITV4
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ITV3" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/f/f6/ITV3_logo_2013.svg/revision/latest/scale-to-width-down/150?cb=20130113225717"  group-title="UK", ITV3
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ITV2" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012013/itv_2.png?itok=qmuIrVzV"  group-title="UK", ITV2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ITV1" tvg-logo="https://kids.kiddle.co/images/thumb/3/34/ITV1_logo_2004.png/120px-ITV1_logo_2004.png"  group-title="UK", ITV1
+https://viamotionhsi.netplus.ch/live/eds/itv1/browser-dash/itv1.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/BBC_2_Holding_Slide_logo_1976-83.svg/revision/latest/scale-to-width-down/150?cb=20170315200129"  group-title="UK", BBC2
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC3CBBC" tvg-logo="https://images.seeklogo.com/logo-png/46/3/cbbc-2022-logo-png_seeklogo-464428.png"  group-title="UK", BBC3CBBC
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
