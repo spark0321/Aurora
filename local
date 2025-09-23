@@ -2833,7 +2833,6 @@ https://abk4walaaaaaaaammfunm6hcbgl47.ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live
 #KODIPROP:inputstream.adaptive.license_key=ae26273dbafa57c2bba0452d4c07b5a5:dad9a8ee826d28e1474cc9d143a1a56d
 https://abk4walaaaaaaaampoj36ilkuoemv.ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bhtgvkrvf8/out/v1/a8175296fbfa4d3aafcc98f333b2d552/cenc.mpd
 
-
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png",Love Nature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2842,8 +2841,8 @@ https://abk4walaaaaaaaampoj36ilkuoemv.ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
 
-  
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://logo.iptveditor.com/tlc.png" ,TLC
+ 
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.bMK6rpjazBOVzpA7i255xwAAAA?pid=Api&h=220&P=0" ,TLC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2873,6 +2872,11 @@ https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live
 #KODIPROP:key={"0c6ca94e4d9cdcb8eb387e659ba00834":"0565f7a65c76833908647b4a4c382d26"}
 https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd
 
+#EXTINF:-1  tvg-id="Amazon.US.StarzKidsAndFamilyHDEast" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/starz_kf._SL170_FMpng_.png" group-title="World TV",Starz Kids & Family HD East
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e799d091a775e320fe991ac1157e54c:3905edab045510aa8e16a036dfdcbad4
+https://abexsiiaaaaaaaamnprvn62bpf5ka.ottb.live.cf.ww.aiv-cdn.net/IAD/clients/dash/enc/kwj9ebjr2v/out/v1/e4240c0b0310427fa7c04bbece7689f4/cenc.mpd
+
 #EXTINF:-1 tvg-id="Outdoor.Channel.US.us" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/outdoor_channel_hd-mediano.png" group-title="World TV",Outdoor
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -2891,7 +2895,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 #KODIPROP:inputstream=inputstream.adaptive
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="World TV" tvg-id="Sporty.Stuff.TV.Dummy.us" tvg-logo="https://tvtolive.com/wp-content/uploads/Red-Bull-TV-tvtolive.com_.jpg",Redbull TV
+#EXTINF:-1 group-title="World TV" tvg-id="Sporty.Stuff.TV.Dummy.us" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.jQ-8TiqUzkcQdfElcM_-aAAAAA?pid=Api&h=220&P=0",Redbull TV
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
