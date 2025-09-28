@@ -1701,12 +1701,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/9995100/hls/playlist.m3u8?ads.xumo_ch
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991681
 #EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.bYcHhK5HluWqygURul6HWQAAAA?pid=Api&P=0" group-title="World TV:Reality",Xumo Reality TV
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991364
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.IuRxo2LOXQkptb7ovF-2cQAAAA?pid=Api&P=0&h=220" group-title="World TV:Movies",SONY PIX HD Airtel
-http://89.187.189.98/SONYPIXHD/index.m3u8
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.qZsz4V39SQjYV_mGfwxKfgAAAA?pid=Api&P=0&h=220" group-title="World TV:Movies",STARMOVIES SELECT HD
-http://89.187.189.98/STARMOVIESSELECTHD/index.m3u8
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.8-eomJYFQwjgP8XLaD-8AAAAAA?pid=Api&P=0&h=220" group-title="World TV:Movies",STARMOVIES HD
-http://89.187.189.98/STARMOVIESHD/index.m3u8
+
 
 
 ########### FM Radio #################
