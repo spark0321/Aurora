@@ -1581,6 +1581,12 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/mml
 #KODIPROP:key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name"" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.FVTEsy-SUc-AZNI6jmAEugAAAA?pid=Api&h=220&P=0" group-title="World TV:Entertainment", GMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
+https://vod.nathcreqtives.com/1093/manifest.mpd
+
+
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.y9sr0FWDeV-A0k3O_ibFfwAAAA?pid=Api&P=0&h=220" group-title="World TV:Music",MTV
 https://ottnav.jiwonxo00.workers.dev/MTV.m3u8
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.fNCi_vblVJ2jwdD74SZt0AAAAA?pid=Api&P=0&h=220" group-title="World TV:Music",MUSIC JAPAN TV
