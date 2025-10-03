@@ -1098,21 +1098,18 @@ http://136.239.158.18:6410/001/2/ch00000090990000001104/manifest.mpd?JITPDRMType
 #KODIPROP:inputstream.adaptive.license_key=e83ba738e92cb13e764e14494641d0a7:9e49c0e4f83d9dac550026653c9eeecb
 #KODIPROP:key=e83ba738e92cb13e764e14494641d0a7:9e49c0e4f83d9dac550026653c9eeecb
 https://otte-netskrt.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/lfboh9f8fh/out/v1/0c50ed44bc074cefa95d7ed4bd3bb793/cenc.mpd
-
 #EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.ByEwQwDSkM5I3jyTPAlCAAHaHa?pid=Api&P=0&h=180" group-title="World TV:Sports",B1G Network
 #KODIPROP:inputstream=49858d73a482019bebef5083d94fad1e:9721388d0696dc0b545a7469c4040e1b
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49858d73a482019bebef5083d94fad1e:9721388d0696dc0b545a7469c4040e1b
 #KODIPROP:key=49858d73a482019bebef5083d94fad1e:9721388d0696dc0b545a7469c4040e1b
 https://abemiifaaaaaaaamdpyk3lhz75kvc.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n4okiwjwue/out/v1/72963a261352464085f2856db070053e/cenc.mpd
-
 #EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th/id/OIP.PGDmxWRWck-P0ESmHfv-hAAAAA?pid=Api&P=0" group-title="World TV:Sports",Fox Sports 1
 #KODIPROP:inputstream=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 #KODIPROP:key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte-netskrt.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
-
 #EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th/id/OIP.KpuKvEsg-rrsABZcxPRavAAAAA?pid=Api&P=0" group-title="World TV:Sports",Fox Sports 2
 #KODIPROP:inputstream=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1248,7 +1245,7 @@ https://live-atv-cdn.izzigo.tv/4/out/u/dash/TEENNICKHD/default.mpd
 #KODIPROP:key={"002007110c69a23803173b50eab05f23":"590d6e8f4ca81319f9bb29104f571990"}
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master.mpd
 #EXTINF:-1  tvg-id="ESPN HD.uy" tvg-logo="https://i.postimg.cc/v8rFtMbz/espn.png" group-title="World TV:Sports",ESPN
-#EXTVLCOPT:http-user-agent.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1257,7 +1254,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy
 #KODIPROP:key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 #EXTINF:-1  tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.postimg.cc/mksxWpNC/espn2-logo-white.png" group-title="World TV:Sports",ESPN 2
-#EXTVLCOPT:http-user-agent.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1266,7 +1263,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 #EXTINF:-1  tvg-id="ESPN 3 HD.uy" tvg-logo="https://i.postimg.cc/1t6xT16y/ESPN3.png" group-title="World TV:Sports",ESPN 3
-#EXTVLCOPT:http-user-agent.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1275,7 +1272,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 #EXTINF:-1  tvg-id="ESPN 4 HD.uy" tvg-logo="https://i.postimg.cc/BvR9Mnjh/ESPN_Extra_new.png" group-title="World TV:Sports",ESPN 4
-#EXTVLCOPT:http-user-agent.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1284,7 +1281,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 #EXTINF:-1  tvg-id="ESPN 5 HD.uy" tvg-logo="https://i.postimg.cc/pdJDJ3xS/espn5.png" group-title="World TV:Sports",ESPN 5
-#EXTVLCOPT:http-user-agent.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1293,7 +1290,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:key=4509cc12887f5d8402cc9c0025ecdd52:2344766901410ed6306e445a9c43249e
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 #EXTINF:-1  tvg-id="ESPN 6 HD.uy" tvg-logo="https://i.postimg.cc/DfL7phRm/espn6.png" group-title="World TV:Sports",ESPN 6
-#EXTVLCOPT:http-user-agent.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1302,7 +1299,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 #EXTINF:-1  tvg-id="ESPN 7 HD.uy" tvg-logo="https://i.postimg.cc/gJ0GB6FW/espn7.png" group-title="World TV:Sports",ESPN 7
-#EXTVLCOPT:http-user-agent.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1425,45 +1422,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc124p21qf
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
 #KODIPROP:key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.5JR6gryI4p8DDWghirs7JAAAAA?pid=Api&h=220&P=0" group-title="World TV:Movie", UNIVERSAL_CINEMA_HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66ee81febe768875ae2fee5b8f512e15:54882694734874f280259fb8b6766ab3
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CINEMA_HD)/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.86ZK2OpLid59-HODXOvtYwAAAA?pid=Api&P=0" group-title="World TV:Comedy", UNIVERSAL_COMEDY_HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a778fbd54a4b2285cea8d44c514a2fd:d9befb259f2523d17dd5f7ae5ba2dd74
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_COMEDY_HD)/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.uC8ULYN2JbMWE5f_5wp18AAAAA?pid=Api&P=0" group-title="World TV:Documentary", UNIVERSAL_CRIME_HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dd87aca2d338122cbd283bdd3a0f7502:2bd42314bdcf4028eeb25fcf61b7b6e3
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CRIME_HD)/manifest.mpd
-dd87aca2d338122cbd283bdd3a0f7502:2bd42314bdcf4028eeb25fcf61b7b6e3
-
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-logo="" group-title="World TV:Enertainment", UNIVERSAL_CHANNEL_HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96388f9c9cbc73d4256a97974f9a2aef:c2cd19c2e73c8b7d6c384ba745161444
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CHANNEL_HD)/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.QwlYD6IHr3yimLe7zm6rkgAAAA?pid=Api&h=220&P=0" group-title="World TV:Movies", UNIVERSAL_PREMIER_HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d01c9488e528697a9cd8ebe35b067729:abb4d0aff05248ae5e53d3e8454671d6
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_PREMIER_HD)/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.P3jT0SlBXLGRPLum56295QAAAA?pid=Api&P=0" group-title="World TV:Reality", UNIVERSAL_REALITY_HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aeced86dd6c5ecf4f39cd193109f39f7:afcb5b67f584f2eeb1783474644a9f8e
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_REALITY_HD)/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.1XErpfZgFyZx4Gpsh67dawAAAA?pid=Api&h=220&P=0" group-title="World TV:Movies", Miramax Movie Channel
-https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
-
-
 #EXTINF:-1  tvg-name="PetClub HD" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.G_GFW_8PzH8Wh8AxR8OQFQAAAA?pid=Api&P=0&h=220" group-title="World TV:Infotainment",Pet Club TV HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 #EXTINF:-1  tvg-id="TRACE Urban" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.t6D9v1KuZRumeIofvJXEqgAAAA?pid=Api&P=0&h=220" group-title="World TV:Music",TRACE Urban HD
@@ -1686,14 +1644,14 @@ https://live-crave.video.9c9media.com/c5875a31f178e038f7cc572b1aa0defb996ce71717
 #KODIPROP:key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
 https://abbfefcaaaaaaaamd5xd44ij4vbyj.a17d0dfbc05b48999f461f3f6cff0eb6.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 #EXTINF:-1  tvg-id="TSN 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="World TV:Sports",TSN 1
-#EXTVLCOPT:http-user-agent.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTVLCOPT:http-user-agent0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
 #KODIPROP:key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
 #EXTINF:-1  tvg-id="TSN 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="World TV:Sports",TSN 2
-#EXTVLCOPT:http-user-agent.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTVLCOPT:http-user-agent0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
@@ -1711,20 +1669,56 @@ https://live-atv-cdn.izzigo.tv/4/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=086b401b6a619cdb0e61b2973d315d5a:c3360a5e54c649244b9776f21b9b9384
 #KODIPROP:key=086b401b6a619cdb0e61b2973d315d5a:c3360a5e54c649244b9776f21b9b9384
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/mmlfd2azxy/out/v1/bf22ff4619cf47098a6d5afb25d1dc7c/cenc.mpd
-
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.a-PnC_5fO04_LwJa6RXgtwAAAA?pid=Api&P=0" group-title="World TV:Movies",Korean Drama SD
 #KODIPROP:inputstream=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
 #KODIPROP:key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.FVTEsy-SUc-AZNI6jmAEugAAAA?pid=Api&h=220&P=0" group-title="World TV:Entertainment", GMA
+#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.FVTEsy-SUc-AZNI6jmAEugAAAA?pid=Api&h=220&P=0" group-title="World TV:Entertainment",GMA
+#KODIPROP:inputstream=31363231383438333031323033393138:38694e34324d543478316b7455753437
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
+#KODIPROP:key=31363231383438333031323033393138:38694e34324d543478316b7455753437
 https://vod.nathcreqtives.com/1093/manifest.mpd
-
-
+#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.5JR6gryI4p8DDWghirs7JAAAAA?pid=Api&h=220&P=0" group-title="World TV:Movies",UNIVERSAL_CINEMA_HD
+#KODIPROP:inputstream=66ee81febe768875ae2fee5b8f512e15:54882694734874f280259fb8b6766ab3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66ee81febe768875ae2fee5b8f512e15:54882694734874f280259fb8b6766ab3
+#KODIPROP:key=66ee81febe768875ae2fee5b8f512e15:54882694734874f280259fb8b6766ab3
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CINEMA_HD)/manifest.mpd
+#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th/id/OIP.86ZK2OpLid59-HODXOvtYwAAAA?pid=Api&P=0" group-title="World TV:Comedy",UNIVERSAL_COMEDY_HD
+#KODIPROP:inputstream=9a778fbd54a4b2285cea8d44c514a2fd:d9befb259f2523d17dd5f7ae5ba2dd74
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a778fbd54a4b2285cea8d44c514a2fd:d9befb259f2523d17dd5f7ae5ba2dd74
+#KODIPROP:key=9a778fbd54a4b2285cea8d44c514a2fd:d9befb259f2523d17dd5f7ae5ba2dd74
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_COMEDY_HD)/manifest.mpd
+#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.uC8ULYN2JbMWE5f_5wp18AAAAA?pid=Api&P=0" group-title="World TV:Documentary",UNIVERSAL_CRIME_HD
+#KODIPROP:inputstream=dd87aca2d338122cbd283bdd3a0f7502:2bd42314bdcf4028eeb25fcf61b7b6e3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd87aca2d338122cbd283bdd3a0f7502:2bd42314bdcf4028eeb25fcf61b7b6e3
+#KODIPROP:key=dd87aca2d338122cbd283bdd3a0f7502:2bd42314bdcf4028eeb25fcf61b7b6e3
+dd87aca2d338122cbd283bdd3a0f7502:2bd42314bdcf4028eeb25fcf61b7b6e3
+#EXTINF:-1  group-title="World TV:Entertainment",UNIVERSAL_CHANNEL_HD
+#KODIPROP:inputstream=96388f9c9cbc73d4256a97974f9a2aef:c2cd19c2e73c8b7d6c384ba745161444
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96388f9c9cbc73d4256a97974f9a2aef:c2cd19c2e73c8b7d6c384ba745161444
+#KODIPROP:key=96388f9c9cbc73d4256a97974f9a2aef:c2cd19c2e73c8b7d6c384ba745161444
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CHANNEL_HD)/manifest.mpd
+#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.QwlYD6IHr3yimLe7zm6rkgAAAA?pid=Api&h=220&P=0" group-title="World TV:Movies",UNIVERSAL_PREMIER_HD
+#KODIPROP:inputstream=d01c9488e528697a9cd8ebe35b067729:abb4d0aff05248ae5e53d3e8454671d6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d01c9488e528697a9cd8ebe35b067729:abb4d0aff05248ae5e53d3e8454671d6
+#KODIPROP:key=d01c9488e528697a9cd8ebe35b067729:abb4d0aff05248ae5e53d3e8454671d6
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_PREMIER_HD)/manifest.mpd
+#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.P3jT0SlBXLGRPLum56295QAAAA?pid=Api&P=0" group-title="World TV:Reality",UNIVERSAL_REALITY_HD
+#KODIPROP:inputstream=aeced86dd6c5ecf4f39cd193109f39f7:afcb5b67f584f2eeb1783474644a9f8e
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aeced86dd6c5ecf4f39cd193109f39f7:afcb5b67f584f2eeb1783474644a9f8e
+#KODIPROP:key=aeced86dd6c5ecf4f39cd193109f39f7:afcb5b67f584f2eeb1783474644a9f8e
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_REALITY_HD)/manifest.mpd
+#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.1XErpfZgFyZx4Gpsh67dawAAAA?pid=Api&h=220&P=0" group-title="World TV:Movies",Miramax Movie Channel
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.y9sr0FWDeV-A0k3O_ibFfwAAAA?pid=Api&P=0&h=220" group-title="World TV:Music",MTV
 https://ottnav.jiwonxo00.workers.dev/MTV.m3u8
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.fNCi_vblVJ2jwdD74SZt0AAAAA?pid=Api&P=0&h=220" group-title="World TV:Music",MUSIC JAPAN TV
