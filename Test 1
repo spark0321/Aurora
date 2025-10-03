@@ -1,1 +1,190 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Uno_(2021).png?raw=true",Sky Uno
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=003610b8556000936e48061cdb4ee11a:2cd6bcc2160aa6ec048e5a5f7a0f73c8
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/32477/FHD/skyuno/master.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Atlantic_2020.png?raw=true",Sky Atlantic
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036d37875a7307fd4551bcd6e466882:a8cdc74a5d05c7a45c551af45aa5549c
+https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31226/FHD/skyatlantic/master.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Investigation_secondary.png?raw=true",Sky Investigation
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=003689703a245806508e9d332ed323ee:ef229589d2f7afa40904b6d62c852acf
+https://linear315-it-dash1-prd.selector.skycdn.it/016a/32686/FHD/skyinvestigation/master.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Documentaries_2020.png?raw=true",Sky Documentaries
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036de0a1c44a2c972fcf64c9b7f4302:0ade9234f6c56636ad6bb1b3560ddb31
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/31697/FHD/skydocumentaries/master.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Nature.png?raw=true",Sky Nature
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036dd4a767d1d1e6faa72be9b2edde3:60250673f0f5c54deac7c8f6d883c329
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/32695/FHD/skynature/master.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Arte_2021.png?raw=true",Sky Arte
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036798d4dc4ce189b2f029a4b4aa06c:4f668ba0ef796d807c90613b9e2e61bf
+https://linear313-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32074/FHD/skyarte/master.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Crime_secondary_logo.png?raw=true",Sky Crime
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036de91177ccee5fdfd4929c099854f:f40263272212aacdcf7e405cfb4b4a91
+https://linear315-it-dash1-prd.selector.skycdn.it/016a/32249/FHD/skycrime/master.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Serie.png?raw=true", Sky Serie
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00366cd68acfb019e5d302f452c96ed7:fbb59d554722277be85b0728c13051ab
+https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31684/FHD/skyserie/master.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_History_2024_II.png?raw=true",Sky History Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00362ec3497a383021f1db77c8556614:8820fb9b2afd6e1a3f4f5ab1ba4a73ad
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/31513/FHD/history/master.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Comedy_logo.png?raw=true",Sky Comedy Central
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036f3ec4ac7d836b5bf9fa79f3041b6:c02271563d97b1e7e755484279f2b55c
+https://linear309-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32404/comedycentral/master.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/1920px-Sky_Cinema_Uno_-_Logo_2021.svg.png",Sky Cinema Uno
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036211ccb7bd9cfd99fb8591e67d772:a10923293396f30380ce411a3504ddc3
+https://linear314-it-dash1-prd.selector.skycdn.it/016a/32202/FHD/cinemauno/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Sky_Cinema_Comedy_-_Logo_2021.svg/1920px-Sky_Cinema_Comedy_-_Logo_2021.svg.png" group-title="Sky", Sky Cinema Comedy 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=003638a93ac06c9df7de5d8f349f56fd:45c7c2ba5a3cdfd03e90ff16e6ac15d8
+https://linear303-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32030/FHD/cinemacomedy/master.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20cinema/Sky_Cinema_Action_2020.png?raw=true",Sky Cinema Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00368fc53eab9498463dadfc60e0f818:0a70fe8d3b90360035982deaa8c83a6d
+https://linear306-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31206/FHD/cinemaaction/master.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20cinema/Sky_Cinema_Due_2021.png?raw=true",Sky Cinema Due
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=003629d4c6efbd39a2808a85a286b783:41c463cc4bf6da4dec7935eb01a7155e
+https://linear308-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32564/FHD/cinemadue/master.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20cinema/Sky_Cinema_Collection_2021.png?raw=true",Sky Cinema Collection
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=003699aeb8e998fe0afed0c7302ce51f:4583daf5ec387c310633cdc922dd3130
+https://linear302-it-dash1-prd.selector.skycdn.it/016a/31204/FHD/cinemacollection/master.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20cinema/Sky_Cinema_Suspense_2021.png?raw=true",Sky Cinema Suspense
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00365eb692a3fd6907192a4a3f0958b2:9f86ea0417e3458186f8ada1a2003fa5
+https://linear307-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32047/FHD/cinemasuspense/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sky_Cinema_Romance_-_Logo_2021.svg/1920px-Sky_Cinema_Romance_-_Logo_2021.svg.png",Sky Cinema Romance
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00362d0a5efbd10ab56a3f502f2be023:61c8c429f412ea52e06d9663c48ee9b7
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/32231/FHD/cinemaromance/master.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20cinema/Sky_Cinema_Drama_2020.png?raw=true",Sky Cinema Drama
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036a5270d8f1d1a2f573864aed26225:df0e826d2eeb78051f5dcf6f166e6056
+https://linear304-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31769/FHD/cinemadrama/master.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20cinema/Sky_Cinema_Family_2020.png?raw=true", Sky Cinema Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036012604394c43b063c4f513ee431d:2c665092aa45cbae824bf7ad4e69d767
+https://linear305-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31255/FHD/cinemafamily/master.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=003663ddf1acb25ea88a7cf973afc0d5:35ea91b4151d6975007998c328daee6c
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_24_2020.png?raw=true",Sky Sport 24
+https://linear303-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036aaa1d68c6b487e29a5cb080a8a28:a3e8db3ff3c876f7b43a961b64a63474
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_Uno_2020.png?raw=true",Sky Sport Uno
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00362f95db61eba0e6f14acee3f71e01:fb74cd84b53c7557e18424a3356c4665
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_Calcio.png?raw=true", Sky Sport Calcio
+https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036fb7c564c4eb99e310f5fa82ab2f2:647f07b6858a669456e73ca103b4c2c0
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_Tennis.png?raw=true", Sky Sport Tennis
+https://linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"00368f2bf10736c9c2c02ab0fa694d00":"92eec9d841ac0c1ff16b90a0db82c792"}
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_Arena_2020.png?raw=true", Sky Sport Arena
+https://linear304-it-dash1-prd.selector.skycdn.it/016a/31024/FHD/skysportarena/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"00360b7729f74bf56a0a4eb0eda15ec5":"f8a5f4723c71ac84c2f1ff6f55939a63"}
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_Action.png?raw=true", Sky Sport Action
+https://linear309-it-dash1-prd.selector.skycdn.it/016a/32768/FHD/skysportgolf/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_F1_2020.png?raw=true", Sky Sport F1
+https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_MotoGP_2024.png?raw=true", Sky Sport MotoGP
+https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00364eac2ffee337640e39682439b540:0960172d9000c470ade0658bd36c1d53
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_NBA_2020.png?raw=true", Sky Sport NBA
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036384f59a2b80ed142f82250c79f77:2e6507cb779a28739b0bb1564f418823
+#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 251
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=003610b4ce44ba838c199b6636cf7431:8369cbbccf0c1ff6bdbacbdae9252a04
+#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 252
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/32951/FHD/skysport252/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036d3b63b421abd69d9f0d3b6bdcf19:0725c3162d5aefbf9c6d144f06ea0c92
+#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 253
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/32233/FHD/skysport253/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ADacFMILeKrbHsDjwOdJeQ","k":"52h2fixyONgGmIe7Nq7X-g"}]}
+#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 254
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/31234/FHD/skysport254/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ADa3gaIuuwwgwWrCfV0USA","k":"8wm5Ss_acgvx7VdBSJ-JZw"}]}
+#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 255
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/32910/FHD/skysport255/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ADZvJjhZ_BzILSxNpqZu9g","k":"dUrpItETxUNJACzZqIaUpA"}]}
+#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 256
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/31912/FHD/skysport256/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0036faeace9872d3ceeb8b1b63f0baa3":"dbd41ee944243307d39b7b27f16615a8"}
+#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 257
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/31775/FHD/skysport257/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0036fd8ccfddba47c8b40aeff63a797c":"dfd5c9d0f4ac6f3a1bd89803399e7026"}
+#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 258
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/32772/skysport258/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0036644f7699f43e401f88d920dc385c":"e5b0cebdc3edd7996d283041535fce9c"}
+#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 259
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/31613/skysport259/master.mpd
