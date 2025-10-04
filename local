@@ -1399,17 +1399,17 @@ https://cnt1-streamer4.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
 #KODIPROP:inputstream.adaptive.license_key=d3b2f20862fa7f361fc703d8b9bcd340:f849ca1496a4c3eca2394628c08493d1
 https://tvcdn.tv.telia.lt/live/eds/JimJam/DASH_5_CPIX_NPVR/JimJam.mpd
  
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.wM30Hfmtyj8xqWR0Cn_DFQAAAA?pid=Api&P=0" group-title="World TV:Entertainment",I Heart Movies
+#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.wM30Hfmtyj8xqWR0Cn_DFQAAAA?pid=Api&P=0" group-title="World TV:Entertainment Tagalog",I Heart Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abba271e8bcf552bbd2e86a434a9a5d9:69eaa802a6763af979e8d1940fb88392
 https://kaotv.ganbaruby23.xyz/dash/iheartmovies/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.ZSzYE2ERnkSKdyabwBMl0wAAAA?pid=Api&P=0" group-title="World TV:Entertainment",Heart Of ASia
+#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.ZSzYE2ERnkSKdyabwBMl0wAAAA?pid=Api&P=0" group-title="World TV:Entertainment Tagalog",Heart Of ASia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2a7b8c1d9f0e3a4b5c6d7e8f1a2b3c4:0f1e2d3c4b5a60798877665544332211
 https://kaotv.ganbaruby23.xyz/dash/heartofasia/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.FVTEsy-SUc-AZNI6jmAEugAAAA?pid=Api&h=220&P=0" group-title="World TV:Entertainment",GMA
+#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.FVTEsy-SUc-AZNI6jmAEugAAAA?pid=Api&h=220&P=0" group-title="World TV:Entertainment Tagalog",GMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
 https://vod.nathcreqtives.com/1093/manifest.mpd
