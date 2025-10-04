@@ -1,4 +1,5 @@
 #EXTM3U
+
 x-url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml, https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml.gz, https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/tvpass-epg.xml, https://tvpass.org/epg.xml, https://github.com/atone77721/CIGNAL_EPG/raw/refs/heads/main/merged_epg.xml.gz"
 
 #EXTINF:-1 tvg-id="Playboy.us" tvg-name="Playboy" group-logo="https://i.imgur.com/1ryqkMd.png" parent-code="0000" tvg-logo="https://i.imgur.com/Fc9AdGR_d.png" video-track="1024x576" group-title="Adult",Playboy TV
@@ -8,48 +9,93 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
 
 #EXTINF:-1 tvg-id="Erox.HD.sk" tvg-name="Erox HD" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/erox-hd.png" video-track="1024x576" group-title="Adult",Erox
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_erox/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="Eroxxx.HD.sk" tvg-name="Eroxxx HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/eroxxx.png" video-track="1024x576" group-title="Adult",Eroxxx
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_eroxxx/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="Dorcel.TV.cz" tvg-name="Dorcel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/1280px-Dorcel_TV.svg.png" video-track="1024x576" group-title="Adult",Dorcel
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_dorcel/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="Dorcel.XXX.cz" tvg-name="Dorcel XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo-Dorcelxxx.png/800px-Logo-Dorcelxxx.png" video-track="1024x576" group-title="Adult",Dorcel XXX
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_dorcel_xxx/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="Brazzers.TV.Europe.sk" tvg-name="Brazzers TV Europe" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/1/18/Brazzers_TV_%282014-.n.v.%29.png" video-track="1024x576" group-title="Adult",Brazzers TV Europe
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_brazzers_europe/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="True.Amateurs.HD.sk" tvg-name="True Amateurs HD" tvg-logo="https://i.imgur.com/MbXypW8.jpeg" video-track="1024x576" group-title="Adult",True Amateurs
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_true_amateurs/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="LEO.TV.sk" tvg-name="Leo TV" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/leo-tv.png" video-track="1024x576" group-title="Adult",Leo TV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_leo_tv/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="Leo.TV.Gold.HD.sk" tvg-name="Loe TV Gold" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/03/leo-tv-gold.png" video-track="1024x576" group-title="Adult",Leo TV Gold
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_leo_gold/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="Extasy.cz" tvg-name="Extasy" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/extasy.png" video-track="1024x576" group-title="Adult",Extasy
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_extasy/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="Dusk.TV.sk" tvg-name="Dusk TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dusk_TV.svg/1280px-Dusk_TV.svg.png" video-track="1024x576" group-title="Adult",Dusk TV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_dusk/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="Babes.TV.cz" tvg-name="Babes TV" tvg-logo="https://www.poda.cz/wp-content/uploads/2024/04/babes-tv-2024.png" video-track="1024x576" group-title="Adult",Babes TV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="Pure.Babes.hr" tvg-name="Pure Babes" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/babes-pure-tv.png" video-track="1024x576" group-title="Adult",Pure Babes
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_pure_babes/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="Desire.TV.cz" tvg-name="Desire TV" tvg-logo="https://adult-tv-channels.click/assets/images/desire-tv.png" video-track="1024x576" group-title="Adult",Desire TV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_desire/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="Bang.U.hr" tvg-name="Bang U" tvg-logo="https://www.supernovabih.ba/wp-content/uploads/2022/07/TV_bang-u.png" video-track="1024x576" group-title="Adult",Bang U
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_bang_u/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/passionxxx.png" video-track="1024x576" group-title="Adult",Passion XXX
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/hisi_passion_xxx/playlist_cbcs.mpd
 
 #EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/kXCAjfoYWcZxGuOIA3HHDN0Lf4n.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/dTQLrV5V0jjL7drAEKQx5C3C7Jw.jpg" video-track="1024x576" group-title="Wow Mani",Episode 01
