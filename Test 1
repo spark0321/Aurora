@@ -1,190 +1,654 @@
-#EXTM3U
+#EXTM3U billed-msg="🇵🇭 LivePass™  Adult TV 🇵🇭"
 
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Uno_(2021).png?raw=true",Sky Uno
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=003610b8556000936e48061cdb4ee11a:2cd6bcc2160aa6ec048e5a5f7a0f73c8
-https://linear313-it-dash1-prd.selector.skycdn.it/016a/32477/FHD/skyuno/master.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Atlantic_2020.png?raw=true",Sky Atlantic
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0036d37875a7307fd4551bcd6e466882:a8cdc74a5d05c7a45c551af45aa5549c
-https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31226/FHD/skyatlantic/master.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Investigation_secondary.png?raw=true",Sky Investigation
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=003689703a245806508e9d332ed323ee:ef229589d2f7afa40904b6d62c852acf
-https://linear315-it-dash1-prd.selector.skycdn.it/016a/32686/FHD/skyinvestigation/master.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Documentaries_2020.png?raw=true",Sky Documentaries
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0036de0a1c44a2c972fcf64c9b7f4302:0ade9234f6c56636ad6bb1b3560ddb31
-https://linear313-it-dash1-prd.selector.skycdn.it/016a/31697/FHD/skydocumentaries/master.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Nature.png?raw=true",Sky Nature
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0036dd4a767d1d1e6faa72be9b2edde3:60250673f0f5c54deac7c8f6d883c329
-https://linear313-it-dash1-prd.selector.skycdn.it/016a/32695/FHD/skynature/master.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Arte_2021.png?raw=true",Sky Arte
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0036798d4dc4ce189b2f029a4b4aa06c:4f668ba0ef796d807c90613b9e2e61bf
-https://linear313-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32074/FHD/skyarte/master.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Crime_secondary_logo.png?raw=true",Sky Crime
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0036de91177ccee5fdfd4929c099854f:f40263272212aacdcf7e405cfb4b4a91
-https://linear315-it-dash1-prd.selector.skycdn.it/016a/32249/FHD/skycrime/master.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Serie.png?raw=true", Sky Serie
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00366cd68acfb019e5d302f452c96ed7:fbb59d554722277be85b0728c13051ab
-https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31684/FHD/skyserie/master.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_History_2024_II.png?raw=true",Sky History Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00362ec3497a383021f1db77c8556614:8820fb9b2afd6e1a3f4f5ab1ba4a73ad
-https://linear313-it-dash1-prd.selector.skycdn.it/016a/31513/FHD/history/master.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20general/Sky_Comedy_logo.png?raw=true",Sky Comedy Central
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0036f3ec4ac7d836b5bf9fa79f3041b6:c02271563d97b1e7e755484279f2b55c
-https://linear309-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32404/comedycentral/master.mpd
+#EXTGRP:DaddyLive XXX
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-01)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium501%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-02)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium502%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-03)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium503%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-04)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium504%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-05)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium505%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-06)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium506%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-07)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium507%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-08)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium508%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-09)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium509%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-10)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium510%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-11)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium511%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-12)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium512%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-13)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium513%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-14)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium514%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-15)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium515%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-16)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium516%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-17)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium517%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-18)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium518%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-19)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium519%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DaddyLive XXX",18+ (Player-20)
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium520%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vanhveGtwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vanhveGtwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMA%3D%3D
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/1920px-Sky_Cinema_Uno_-_Logo_2021.svg.png",Sky Cinema Uno
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0036211ccb7bd9cfd99fb8591e67d772:a10923293396f30380ce411a3504ddc3
-https://linear314-it-dash1-prd.selector.skycdn.it/016a/32202/FHD/cinemauno/master.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Sky_Cinema_Comedy_-_Logo_2021.svg/1920px-Sky_Cinema_Comedy_-_Logo_2021.svg.png" group-title="Sky", Sky Cinema Comedy 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=003638a93ac06c9df7de5d8f349f56fd:45c7c2ba5a3cdfd03e90ff16e6ac15d8
-https://linear303-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32030/FHD/cinemacomedy/master.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20cinema/Sky_Cinema_Action_2020.png?raw=true",Sky Cinema Action
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00368fc53eab9498463dadfc60e0f818:0a70fe8d3b90360035982deaa8c83a6d
-https://linear306-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31206/FHD/cinemaaction/master.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20cinema/Sky_Cinema_Due_2021.png?raw=true",Sky Cinema Due
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=003629d4c6efbd39a2808a85a286b783:41c463cc4bf6da4dec7935eb01a7155e
-https://linear308-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32564/FHD/cinemadue/master.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20cinema/Sky_Cinema_Collection_2021.png?raw=true",Sky Cinema Collection
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=003699aeb8e998fe0afed0c7302ce51f:4583daf5ec387c310633cdc922dd3130
-https://linear302-it-dash1-prd.selector.skycdn.it/016a/31204/FHD/cinemacollection/master.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20cinema/Sky_Cinema_Suspense_2021.png?raw=true",Sky Cinema Suspense
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00365eb692a3fd6907192a4a3f0958b2:9f86ea0417e3458186f8ada1a2003fa5
-https://linear307-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32047/FHD/cinemasuspense/master.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sky_Cinema_Romance_-_Logo_2021.svg/1920px-Sky_Cinema_Romance_-_Logo_2021.svg.png",Sky Cinema Romance
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00362d0a5efbd10ab56a3f502f2be023:61c8c429f412ea52e06d9663c48ee9b7
-https://linear301-it-dash1-prd.selector.skycdn.it/016a/32231/FHD/cinemaromance/master.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20cinema/Sky_Cinema_Drama_2020.png?raw=true",Sky Cinema Drama
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0036a5270d8f1d1a2f573864aed26225:df0e826d2eeb78051f5dcf6f166e6056
-https://linear304-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31769/FHD/cinemadrama/master.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20cinema/Sky_Cinema_Family_2020.png?raw=true", Sky Cinema Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0036012604394c43b063c4f513ee431d:2c665092aa45cbae824bf7ad4e69d767
-https://linear305-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31255/FHD/cinemafamily/master.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=003663ddf1acb25ea88a7cf973afc0d5:35ea91b4151d6975007998c328daee6c
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_24_2020.png?raw=true",Sky Sport 24
-https://linear303-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master_stereo.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036aaa1d68c6b487e29a5cb080a8a28:a3e8db3ff3c876f7b43a961b64a63474
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_Uno_2020.png?raw=true",Sky Sport Uno
-https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00362f95db61eba0e6f14acee3f71e01:fb74cd84b53c7557e18424a3356c4665
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_Calcio.png?raw=true", Sky Sport Calcio
-https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036fb7c564c4eb99e310f5fa82ab2f2:647f07b6858a669456e73ca103b4c2c0
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_Tennis.png?raw=true", Sky Sport Tennis
-https://linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"00368f2bf10736c9c2c02ab0fa694d00":"92eec9d841ac0c1ff16b90a0db82c792"}
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_Arena_2020.png?raw=true", Sky Sport Arena
-https://linear304-it-dash1-prd.selector.skycdn.it/016a/31024/FHD/skysportarena/master_stereo.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"00360b7729f74bf56a0a4eb0eda15ec5":"f8a5f4723c71ac84c2f1ff6f55939a63"}
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_Action.png?raw=true", Sky Sport Action
-https://linear309-it-dash1-prd.selector.skycdn.it/016a/32768/FHD/skysportgolf/master_stereo.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_F1_2020.png?raw=true", Sky Sport F1
-https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_MotoGP_2024.png?raw=true", Sky Sport MotoGP
-https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00364eac2ffee337640e39682439b540:0960172d9000c470ade0658bd36c1d53
-#EXTINF:-1 tvg-logo="https://github.com/GabrielePepone/Sky-IPTV/blob/main/Sky%20sport/Sky_Sport_NBA_2020.png?raw=true", Sky Sport NBA
-https://linear312-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036384f59a2b80ed142f82250c79f77:2e6507cb779a28739b0bb1564f418823
-#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 251
-https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=003610b4ce44ba838c199b6636cf7431:8369cbbccf0c1ff6bdbacbdae9252a04
-#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 252
-https://linear311-it-dash1-prd.selector.skycdn.it/016a/32951/FHD/skysport252/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036d3b63b421abd69d9f0d3b6bdcf19:0725c3162d5aefbf9c6d144f06ea0c92
-#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 253
-https://linear311-it-dash1-prd.selector.skycdn.it/016a/32233/FHD/skysport253/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ADacFMILeKrbHsDjwOdJeQ","k":"52h2fixyONgGmIe7Nq7X-g"}]}
-#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 254
-https://linear312-it-dash1-prd.selector.skycdn.it/016a/31234/FHD/skysport254/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ADa3gaIuuwwgwWrCfV0USA","k":"8wm5Ss_acgvx7VdBSJ-JZw"}]}
-#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 255
-https://linear311-it-dash1-prd.selector.skycdn.it/016a/32910/FHD/skysport255/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ADZvJjhZ_BzILSxNpqZu9g","k":"dUrpItETxUNJACzZqIaUpA"}]}
-#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 256
-https://linear312-it-dash1-prd.selector.skycdn.it/016a/31912/FHD/skysport256/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0036faeace9872d3ceeb8b1b63f0baa3":"dbd41ee944243307d39b7b27f16615a8"}
-#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 257
-https://linear311-it-dash1-prd.selector.skycdn.it/016a/31775/FHD/skysport257/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0036fd8ccfddba47c8b40aeff63a797c":"dfd5c9d0f4ac6f3a1bd89803399e7026"}
-#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 258
-https://linear312-it-dash1-prd.selector.skycdn.it/016a/32772/skysport258/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0036644f7699f43e401f88d920dc385c":"e5b0cebdc3edd7996d283041535fce9c"}
-#EXTINF:-1 tvg-logo"https://raw.githubusercontent.com/GabrielePepone/Sky-IPTV/refs/heads/main/Sky%20sport/Sky_Sport_2020.png", Sky Sport 259
-https://linear311-it-dash1-prd.selector.skycdn.it/016a/31613/skysport259/master.mpd
+#EXTGRP:DrewLive - XXX
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2022/04/ALIYAHAD-613x360.jpg" group-title="DrewLive - XXX" radio="false",Aaliyah
+https://cdn.baddiehub.com/AaliyTF.mp4
+#EXTINF:-1  tvg-name="Aaliyah Hadid" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Aaliyah Hadid
+https://cdn.baddiehub.com/AaliyPV.mp4
+#EXTINF:-1  tvg-name="Aaliyah Hadid - Ricky'sRoom" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Aaliyah Hadid - Ricky'sRoom
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Aaliyah%20Hadid%20-%20Ricky%27sRoom/rickysroom.25.01.30.aaliyah.hadid.mp4
+#EXTINF:-1  tvg-name="Aaliyah Hadid On Ricky's Room" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Aaliyah Hadid On Ricky's Room
+https://cdn.baddiehub.com/AaliHd.mp4
+#EXTINF:-1  tvg-name="Abella Danger - IntimatePOV" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Abella Danger - IntimatePOV
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Abella%20Danger%20-%20IntimatePOV/intimatepov.21.11.27.abella.danger.packed.tight.mp4
+#EXTINF:-1  tvg-name="Adriana Maya" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Adriana Maya
+https://cdn.baddiehub.com/VjK1.mp4
+#EXTINF:-1  tvg-name="Adriana Maya 2" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Adriana Maya 2
+https://cdn.baddiehub.com/AdrianaMO.mp4
+#EXTINF:-1  tvg-name="AdultIPTV.net Anal" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Anal
+http://live.adultiptv.net/anal.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Asian" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Asian
+http://live.adultiptv.net/asian.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Big Ass" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Big Ass
+http://live.adultiptv.net/bigass.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Big Dick" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Big Dick
+http://live.adultiptv.net/bigdick.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Big Tits" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Big Tits
+http://live.adultiptv.net/bigtits.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Blonde" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Blonde
+http://live.adultiptv.net/blonde.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Blowjob" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Blowjob
+http://live.adultiptv.net/blowjob.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Brunette" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Brunette
+http://live.adultiptv.net/brunette.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Compilation" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Compilation
+http://live.adultiptv.net/compilation.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Cuckold" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Cuckold
+http://live.adultiptv.net/cuckold.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Fetish" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Fetish
+http://live.adultiptv.net/fetish.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Gangbang" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Gangbang
+http://live.adultiptv.net/gangbang.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Gay" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Gay
+http://live.adultiptv.net/gay.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Hardcore" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Hardcore
+http://live.adultiptv.net/hardcore.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Interracial" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Interracial
+http://live.adultiptv.net/interracial.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Latina" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Latina
+http://live.adultiptv.net/latina.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Lesbian" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Lesbian
+http://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Live Cams" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Live Cams
+http://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net MILF" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net MILF
+http://live.adultiptv.net/milf.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Pornstar" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Pornstar
+http://live.adultiptv.net/pornstar.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net POV" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net POV
+http://live.adultiptv.net/pov.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Rough" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Rough
+http://live.adultiptv.net/rough.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Russian" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Russian
+http://live.adultiptv.net/russian.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Teen" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Teen
+http://live.adultiptv.net/teen.m3u8
+#EXTINF:-1  tvg-name="AdultIPTV.net Threesome" tvg-id="Adult.Programming.Dummy.us" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="DrewLive - XXX" radio="false",AdultIPTV.net Threesome
+http://live.adultiptv.net/threesome.m3u8
+#EXTINF:-1  tvg-name="Advore" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Advore
+https://cdn.baddiehub.com/Advlt.mp4
+#EXTINF:-1  tvg-name="Alva Jay" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Alva Jay
+https://cdn.baddiehub.com/hnaw.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/g199-613x360.jpg" group-title="DrewLive - XXX" radio="false",Amanda Nicole
+https://cdn.baddiehub.com/g199.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2020/04/AMGOLHS-613x360.jpg" group-title="DrewLive - XXX" radio="false",Amari Gold HS Scene
+https://cdn.baddiehub.com/AmGold.mp4
+#EXTINF:-1  tvg-name="Ameena Green - BrownBunnies" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Ameena Green - BrownBunnies
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Ameena%20Green%20-%20BrownBunnies/BrownBunnies.24.07.04.Ameena.Green.XXX.1080p.HEVC.x265.PRT.mkv
+#EXTINF:-1  tvg-name="Anais Amore" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Anais Amore
+https://cdn.baddiehub.com/AAmr.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/uskx-613x360.jpg" group-title="DrewLive - XXX" radio="false",Anais Amore 2
+https://cdn.baddiehub.com/uskxf.mp4
+#EXTINF:-1  tvg-name="Anna Claire - JulesJordan" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Anna Claire - JulesJordan
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Anna%20Claire%20-%20JulesJordan/Anna.Claire.Clouds.All.In.A.Row.1080.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2022/08/aokls-613x360.jpg" group-title="DrewLive - XXX" radio="false",Aoki Orgy
+https://cdn.baddiehub.com/AokOrg.mp4
+#EXTINF:-1  tvg-name="Aqua" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Aqua
+https://cdn.baddiehub.com/s4xy.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/a3g-613x360.jpg" group-title="DrewLive - XXX" radio="false",Arabella Mia
+https://cdn.baddiehub.com/a3gw.mp4
+#EXTINF:-1  tvg-name="Ari Alectra" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Ari Alectra
+https://cdn.baddiehub.com/ArAlec.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/08/396-613x360.jpg" group-title="DrewLive - XXX" radio="false",Ari Kytsya & Camilla Araujo
+https://cdn.baddiehub.com/3965.mp4
+#EXTINF:-1  tvg-name="Aria Six" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Aria Six
+https://cdn.baddiehub.com/AriaAz.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/auh3-613x360.jpg" group-title="DrewLive - XXX" radio="false",Auhneesh
+https://cdn.baddiehub.com/Auh3.mp4
+#EXTINF:-1  tvg-name="Autumn Falls" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Autumn Falls
+https://cdn.baddiehub.com/b9b1.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/zcy-613x360.jpg" group-title="DrewLive - XXX" radio="false",Avy Banks
+https://cdn.baddiehub.com/zcyk.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2022/05/BGIGT-613x360.jpg" group-title="DrewLive - XXX" radio="false",B Gigi Tag Team
+https://cdn.baddiehub.com/BGigTag.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/h3rd-613x360.jpg" group-title="DrewLive - XXX" radio="false",Bad Gal Steph
+https://cdn.baddiehub.com/h3rdi.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/j4w-613x360.jpg" group-title="DrewLive - XXX" radio="false",BarbieDollStef
+https://cdn.baddiehub.com/j4w1.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/ncue-613x360.jpg" group-title="DrewLive - XXX" radio="false",BarbieDollSteff
+https://cdn.baddiehub.com/ncue2.mp4
+#EXTINF:-1  tvg-name="Beca Barbie" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Beca Barbie
+https://cdn.baddiehub.com/XBCA.mp4
+#EXTINF:-1  tvg-name="Beca Barbie - Gloryhole" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Beca Barbie - Gloryhole
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Beca%20Barbie%20-%20GloryHole/gloryhole.25.05.27.beca.barbie.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/beca-613x360.jpg" group-title="DrewLive - XXX" radio="false",Beca Barbie 2
+https://cdn.baddiehub.com/BECA.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/xsn-613x360.jpg" group-title="DrewLive - XXX" radio="false",Briellah
+https://cdn.baddiehub.com/xsnz.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/zxk-613x360.jpg" group-title="DrewLive - XXX" radio="false",Briellah 2
+https://cdn.baddiehub.com/zaxk.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/ma4k-613x360.jpg" group-title="DrewLive - XXX" radio="false",Brittany Kaye
+https://cdn.baddiehub.com/ma4ke.mp4
+#EXTINF:-1  tvg-name="Candy Love" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Candy Love
+https://cdn.baddiehub.com/x3ju.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/casss-613x360.jpg" group-title="DrewLive - XXX" radio="false",Cassie Lenoir
+https://cdn.baddiehub.com/casss.mp4
+#EXTINF:-1  tvg-name="Cece" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Cece
+https://cdn.baddiehub.com/iXE.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2022/10/chanelstar-613x360.jpg" group-title="DrewLive - XXX" radio="false",Chanel Star
+https://cdn.baddiehub.com/ChanelS.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/08/n6r-613x360.jpg" group-title="DrewLive - XXX" radio="false",Cherry Jay
+https://cdn.baddiehub.com/n6r1.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/janh-613x360.jpg" group-title="DrewLive - XXX" radio="false",Chesca Maggio
+https://cdn.baddiehub.com/janh5.mp4
+#EXTINF:-1  tvg-name="Chloe Amour - EvilAngel" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Chloe Amour - EvilAngel
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Chloe%20Amour%20-%20EvilAngel/evilangel.25.04.03.chloe.amour.mp4
+#EXTINF:-1  tvg-name="Crystal Chase" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Crystal Chase
+https://cdn.baddiehub.com/CrystChM.mp4
+#EXTINF:-1  tvg-name="CStylex" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",CStylex
+https://cdn.baddiehub.com/AMH.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/rabc-613x360.jpg" group-title="DrewLive - XXX" radio="false",Danja Angel
+https://cdn.baddiehub.com/rabc4.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/ak5z-613x360.jpg" group-title="DrewLive - XXX" radio="false",Danja Angel 2
+https://cdn.baddiehub.com/ak5z.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/t21x-613x360.jpg" group-title="DrewLive - XXX" radio="false",Debree
+https://cdn.baddiehub.com/Frshr.mp4
+#EXTINF:-1  tvg-name="Destini" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Destini
+https://cdn.baddiehub.com/bp.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/kopa-613x360.jpg" group-title="DrewLive - XXX" radio="false",Destini Creams
+https://cdn.baddiehub.com/kopa2.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/c6y-613x360.jpg" group-title="DrewLive - XXX" radio="false",Diamond
+https://cdn.baddiehub.com/c6yq.mp4
+#EXTINF:-1  tvg-name="Diamond (Full)" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Diamond (Full)
+https://cdn.baddiehub.com/ueu.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2023/03/diambnks-613x360.jpg" group-title="DrewLive - XXX" radio="false",Diamond Banks
+https://cdn.baddiehub.com/DiamBnks.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/dy1-613x360.jpg" group-title="DrewLive - XXX" radio="false",Driply
+https://cdn.baddiehub.com/dy12.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2021/02/EBLU-613x360.jpg" group-title="DrewLive - XXX" radio="false",E Blue
+https://cdn.baddiehub.com/EBlue.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/etpnk-613x360.jpg" group-title="DrewLive - XXX" radio="false",Eat Pinky
+https://cdn.baddiehub.com/rxrr.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/odnz-613x360.jpg" group-title="DrewLive - XXX" radio="false",Ellie Nova
+https://cdn.baddiehub.com/odnzp.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/ug7-613x360.jpg" group-title="DrewLive - XXX" radio="false",Ely LaBella
+https://cdn.baddiehub.com/ug73.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2023/01/emhon-613x360.jpg" group-title="DrewLive - XXX" radio="false",Em098 & HoneyB
+https://cdn.baddiehub.com/EmHon.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/xem4-613x360.jpg" group-title="DrewLive - XXX" radio="false",Emily Norman
+https://cdn.baddiehub.com/Xem4.mp4
+#EXTINF:-1  tvg-name="Emma Magnolia" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Emma Magnolia
+https://cdn.baddiehub.com/Emma10.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/vm5-613x360.jpg" group-title="DrewLive - XXX" radio="false",Enough Said
+https://cdn.baddiehub.com/vm5p.mp4
+#EXTINF:-1  tvg-name="Fabi Soul" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Fabi Soul
+https://cdn.baddiehub.com/Fab48.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/mef-613x360.jpg" group-title="DrewLive - XXX" radio="false",feenin4nae
+https://cdn.baddiehub.com/mef4.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/nqgv-613x360.jpg" group-title="DrewLive - XXX" radio="false",Funsized Megan & Zoey Uso
+https://cdn.baddiehub.com/Nqgv.mp4
+#EXTINF:-1  tvg-name="Gem Jewels" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Gem Jewels
+https://cdn.baddiehub.com/GemTr.mp4
+#EXTINF:-1  tvg-name="Gem Jewels - BangBros" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Gem Jewels - BangBros
+https://cdn.baddiehub.com/GGelt.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2021/12/GRS-613x360.jpg" group-title="DrewLive - XXX" radio="false",Gem Jewels Tape
+https://cdn.baddiehub.com/GemRS.mp4
+#EXTINF:-1  tvg-name="Gem Jewels x Dredd" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Gem Jewels x Dredd
+https://cdn.baddiehub.com/Gemtj.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/zifw-613x360.jpg" group-title="DrewLive - XXX" radio="false",Gigi Lysette
+https://cdn.baddiehub.com/ivid4.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/gigr-613x360.jpg" group-title="DrewLive - XXX" radio="false",Gigi Vergara
+https://cdn.baddiehub.com/Gigrq.mp4
+#EXTINF:-1  tvg-name="Gina Wap" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Gina Wap
+https://cdn.baddiehub.com/gnck.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/gthg-613x360.jpg" group-title="DrewLive - XXX" radio="false",Goth Girl
+https://cdn.baddiehub.com/gthg7.mp4
+#EXTINF:-1  tvg-name="Hailey Rose - FamilyStrokes" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Hailey Rose - FamilyStrokes
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Hailey%20Rose%20-%20FamilyStrokes/familystrokes.24.07.04.hailey.rose.sindependence.day.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/q0nh-613x360.jpg" group-title="DrewLive - XXX" radio="false",Hannah Jo
+https://cdn.baddiehub.com/q0nh.mp4
+#EXTINF:-1  tvg-name="HMR" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",HMR
+https://cdn.baddiehub.com/vdfx.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/hgd-613x360.jpg" group-title="DrewLive - XXX" radio="false",hoeassria
+https://cdn.baddiehub.com/hgd8.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/maua-613x360.jpg" group-title="DrewLive - XXX" radio="false",Honey
+https://cdn.baddiehub.com/maua6.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/pm8-613x360.jpg" group-title="DrewLive - XXX" radio="false",Honey 2
+https://cdn.baddiehub.com/pm8j.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/nctc-613x360.jpg" group-title="DrewLive - XXX" radio="false",Honey Bun
+https://cdn.baddiehub.com/nctc3.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/abm2-613x360.jpg" group-title="DrewLive - XXX" radio="false",Honey Dipped
+https://cdn.baddiehub.com/abm2.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/cops-613x360.jpg" group-title="DrewLive - XXX" radio="false",honeybeepott
+https://cdn.baddiehub.com/Cops.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/cc9f-613x360.jpg" group-title="DrewLive - XXX" radio="false",htownliv
+https://cdn.baddiehub.com/cc9fo.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/eney-613x360.jpg" group-title="DrewLive - XXX" radio="false",HTX
+https://cdn.baddiehub.com/eney.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/ytfe-613x360.jpg" group-title="DrewLive - XXX" radio="false",HTX 2
+https://cdn.baddiehub.com/ytfe1.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/08/p45-613x360.jpg" group-title="DrewLive - XXX" radio="false",indiadyme
+https://cdn.baddiehub.com/p457.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/eklw-613x360.jpg" group-title="DrewLive - XXX" radio="false",Ishues
+https://cdn.baddiehub.com/eklw.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/m8u-613x360.jpg" group-title="DrewLive - XXX" radio="false",J Yella
+https://cdn.baddiehub.com/m8um.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/08/ner3-613x360.jpg" group-title="DrewLive - XXX" radio="false",Jaaden
+https://cdn.baddiehub.com/ner3.mp4
+#EXTINF:-1  tvg-name="Jada Stevens" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Jada Stevens
+https://cdn.baddiehub.com/aed1.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/08/391-613x360.jpg" group-title="DrewLive - XXX" radio="false",Jada Stevens 2
+https://cdn.baddiehub.com/3919.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/05/jad-613x360.jpg" group-title="DrewLive - XXX" radio="false",Jada Stevens 3
+https://cdn.baddiehub.com/Jada2.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/w1s-613x360.jpg" group-title="DrewLive - XXX" radio="false",Jadeteen
+https://cdn.baddiehub.com/w1sm.mp4
+#EXTINF:-1  tvg-name="Jaymee Green" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Jaymee Green
+https://cdn.baddiehub.com/UNup.mp4
+#EXTINF:-1  tvg-name="Jazz" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Jazz
+https://cdn.baddiehub.com/mrte.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/qy7-613x360.jpg" group-title="DrewLive - XXX" radio="false",Jazz 2
+https://cdn.baddiehub.com/qY7u.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/jz72-613x360.jpg" group-title="DrewLive - XXX" radio="false",JazzTheStallion
+https://cdn.baddiehub.com/jz720.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/xduh-613x360.jpg" group-title="DrewLive - XXX" radio="false",JazzTheStallion 2
+https://cdn.baddiehub.com/xduzh.mp4
+#EXTINF:-1  tvg-name="Jessie Rogers" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Jessie Rogers
+https://cdn.baddiehub.com/JssRogTr.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/sieo-613x360.jpg" group-title="DrewLive - XXX" radio="false",Jocelyn
+https://cdn.baddiehub.com/sieo.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/scoy-613x360.jpg" group-title="DrewLive - XXX" radio="false",Jocelyn 2
+https://cdn.baddiehub.com/scoy.mp4
+#EXTINF:-1  tvg-name="Juicy Bitch" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Juicy Bitch
+https://cdn.baddiehub.com/almz.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/jify-613x360.jpg" group-title="DrewLive - XXX" radio="false",Juisay
+https://cdn.baddiehub.com/jify8.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/j3k-613x360.jpg" group-title="DrewLive - XXX" radio="false",Kaden Kole
+https://cdn.baddiehub.com/j3kr.mp4
+#EXTINF:-1  tvg-name="Kali Roses - Blacked" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Kali Roses - Blacked
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Kali%20Roses%20-%20Blacked/BlackedRaw.18.07.21.Kali.Roses.Call.You.Tomorrow.XXX.1080p.HEVC.x265.PRT.mkv
+#EXTINF:-1  tvg-name="Kali Roses - JulesJordan" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Kali Roses - JulesJordan
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Kali%20Roses%20-%20JulesJordan/Kali.Roses.Don't.Be.Scared.Use.Me.Harder.1080p.mp4
+#EXTINF:-1  tvg-name="Karmen Karma" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Karmen Karma
+https://cdn.baddiehub.com/mhos.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/6048-613x360.jpg" group-title="DrewLive - XXX" radio="false",Karol Rosado
+https://cdn.baddiehub.com/6048.mp4
+#EXTINF:-1  tvg-name="Kash" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Kash
+https://cdn.baddiehub.com/Koff.mp4
+#EXTINF:-1  tvg-name="KattVD" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",KattVD
+https://cdn.baddiehub.com/KVD22.mp4
+#EXTINF:-1  tvg-name="Kay Kay" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Kay Kay
+https://cdn.baddiehub.com/ruepj.mp4
+#EXTINF:-1  tvg-name="Kianna Dior & Hailey Rose" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Kianna Dior & Hailey Rose
+https://cdn.baddiehub.com/a7yp.mp4
+#EXTINF:-1  tvg-name="Kira Perez" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Kira Perez
+https://cdn.baddiehub.com/nkus.mp4
+#EXTINF:-1  tvg-name="Kira Perez 2" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Kira Perez 2
+https://cdn.baddiehub.com/Perez.mp4
+#EXTINF:-1  tvg-name="Kira Plug Talk" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Kira Plug Talk
+https://cdn.baddiehub.com/KiraPT.mp4
+#EXTINF:-1  tvg-name="Kissa Sins" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Kissa Sins
+https://cdn.baddiehub.com/Kss25.mp4
+#EXTINF:-1  tvg-name="Kona Jade" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Kona Jade
+https://cdn.baddiehub.com/jnyt.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/biv1-613x360.jpg" group-title="DrewLive - XXX" radio="false",Kream Cheeks
+https://cdn.baddiehub.com/biv1.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/qb32-613x360.jpg" group-title="DrewLive - XXX" radio="false",Kream Cheeks 2
+https://cdn.baddiehub.com/qb32.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/wa3h-613x360.jpg" group-title="DrewLive - XXX" radio="false",Kush
+https://cdn.baddiehub.com/wa3h.mp4
+#EXTINF:-1  tvg-name="Lana Rhoades - Holed" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Lana Rhoades - Holed
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Lana%20Rhoades%20-%20Holed/Holed.17.09.26.Lana.Rhoades.Poolside.Ass.Play.XXX.1080p.HEVC.x265.PRT.mkv
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/mnol-613x360.jpg" group-title="DrewLive - XXX" radio="false",Lashae
+https://cdn.baddiehub.com/mnol.mp4
+#EXTINF:-1  tvg-name="Layla Jenner - Nympho" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Layla Jenner - Nympho
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Layla%20Jenner%20-%20Nympho/Nympho.24.03.26.Layla.Jenner.XXX.1080p.HEVC.x265.PRT.mkv
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/altp-613x360.jpg" group-title="DrewLive - XXX" radio="false",Leahndra
+https://cdn.baddiehub.com/xzply.mp4
+#EXTINF:-1  tvg-name="Lena The Plug & Jason Luv" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Lena The Plug & Jason Luv
+https://cdn.baddiehub.com/LTPJL.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/eh31-613x360.jpg" group-title="DrewLive - XXX" radio="false",LexLaFlame
+https://cdn.baddiehub.com/eh31g.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2023/01/lucianp-613x360.jpg" group-title="DrewLive - XXX" radio="false",Luciana
+https://cdn.baddiehub.com/LucianaP.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/05/lotu-613x360.jpg" group-title="DrewLive - XXX" radio="false",Lucy Lotus
+https://cdn.baddiehub.com/Lotu.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/g5wb-613x360.jpg" group-title="DrewLive - XXX" radio="false",Luna
+https://cdn.baddiehub.com/g5wbp.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/fras-613x360.jpg" group-title="DrewLive - XXX" radio="false",Luna 2
+https://cdn.baddiehub.com/frasb.mp4
+#EXTINF:-1  tvg-name="Luna Baby" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Luna Baby
+https://cdn.baddiehub.com/e9ip.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/gdr-613x360.jpg" group-title="DrewLive - XXX" radio="false",Luna Luxe
+https://cdn.baddiehub.com/gdrb.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/cuwg-613x360.jpg" group-title="DrewLive - XXX" radio="false",Luna Star
+https://cdn.baddiehub.com/cuwgl.mp4
+#EXTINF:-1  tvg-name="Luna Star & Emma Magnolia - Brazzers" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Luna Star & Emma Magnolia - Brazzers
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Luna%20Star%20%26%20Emma%20Magnolia%20-%20Brazzers/BrazzersExxtra.24.07.19.Luna.Star.And.Emma.Magnolia.XXX.1080p.HEVC.x265.PRT.mkv
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/j58m-613x360.jpg" group-title="DrewLive - XXX" radio="false",Luna Star & Kali Roses
+https://cdn.baddiehub.com/j58m.mp4
+#EXTINF:-1  tvg-name="Luna Star Reality Kings" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Luna Star Reality Kings
+https://cdn.baddiehub.com/LunRK.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/08/xs9u-613x360.jpg" group-title="DrewLive - XXX" radio="false",Lunar Liv
+https://cdn.baddiehub.com/xs9u.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/mddb-613x360.jpg" group-title="DrewLive - XXX" radio="false",Maddison Black
+https://cdn.baddiehub.com/maddb.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/06/mddz-613x360.jpg" group-title="DrewLive - XXX" radio="false",Mandy Muse
+https://cdn.baddiehub.com/mddyz.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/04/mmte-613x360.jpg" group-title="DrewLive - XXX" radio="false",Mandy Muse 2
+https://cdn.baddiehub.com/MMTe.mp4
+#EXTINF:-1  tvg-name="Maya Bijou" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Maya Bijou
+https://cdn.baddiehub.com/MayBijo.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/08/m32-613x360.jpg" group-title="DrewLive - XXX" radio="false",MBN
+https://cdn.baddiehub.com/m32p.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/diu2-613x360.jpg" group-title="DrewLive - XXX" radio="false",MF
+https://cdn.baddiehub.com/diu2x.mp4
+#EXTINF:-1  tvg-name="Mia Malkova & Kira Noir - Blacked" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Mia Malkova & Kira Noir - Blacked
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Mia%20Malkova%20%26%20Kira%20Noir%20-%20Blacked/Blacked.18.09.02.Mia.Malkova.And.Kira.Noir.A.Gift.From.Mr.M.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/06/tlfl-613x360.jpg" group-title="DrewLive - XXX" radio="false",Mila Milkshake
+https://cdn.baddiehub.com/TLFLa.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/vfm0-613x360.jpg" group-title="DrewLive - XXX" radio="false",Milano Persuasion
+https://cdn.baddiehub.com/vfm0p.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/miqs-613x360.jpg" group-title="DrewLive - XXX" radio="false",Milli
+https://cdn.baddiehub.com/miqs3.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/joie-613x360.jpg" group-title="DrewLive - XXX" radio="false",Milli Da Don
+https://cdn.baddiehub.com/joie8.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/ca41-613x360.jpg" group-title="DrewLive - XXX" radio="false",Mini Loona
+https://cdn.baddiehub.com/ca41.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/oia-613x360.jpg" group-title="DrewLive - XXX" radio="false",Miss Carter
+https://cdn.baddiehub.com/oias.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/onj-613x360.jpg" group-title="DrewLive - XXX" radio="false",Money Birdette
+https://cdn.baddiehub.com/onjc.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/cwe8-613x360.jpg" group-title="DrewLive - XXX" radio="false",Ms Kay Simone
+https://cdn.baddiehub.com/cwe86.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/her-613x360.jpg" group-title="DrewLive - XXX" radio="false",Ms Sethi
+https://cdn.baddiehub.com/Her.mp4
+#EXTINF:-1  tvg-name="MTV Kay" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",MTV Kay
+https://cdn.baddiehub.com/MTV.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/woz7-613x360.jpg" group-title="DrewLive - XXX" radio="false",Mulan Vuitton
+https://cdn.baddiehub.com/woz7.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/mupx-613x360.jpg" group-title="DrewLive - XXX" radio="false",Muva Phoenix
+https://cdn.baddiehub.com/mupxx.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/meud-613x360.jpg" group-title="DrewLive - XXX" radio="false",nastyskii
+https://cdn.baddiehub.com/meud.mp4
+#EXTINF:-1  tvg-name="NFNC" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",NFNC
+https://cdn.baddiehub.com/scq.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2021/04/NLS-613x360.jpg" group-title="DrewLive - XXX" radio="false",NI Live 2
+https://cdn.baddiehub.com/NILS.mp4
+#EXTINF:-1  tvg-name="Nia Bleu" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Nia Bleu
+https://cdn.baddiehub.com/wpow.mp4
+#EXTINF:-1  tvg-name="Nia Nacci" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Nia Nacci
+https://cdn.baddiehub.com/NiaNacc.mp4
+#EXTINF:-1  tvg-name="Nico Luva" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Nico Luva
+https://cdn.baddiehub.com/NcLva.mp4
+#EXTINF:-1  tvg-name="Nico Luva 2" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Nico Luva 2
+https://cdn.baddiehub.com/NcLF.mp4
+#EXTINF:-1  tvg-name="Nicole Doshi" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Nicole Doshi
+https://cdn.baddiehub.com/NSqui.mp4
+#EXTINF:-1  tvg-name="Nicole Doshi - Nookies" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Nicole Doshi - Nookies
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Nicole%20Doshi%20-%20Nookies/nookies.25.01.20.nicole.doshi.mp4
+#EXTINF:-1  tvg-name="Nicole Doshi 2" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Nicole Doshi 2
+https://cdn.baddiehub.com/LNAR.mp4
+#EXTINF:-1  tvg-name="Nika Venom" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Nika Venom
+https://cdn.baddiehub.com/NikVen.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2022/12/niykc-613x360.jpg" group-title="DrewLive - XXX" radio="false",Niykee
+https://cdn.baddiehub.com/NiykC.mp4
+#EXTINF:-1  tvg-name="Niykee Cruz" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Niykee Cruz
+https://cdn.baddiehub.com/fNCrz.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2023/03/nollyw-613x360.jpg" group-title="DrewLive - XXX" radio="false",Nollywood
+https://cdn.baddiehub.com/Nollyw.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2021/02/NS-1-613x360.jpg" group-title="DrewLive - XXX" radio="false",Non-Stop
+https://cdn.baddiehub.com/NS.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/wuo-613x360.jpg" group-title="DrewLive - XXX" radio="false",Novacane
+https://cdn.baddiehub.com/wuo6b.mp4
+#EXTINF:-1  tvg-name="Nuria Millan - PremiumBukakke" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Nuria Millan - PremiumBukakke
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Nuria%20Millan%20-%20PremiumBukakke/premiumbukkake.2024.nuria.millan.3.bukkake.xxx.mp4
+#EXTINF:-1  tvg-name="Nympho Candy" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Nympho Candy
+https://cdn.baddiehub.com/yNiZ.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2022/11/nynymp-613x360.jpg" group-title="DrewLive - XXX" radio="false",Nyny Lew
+https://cdn.baddiehub.com/NynyMP.mp4
+#EXTINF:-1  tvg-name="Octokuro - RoccoSiffredi" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Octokuro - RoccoSiffredi
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Octokuro%20-%20RoccoSiffredi/Octokuro.Extreme.Procedure.With.The.Best.Results.1080.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/tp-613x360.jpg" group-title="DrewLive - XXX" radio="false",Paris
+https://cdn.baddiehub.com/TPMs.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/a2u-613x360.jpg" group-title="DrewLive - XXX" radio="false",PBP
+https://cdn.baddiehub.com/a2u5.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/peu-613x360.jpg" group-title="DrewLive - XXX" radio="false",PBP 2
+https://cdn.baddiehub.com/peuh.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/fpty-613x360.jpg" group-title="DrewLive - XXX" radio="false",PH
+https://cdn.baddiehub.com/fptya.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/wdd4-613x360.jpg" group-title="DrewLive - XXX" radio="false",Pink Kitty
+https://cdn.baddiehub.com/wdd4.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/wfe6-613x360.jpg" group-title="DrewLive - XXX" radio="false",Pink Kitty 2
+https://cdn.baddiehub.com/wfe68.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/tiip-613x360.jpg" group-title="DrewLive - XXX" radio="false",Prettii Paiid
+https://cdn.baddiehub.com/tiiP.mp4
+#EXTINF:-1  tvg-name="Princess Emily" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Princess Emily
+https://cdn.baddiehub.com/ugtw.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/jade-613x360.jpg" group-title="DrewLive - XXX" radio="false",Princess Emily & Jada Stevens
+https://cdn.baddiehub.com/JadE.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/u5n-613x360.jpg" group-title="DrewLive - XXX" radio="false",Princess Emily 2
+https://cdn.baddiehub.com/u5nj.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Princess Emily 3
+https://cdn.baddiehub.com/o1g5.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/z31-613x360.jpg" group-title="DrewLive - XXX" radio="false",Princess Emily 4
+https://cdn.baddiehub.com/z31d.mp4
+#EXTINF:-1  tvg-name="Princess Emily x Dredd" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Princess Emily x Dredd
+https://cdn.baddiehub.com/xPmi.mp4
+#EXTINF:-1  tvg-name="Princess Hanna - GloryHoleSwallow" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Princess Hanna - GloryHoleSwallow
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Princess%20Hanna%20-GloryHoleSwallow/Princess.Hanna.The.Round.Parts.Work.The.Holes.1080.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/kvrt-613x360.jpg" group-title="DrewLive - XXX" radio="false",Promise
+https://cdn.baddiehub.com/kvrt.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/elro-613x360.jpg" group-title="DrewLive - XXX" radio="false",Queen Rogue & Twerking Elle
+https://cdn.baddiehub.com/elro.mp4
+#EXTINF:-1  tvg-name="Rai Blue" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Rai Blue
+https://cdn.baddiehub.com/pz1o.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/rai-613x360.jpg" group-title="DrewLive - XXX" radio="false",Raissa Nur
+https://cdn.baddiehub.com/Rai.mp4
+#EXTINF:-1  tvg-name="Raven Thick" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Raven Thick
+https://cdn.baddiehub.com/xRaT.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/ravt1-613x360.jpg" group-title="DrewLive - XXX" radio="false",Raven Thick 2
+https://cdn.baddiehub.com/ravt12.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/08/ht3-613x360.jpg" group-title="DrewLive - XXX" radio="false",realyella
+https://cdn.baddiehub.com/ht37.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/ms85-613x360.jpg" group-title="DrewLive - XXX" radio="false",Regina Luv
+https://cdn.baddiehub.com/ms85.mp4
+#EXTINF:-1  tvg-name="Remy Woods - Ricky'sRoom" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Remy Woods - Ricky'sRoom
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Remy%20Woods%20-%20Ricky'sRoom/rickysroom.25.05.08.remy.woods.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2023/03/reynr-613x360.jpg" group-title="DrewLive - XXX" radio="false",Reyna
+https://cdn.baddiehub.com/ReynaR.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/haau-613x360.jpg" group-title="DrewLive - XXX" radio="false",Rita Bang
+https://cdn.baddiehub.com/haauz.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/pru-613x360.jpg" group-title="DrewLive - XXX" radio="false",Rue Lynn
+https://cdn.baddiehub.com/pruel.mp4
+#EXTINF:-1  tvg-name="Ruth Lee" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Ruth Lee
+https://cdn.baddiehub.com/RthL20.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/rcnr-613x360.jpg" group-title="DrewLive - XXX" radio="false",Ryan Conner
+https://cdn.baddiehub.com/RCnr.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/rypv-613x360.jpg" group-title="DrewLive - XXX" radio="false",Ryan Conner 2
+https://cdn.baddiehub.com/rypv.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/jpb-613x360.jpg" group-title="DrewLive - XXX" radio="false",Sandy Love & Jolla PR
+https://cdn.baddiehub.com/jpb3.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/07/srbc-613x360.jpg" group-title="DrewLive - XXX" radio="false",Sara Retali
+https://cdn.baddiehub.com/SRBC.mp4
+#EXTINF:-1  tvg-name="Sarai Minx" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Sarai Minx
+https://cdn.baddiehub.com/SaraiO.mp4
+#EXTINF:-1  tvg-name="Sativa" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Sativa
+https://cdn.baddiehub.com/dfft.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/newi-613x360.jpg" group-title="DrewLive - XXX" radio="false",Savannah Bond
+https://cdn.baddiehub.com/newi2.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/gbnd-613x360.jpg" group-title="DrewLive - XXX" radio="false",Savannah Bond 2
+https://cdn.baddiehub.com/GBond.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/sli-613x360.jpg" group-title="DrewLive - XXX" radio="false",Selina Slayer
+https://cdn.baddiehub.com/Sli23.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/kolh-613x360.jpg" group-title="DrewLive - XXX" radio="false",Serenity
+https://cdn.baddiehub.com/kolh.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/kynh-613x360.jpg" group-title="DrewLive - XXX" radio="false",SGF
+https://cdn.baddiehub.com/kynh.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/hum2-613x360.jpg" group-title="DrewLive - XXX" radio="false",SGF 2
+https://cdn.baddiehub.com/hum2y.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/shwl-613x360.jpg" group-title="DrewLive - XXX" radio="false",Shawna Lynn
+https://cdn.baddiehub.com/shwlx.mp4
+#EXTINF:-1  tvg-name="Sinatra & Luna" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Sinatra & Luna
+https://cdn.baddiehub.com/LSinat.mp4
+#EXTINF:-1  tvg-name="Sinatra Monroe" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Sinatra Monroe
+https://cdn.baddiehub.com/xgjr.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/um45-613x360.jpg" group-title="DrewLive - XXX" radio="false",SlimAT
+https://cdn.baddiehub.com/um45.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2023/04/ssl3-613x360.jpg" group-title="DrewLive - XXX" radio="false",SSLala
+https://cdn.baddiehub.com/SSLala3.mp4
+#EXTINF:-1  tvg-name="Starfire" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Starfire
+https://cdn.baddiehub.com/LilStarf.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/ss2-613x360.jpg" group-title="DrewLive - XXX" radio="false",Starry Sigh
+https://cdn.baddiehub.com/SS25.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/05/stfal-613x360.jpg" group-title="DrewLive - XXX" radio="false",Steffy Moreno & Alexis Doll
+https://cdn.baddiehub.com/StfAlx.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2023/03/slcm-613x360.jpg" group-title="DrewLive - XXX" radio="false",Stella Brooks
+https://cdn.baddiehub.com/StellaCom.mp4
+#EXTINF:-1  tvg-name="Steph Murves" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Steph Murves
+https://cdn.baddiehub.com/wnnd.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/ff4-613x360.jpg" group-title="DrewLive - XXX" radio="false",Summer
+https://cdn.baddiehub.com/ff4j.mp4
+#EXTINF:-1  tvg-name="Sunny Bunny" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Sunny Bunny
+https://cdn.baddiehub.com/vQf.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/o2b-613x360.jpg" group-title="DrewLive - XXX" radio="false",SupaSoaka
+https://cdn.baddiehub.com/o2b7.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/zhyg-613x360.jpg" group-title="DrewLive - XXX" radio="false",Sweet Monae
+https://cdn.baddiehub.com/z3hyg.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/08/th5x-613x360.jpg" group-title="DrewLive - XXX" radio="false",Tatted Mami
+https://cdn.baddiehub.com/th5x.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/07/syba-613x360.jpg" group-title="DrewLive - XXX" radio="false",Tatted Mamii
+https://cdn.baddiehub.com/sybaz.mp4
+#EXTINF:-1  tvg-name="Tekken 8" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Tekken 8
+https://cdn.baddiehub.com/SKonJ.mp4
+#EXTINF:-1  tvg-name="Tessa Thomas" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Tessa Thomas
+https://cdn.baddiehub.com/BTss.mp4
+#EXTINF:-1  tvg-name="Tessa Thomas & Lily Starfire - StepSiblings" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Tessa Thomas & Lily Starfire - StepSiblings
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Tessa%20Thomas%20%26%20Lily%20Starfire%20-%20StepSiblings/stepsiblings.24.12.31.lily.starfire.and.tessa.thomas.mp4
+#EXTINF:-1  tvg-name="Tessa Thomas - DirtyAuditions" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Tessa Thomas - DirtyAuditions
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Tessa%20Thomas%20-%20DirtyAuditions/Tessa.Thomas.Try.and.See.How.More.You.Can.Gape.It.1080.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/07/rri-613x360.jpg" group-title="DrewLive - XXX" radio="false",Texas
+https://cdn.baddiehub.com/rrie.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/thl2-613x360.jpg" group-title="DrewLive - XXX" radio="false",Thalia Diaz
+https://cdn.baddiehub.com/Thl25.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/kizr-613x360.jpg" group-title="DrewLive - XXX" radio="false",thelatbarbie
+https://cdn.baddiehub.com/kizry.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/fr8-613x360.jpg" group-title="DrewLive - XXX" radio="false",thelatina
+https://cdn.baddiehub.com/fr8o.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/08/fa2g-613x360.jpg" group-title="DrewLive - XXX" radio="false",thelatina 2
+https://cdn.baddiehub.com/fa2g.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/jiky-613x360.jpg" group-title="DrewLive - XXX" radio="false",themanseater
+https://cdn.baddiehub.com/jiky.mp4
+#EXTINF:-1  tvg-name="Tiffany & HMR" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Tiffany & HMR
+https://cdn.baddiehub.com/HMRTiffn.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/07/tknc-613x360.jpg" group-title="DrewLive - XXX" radio="false",Tommy King
+https://cdn.baddiehub.com/TKnC.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/uom-613x360.jpg" group-title="DrewLive - XXX" radio="false",Trapsweety
+https://cdn.baddiehub.com/uomy.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/btrix-613x360.jpg" group-title="DrewLive - XXX" radio="false",Trixi Brooks
+https://cdn.baddiehub.com/BTrix.mp4
+#EXTINF:-1  tvg-name="Trixie" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Trixie
+https://cdn.baddiehub.com/VEN.mp4
+#EXTINF:-1  tvg-name="Trixie Venus" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Trixie Venus
+https://cdn.baddiehub.com/775.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/pmn-613x360.jpg" group-title="DrewLive - XXX" radio="false",Tucson
+https://cdn.baddiehub.com/pmnd.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/o6g-613x360.jpg" group-title="DrewLive - XXX" radio="false",U-Haul
+https://cdn.baddiehub.com/o6gey.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/vvnn-613x360.jpg" group-title="DrewLive - XXX" radio="false",Valentine Vixen
+https://cdn.baddiehub.com/VVNN.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/h33-613x360.jpg" group-title="DrewLive - XXX" radio="false",Vanessa & Kiki
+https://cdn.baddiehub.com/h33v.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/vtc-613x360.jpg" group-title="DrewLive - XXX" radio="false",Vanessa The Coach
+https://cdn.baddiehub.com/VTCo.mp4
+#EXTINF:-1  tvg-name="Veronica Leal - StepPOV" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Veronica Leal - StepPOV
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Veronica%20Leal%20-%20StepPOV/steppov.21.07.06.veronica.leal.old.fashioned.values.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/pbbb-613x360.jpg" group-title="DrewLive - XXX" radio="false",Victoria Peach
+https://cdn.baddiehub.com/pbbc.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/anvc-613x360.jpg" group-title="DrewLive - XXX" radio="false",Victoria Peach & Angel Youngs
+https://cdn.baddiehub.com/AnVc.mp4
+#EXTINF:-1  tvg-name="Vina Sky - AsiansExploited" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Vina Sky - AsiansExploited
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Vina%20Sky%20-%20AsiansExploited/AsiansExploited.22.11.26.Vina.Sky.Always.Be.Closing.XXX.1080p.HEVC.x265.PRT.mkv
+#EXTINF:-1  tvg-name="Vina Sky - Tushy" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Vina Sky - Tushy
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Vina%20Sky%20-%20Tushy/TushyRaw.19.03.11.Vina.Sky.Circling.The.Rim.XXX.1080p.HEVC.x265.PRT.mkv
+#EXTINF:-1  tvg-name="Violet Myers" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Violet Myers
+https://cdn.baddiehub.com/b.mp4
+#EXTINF:-1  tvg-name="Violet Myers & Mz Jessie" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Violet Myers & Mz Jessie
+https://cdn.baddiehub.com/714.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/06/brzz-613x360.jpg" group-title="DrewLive - XXX" radio="false",Violet Myers 2
+https://cdn.baddiehub.com/brzz.mp4
+#EXTINF:-1  tvg-name="Vitoria Beatriz" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Vitoria Beatriz
+https://cdn.baddiehub.com/ViBtriz.mp4
+#EXTINF:-1  tvg-name="Vitoria Beatriz 2" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Vitoria Beatriz 2
+https://cdn.baddiehub.com/ViOS.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/b0e-613x360.jpg" group-title="DrewLive - XXX" radio="false",Wendy’s
+https://cdn.baddiehub.com/b0ez.mp4
+#EXTINF:-1  tvg-name="Wicca Lavey" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Wicca Lavey
+https://cdn.baddiehub.com/Wccc.mp4
+#EXTINF:-1  tvg-name="Willow & Emily" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Willow & Emily
+https://cdn.baddiehub.com/cuvs.mp4
+#EXTINF:-1  tvg-name="Willow & HMR" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Willow & HMR
+https://cdn.baddiehub.com/WillHMR.mp4
+#EXTINF:-1  tvg-name="Willow Ryder & Kelsey Kane - AssParade" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Willow Ryder & Kelsey Kane - AssParade
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Willow%20Ryder%20%26%20Kelsey%20Kane%20-%20AssParade/AssParade.24.02.26.Willow.Ryder.And.Kelsey.Kane.XXX.1080p.HEVC.x265.PRT.mkv
+#EXTINF:-1  tvg-name="Willow Ryder & Zerella Skies" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Willow Ryder & Zerella Skies
+https://cdn.baddiehub.com/Ddx.mp4
+#EXTINF:-1  tvg-name="Willow Ryder - Tushy" tvg-id="Adult.Section.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveXXX.png" group-title="DrewLive - XXX" radio="false",Willow Ryder - Tushy
+http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Willow%20Ryder%20-%20Tushy/Tushy.24.05.12.Willow.Ryder.Nerves.3.XXX.1080p.HEVC.x265.PRT.mkv
+#EXTINF:-1  tvg-name="Yasmina Khan" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Yasmina Khan
+https://cdn.baddiehub.com/wmmb.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/ynxr-613x360.jpg" group-title="DrewLive - XXX" radio="false",Yasmina Khan & Audrey Reid
+https://cdn.baddiehub.com/ynxr2.mp4
+#EXTINF:-1  tvg-name="Yasmina Khan 2" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Yasmina Khan 2
+https://cdn.baddiehub.com/recibe.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/yv2-613x360.jpg" group-title="DrewLive - XXX" radio="false",Yinyleon
+https://cdn.baddiehub.com/yv24.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/ymd-613x360.jpg" group-title="DrewLive - XXX" radio="false",Yum The Boss
+https://cdn.baddiehub.com/YmDn.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/guba-613x360.jpg" group-title="DrewLive - XXX" radio="false",Zen Mami
+https://cdn.baddiehub.com/Mch.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Zoey Foxx
+https://cdn.baddiehub.com/ZFxx.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/ec53-613x360.jpg" group-title="DrewLive - XXX" radio="false",Zoey Foxx 2
+https://cdn.baddiehub.com/ec53.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="DrewLive - XXX" radio="false",Zoey Foxx 3
+https://cdn.baddiehub.com/hepfy.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/08/x7s-613x360.jpg" group-title="DrewLive - XXX" radio="false",Zoey Foxx 4
+https://cdn.baddiehub.com/x7sn.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/09/whix-613x360.jpg" group-title="DrewLive - XXX" radio="false",Zoey Grey
+https://cdn.baddiehub.com/whix.mp4
+#EXTINF:-1  tvg-id="Adult.Section.Dummy.us" tvg-logo="https://baddiehub.com/wp-content/uploads/2025/10/zusob-613x360.jpg" group-title="DrewLive - XXX" radio="false",Zoey Uso
+https://cdn.baddiehub.com/ZUsoB.mp4
