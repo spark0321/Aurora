@@ -44,9 +44,6 @@ http://161.49.17.2:6610/001/2/ch00000090990000001087/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=31363233323238353336303333363036:367662564c69425947353948374f4553
 http://161.49.17.2:6610/001/2/ch00000090990000001179/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
-#EXTINF:-1 ch-number="8" tvg-chno="8" tvg-name="Arirang Radio" group-title="Curry" tvg-id="Dummy" tvg-logo="https://i.pinimg.com/736x/f1/45/c5/f145c52c0fbbc79239b264257e55be2a.jpg", Arirang radio
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
- 
 #EXTINF:-1 ch-number="9" tvg-chno="9" group-title="Curry" tvg-name="CINEMA ONE" tvg-logo="https://i.pinimg.com/736x/f9/6a/24/f96a2471611546297b7b16664627614b.jpg", Cinema One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363736373234333532363730:684b6853695333444a6b345579376a61
@@ -396,14 +393,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001152/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=694257966bc285652baba3c4600998ab:bebef555dede70957a98ba99feca645
 https://kaotv.ganbaruby23.xyz/dash/iheartmovies/manifest.mpd
  
-#EXTINF:-1 group-title="AMOGUS" tvg-id="" tvg-logo="https://i.imgur.com/2TeKCBK.png", National Geographic Channel
-http://supersonictv.live:8080/611366/682256/22124
- 
-#EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", CCTN
-http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
- 
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", Mindanao Network
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232313037353439323837363235:3546456775546d32585738574f477a33
 http://161.49.17.2:6610/001/2/ch00000090990000001123/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -517,6 +507,12 @@ http://161.49.17.2:6610/001/2/ch00000090990000001328/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735313533363732343239353434:5339317237756b6b3845333663626645
 http://161.49.17.2:6610/001/2/ch00000090990000001344/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="AMOGUS" tvg-id="" tvg-logo="https://i.imgur.com/2TeKCBK.png", National Geographic Channel
+http://supersonictv.live:8080/611366/682256/22124
+ 
+#EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", CCTN
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
  
 #EXTINF:-8 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01653-Scream Radio
 https://tunein.cdnstream1.com/3520_96.aac/playlist.m3u8
@@ -1198,6 +1194,9 @@ https://wahyu1ptv.pages.dev/Setanta1-HD.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports2.png" group-title="Loaf", SetantaSports2
 https://wahyu1ptv.pages.dev/Setanta2-HD.m3u8
+
+#EXTINF:-1 ch-number="8" tvg-chno="8" tvg-name="Arirang Radio" group-title="Curry" tvg-id="Dummy" tvg-logo="https://i.pinimg.com/736x/f1/45/c5/f145c52c0fbbc79239b264257e55be2a.jpg", Arirang radio
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-id="" group-title="Loaf" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png" , Global Trekker
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1577,8 +1576,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 https://tvpass.org/live/FXXEast/sd
  
 #EXTINF:-1 group-title="Half" tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png", HBO Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363737303637333532383439:3835746c586730323052394d33383252
 http://vod.nathcreqtives.com/1284/manifest.mpd
@@ -1591,30 +1588,32 @@ http://vod.nathcreqtives.com/1284/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
  
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png", HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fjdYjok6uSUuUFvW3aNb6w","kid":"K5/3zBo9yf70fMV3NHLVEA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 14; MI 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
+
+
 #EXTINF:-1 group-title="Half" tvg-id="" tvg-logo="https://imgur.com/QMB9sFW.png", BBC Earth
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
  
 #EXTINF:-1 group-title="Half" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png", BBC Lifestyle
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
  
 #EXTINF:-1 group-title="Half" tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png", Love Nature
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
  
 #EXTINF:-1 group-title="Half" tvg-id="" tvg-logo="https://static.epg.best/il/MTV.il.png", MTV Live
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
