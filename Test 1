@@ -1,9 +1,14 @@
+Data hosted with ♥ by Pastebin.com - Download Raw - See Original
+#EXTM3U billed-msg="Fan Ho Salt In The Philippines"
+ 
+Note: Channels may be subject to change.
+ 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
  
 **********Curry**********
 #EXTINF:-1 group-logo="https://static.wikia.nocookie.net/youtube/images/b/be/Ho_salt_cat-_Curry.png/revision/latest/scale-to-width-down/1000?cb=20240602054723"
  
-#EXTINF:-1 ch-number="1" tvg-chno="1" group-title="Curry" tvg-name="TV5" tvg-logo="https://i.pinimg.com/736x/7d/cf/3f/7dcf3fc2a27d136fb3f159b33dd358fe.jpg", TV5 HD
+#EXTINF:-1 group-title="Curry" tvg-name="TV5" tvg-logo="https://i.pinimg.com/736x/7d/cf/3f/7dcf3fc2a27d136fb3f159b33dd358fe.jpg", TV5 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
@@ -14,47 +19,27 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="3" tvg-chno="3" group-title="Curry" tvg-id="Zoe TV" tvg-name="Light TV" tvg-logo="https://i.pinimg.com/736x/07/c8/57/07c857454a44c901eefd9dc58bd402bc.jpg", Light TV
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231393132373735323234353438:33564d7a447073443333773974633739
 http://161.49.17.2:6610/001/2/ch00000090990000001103/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="4" tvg-chno="4" group-title="Curry" tvg-name="GTVph" tvg-logo="https://i.pinimg.com/736x/18/55/97/1855979e1f9057d3a8e701944ae4b13d.jpg", Gtv
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
 http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="5" tvg-chno="5" group-title="Curry" tvg-name="Kapamilya Channel" tvg-logo="https://i.pinimg.com/736x/df/df/b7/dfdfb7d85de3c04a7f5e80da9e844c50.jpg", Kapamilya Channel HD
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
 http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="6" group-title="Curry" tvg-chno="6" tvg-name="A2Z" tvg-logo="https://i.pinimg.com/736x/22/84/67/22846728423abf2f4aa1a0fc6f6b2961.jpg", A2Z HD
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383437383231323033353237:583130656f6d3267777a6d7235487858
 https://vod.nathcreqtives.com/1087/manifest.mpd
 http://161.49.17.2:6610/001/2/ch00000090990000001087/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="7" tvg-chno="7" group-title="Curry" tvg-name="ALL TV" tvg-logo="https://i.pinimg.com/736x/dc/41/3a/dc413aa9720013742f159b5b4f3a5624.jpg", Alltv2
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323238353336303333363036:367662564c69425947353948374f4553
 http://161.49.17.2:6610/001/2/ch00000090990000001179/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -63,89 +48,54 @@ http://161.49.17.2:6610/001/2/ch00000090990000001179/manifest.mpd?JITPDRMType=Wi
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
  
 #EXTINF:-1 ch-number="9" tvg-chno="9" group-title="Curry" tvg-name="CINEMA ONE" tvg-logo="https://i.pinimg.com/736x/f9/6a/24/f96a2471611546297b7b16664627614b.jpg", Cinema One
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363736373234333532363730:684b6853695333444a6b345579376a61
 http://161.49.17.2:6610/001/2/ch00000090990000001283/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="10" tvg-chno=10" group-title="Curry" tvg-name="KNOWLEDGE CHANEL" tvg-logo="https://i.pinimg.com/736x/53/fb/d5/53fbd5517bcc8ad7279c388e2529041f.jpg", Knowledge Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce3aa1c6ed6e4d08995d30cd9f2564a9:db985332af2660c701d9c8f1bd187a95
 https://abslive.akamaized.net/dash/live/2028189/kc3/manifest.mpd
  
-#EXTINF:-1 ch-number="11" tvg-chno=11" group-title="Curry" tvg-id="Beam TV" tvg-name="Bilyonaryoch" tvg-logo="https://i.pinimg.com/736x/b6/6e/78/b66e7860bf79e5bcbae60c7e72b5037c.jpg", BNC HD
+#EXTINF:-1 ch-number="11" tvg-chno=11" group-title="Curry" tvg-id="Beam TV" tvg-name="Bilyonaryoch" tvg-group logo="https://i.pinimg.com/736x/b6/6e/78/b66e7860bf79e5bcbae60c7e72b5037c.jpg", BNC HD
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
  
 #EXTINF:-1 ch-number="12" group-title="Curry" tvg-chno=12" tvg-id="Cignal TV" tvg-name="OneXplore" tvg-logo="https://i.pinimg.com/736x/9d/e0/09/9de00964c974564b55a1513e829e3460.jpg", OneXplore
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_mptv/default/index.mpd
  
 #EXTINF:-1 ch-number="13" tvg-chno="13" group-title="Curry" tvg-id="Cignal TV" tvg-name="TRUE FM TV" tvg-logo="https://i.pinimg.com/736x/4c/94/75/4c947501a22ae80aa0901e4b3a48843f.jpg", TrueTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd
  
 #EXTINF:-1 ch-number="14" tvg-chno="14" group-title="Curry" tvg-name="myxph" tvg-logo="https://i.pinimg.com/736x/a5/29/ce/a529cea459893e2785c233a90329b9bf.jpg", myx
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363736333231333532323639:396c467233356c357355497565533536
 http://161.49.17.2:6610/001/2/ch00000090990000001252/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="15" tvg-chno="15" group-title="Curry" tvg-name="IBC" tvg-logo="https://i.pinimg.com/736x/2e/09/cc/2e09cc85c31c653f69e07417e49b38f8.jpg", IBC HD
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383439333634323034333738:364a3849664b37386955623437364579
 http://161.49.17.2:6610/001/2/ch00000090990000001089/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="16" tvg-chno="16" group-title="Curry" tvg-id="PTNI" tvg-name="PTV" tvg-logo="https://i.pinimg.com/736x/12/3f/fe/123ffe5b849a2e00ade707a5797702aa.jpg", PTV
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383437343631323030313134:614762653768324e676a6b3577434733
 http://161.49.17.2:6610/001/2/ch00000090990000001086/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="17" tvg-chno="17" group-title="Curry" tvg-id="Cignal TV" tvg-name="RPTV" tvg-logo="https://i.pinimg.com/736x/1d/a0/d4/1da0d4ae8f1bdf5cfde95122b396263a.jpg", RPTVHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
  
-#EXTINF:-1 ch-number="18" tvg-chno="18" group-title="Curry" tvg-id="Dummy" tvg-name="RedBull TV" tvg-logo="https://i.ibb.co/NTqmxxj/Hungarian-Fight-Championship-HFC-logo-removebg-preview.png", HFC
-https://ln.run/4x0dD
- 
 #EXTINF:-1 ch-number="19" tvg-chno="19" group-title="Curry" tvg-name="Fashion TV" tvg-logo="https://i.pinimg.com/736x/29/25/ae/2925aef573642b24155fdd5862b63e82.jpg", Fashion TV
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232313037313238323837343137:4a696164307578497138383747433934
 http://161.49.17.2:6610/001/2/ch00000090990000001102/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="20" tvg-chno="20" tvg-name="CLTV" tvg-logo="https://i.pinimg.com/736x/92/44/65/92446582471228d9b149cdb0faae4bf3.jpg" group-title="Curry", Central Luzon Television Incorporated
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735303934383833333131363533:4b44557035556777346e4b3745613651
 http://161.49.17.2:6610/001/2/ch00000090990000001314/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -157,27 +107,16 @@ https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
  
 #EXTINF:-1 ch-number="23" tvg-chno="23" group-title="Curry" tvg-name="Animax" tvg-logo="https://i.pinimg.com/736x/20/f0/9f/20f09f88d5b2db549ca0c686f2c6323f.jpg", AnimaX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735313338333439333931313233:684d68576e503057333661375877336e
 http://161.49.17.2:6610/001/2/ch00000090990000001315/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="24" tvg-chno="24" group-title="Curry" tvg-name="NBA TV Philippines" tvg-logo="https://i.pinimg.com/736x/02/44/e3/0244e35a41fd5a4724406f5720fcc69f.jpg", NBA TV Philippines HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
  
 #EXTINF:-1 ch-number="25" tvg-chno="25" tvg-name="NET 25" tvg-logo="https://i.pinimg.com/736x/7b/1a/43/7b1a43b767b84f605b84472e81c272fe.jpg" group-title="Curry", NET25
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231393131363337323232353030:56783536726130576e5a4171564c3741
 http://161.49.17.2:6610/001/2/ch00000090990000001090/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -186,17 +125,11 @@ http://161.49.17.2:6610/001/2/ch00000090990000001090/manifest.mpd?JITPDRMType=Wi
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
  
 #EXTINF:-1 ch-number="27" tvg-chno="27" tvg-name="JEEPNEY TV" tvg-logo="https://i.pinimg.com/736x/76/36/ea/7636ea0637bdbc796f54c8b7087c6805.jpg" group-title="Curry", Jeepney TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90ea4079e02f418db7b170e8763e65f0:1bfe2d166e31d03eee86ee568bd6c272
 https://abslive.akamaized.net/dash/live/2028025/jeepneytv/manifest.mpd
  
 #EXTINF:-1 ch-number="28" tvg-chno="28" group-title="Curry" tvg-id="Warner inc" tvg-name="Warnertv Hd" tvg-logo="https://i.pinimg.com/736x/f9/b7/cf/f9b7cf64d7284bc47d27a894f7da564c.jpg", Warner TV HD1
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231393338393034323331373536:6b75304a3061326f78593545384f3165
 http://161.49.17.2:6610/001/2/ch00000090990000001096/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -205,19 +138,11 @@ http://161.49.17.2:6610/001/2/ch00000090990000001096/manifest.mpd?JITPDRMType=Wi
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
  
 #EXTINF:-1 ch-number="30" tvg-chno="30" group-title="Curry" tvg-name="RJ TV" tvg-logo="https://i.pinimg.com/736x/72/11/43/721143274d861531fb2b0e8c5033edcc.jpg", RJ DigiTV
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323237323935303332363334:38346b5732353165303954347677476e
 http://161.49.17.2:6610/001/2/ch00000090990000001159/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="31" tvg-chno="31" group-title="Curry" tvg-name="Solar Flix ph" tvg-logo="https://i.pinimg.com/736x/cb/72/e4/cb72e4b9347dd501c4ba810210b238ca.jpg", Solarflix
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331313738363633373739363234:5436395534576f7638744a43356d336e
 http://161.49.17.2:6610/001/2/ch00000090990000001243/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -226,91 +151,61 @@ http://161.49.17.2:6610/001/2/ch00000090990000001243/manifest.mpd?JITPDRMType=Wi
 #EXTINF:-1 group-logo="https://static.wikia.nocookie.net/youtube/images/1/19/2-2.png/revision/latest/scale-to-width-down/1000?cb=20240602082208"
  
 #EXTINF:-1 ch-number="32" tvg-chno="1" tvg-logo="https://i.pinimg.com/736x/26/52/74/2652743a71e253c4fff22a9b34ff2971.jpg" group-title="SIG", Rai italia
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232303232333339323537393135:58664f6c6c4a63307738616d38303062
 http://161.49.17.2:6610/001/2/ch00000090990000001099/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="33" tvg-chno="2" tvg-logo="https://i.pinimg.com/736x/18/86/a4/1886a48723fc3ac50314ea15ca9be3b2.jpg" group-title="SIG", A2Z SD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
  
 #EXTINF:-1 ch-number="34" tvg-chno="3" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" group-title="SIG", UAAP
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
  
 #EXTINF:-1 ch-number="35" tvg-chno="4" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" group-title="SIG", Lifetime HD
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230383830323639303031313938:715a36614f62445635304852794b3676
 http://161.49.17.2:6610/001/2/ch00000090990000001075/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="36" tvg-chno="5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="SIG", Cartoon Network HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
  
 #EXTINF:-1 ch-number="37" tvg-chno="6" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" group-title="SIG", Food Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7299ea0af8945479cd2f287ee7d530e:b8ae7679cf18e7261303313b18ba7a14
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
  
 #EXTINF:-1 ch-number="38" tvg-chno="7" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" group-title="SIG", Tap Sports HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233303437333337383938393931:4344324b7661386b4579323633343645
 http://161.49.17.2:6610/001/2/ch00000090990000001151/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="39" tvg-chno="8" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" group-title="SIG", Warner
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
  
 #EXTINF:-1 ch-number="40" tvg-chno="9" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" group-title="SIG", BNC SD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default/index.mpd
  
 #EXTINF:-1 ch-number="41" tvg-chno="10" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" group-title="SIG", HBO HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
  
 #EXTINF:-1 ch-number="42" tvg-chno="11" group-title="SIG" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg", CableSalt PPV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f873dc6412b11edb8780242ac120002:7511efa4f5f1f82fe61776ba3b49fc10
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_disney+/default/index.mpd
  
 #EXTINF:-1 ch-number="43" tvg-chno="12" tvg-logo="https://i.pinimg.com/736x/96/40/69/9640692d57d82e289ebfbbff55e93194.jpg" group-title="SIG", Arirang SD
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232303137313138323534373134:6f52306f47445a634838615a31643449
 http://161.49.17.2:6610/001/2/ch00000090990000001107/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -319,66 +214,41 @@ http://161.49.17.2:6610/001/2/ch00000090990000001107/manifest.mpd?JITPDRMType=Wi
 #EXTINF:-1 group-logo="https://static.wikia.nocookie.net/youtube/images/1/10/Card_cat-_Amongus.png/revision/latest/scale-to-width-down/1000?cb=20240602082504"
  
 #EXTINF:-1 ch-number="44" tvg-chno="1" tvg-id="DZMM TELERADYO" tvg-name="DZMM Teleradyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/1280px-DZMM_TeleRadyo.svg.png" group-title="AMOGUS", DZMM Teleradyo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
  
 #EXTINF:-1 ch-number="45" tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Aliw_Channel_23_logo.png" group-title="AMOGUS", Aliw
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232303137373937323535313836:3551344768323677674c32704a713249
 http://161.49.17.2:6610/001/2/ch00000090990000001109/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="46" tvg-chno="3" group-title="AMOGUS" tvg-id="" tvg-logo="https://i.imgur.com/x1wehbs.png", Cartoonito Asia
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
 https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
  
 #EXTINF:-1 ch-number="47" tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/300px-UNTV-Logo-2016.svg.png" group-title="AMOGUS", UNTV
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231393131383734323234313831:7a333137597652656743393372427153
 http://161.49.17.2:6610/001/2/ch00000090990000001091/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="48" tvg-chno="5" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/62/DZRH_TV_Logo_November_2021.png/revision/latest?cb=20211215134648" group-title="AMOGUS", DZRH TV
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323236373936303238393632:74576436426946764a6b4e5734456e37
 http://161.49.17.2:6610/001/2/ch00000090990000001174/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="49" tvg-chno="6" tvg-id="" tvg-logo="https://i.imgur.com/ZCYeUV2.png" group-title="AMOGUS", Travel Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd
  
 #EXTINF:-1 ch-number="50" tvg-chno="7" tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/1/1e/INC_TV_White_Logo_July_2022.png" group-title="AMOGUS", INCTV
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231393132323937323234333139:74516e7a4f3472713651316233425841
 http://161.49.17.2:6610/001/2/ch00000090990000001092/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="51" tvg-chno="8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="AMOGUS", One Sports HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
@@ -389,56 +259,36 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 http://161.49.17.2:6610/001/2/ch00000090990000001254/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="53" tvg-chno="10" tvg-id="anc1" tvg-name="ANC HD (TFC)" tvg-logo="https://i.pinimg.com/736x/3f/46/93/3f4693e9ddc434572bb31cfbc585196a.jpg" group-title="AMOGUS", ANC HD1
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363234353837393638333931313738:335a493259306157495a557356494b44
 http://161.49.17.2:6610/001/2/ch00000090990000001216/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="54" tvg-chno="11" tvg-id="" tvg-logo="https://i.imgur.com/Wv0K5Yc.png" channel-number="2" group-title="AMOGUS", BuKO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd
  
 #EXTINF:-1 ch-number="55" tvg-chno="12" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ec/Sari-Sari_Channel_2D_Logo_2016.png/revision/latest?cb=20190317023940" group-title="AMOGUS", SARI-SARI
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd
  
 #EXTINF:-1 ch-number="56" tvg-chno="13" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="AMOGUS", tvN Movies Pinoy
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd
  
 #EXTINF:-1 ch-number="57" tvg-chno="14" tvg-id="" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="AMOGUS", tvN Express
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mpd
  
 #EXTINF:-1 ch-number="58" tvg-chno="15" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="AMOGUS", PBO
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230393830323336303039323834:7676746b584436514331503256784654
 http://161.49.17.2:6610/001/2/ch00000090990000001078/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="59" tvg-chno="16" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" group-title="AMOGUS", Viva Cinema
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230393830353534303039353831:506e354374394938446439344b6f3741
 http://161.49.17.2:6610/001/2/ch00000090990000001079/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -447,172 +297,101 @@ http://161.49.17.2:6610/001/2/ch00000090990000001079/manifest.mpd?JITPDRMType=Wi
 https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/playlist.m3u8
  
 #EXTINF:-1 ch-number="61" tvg-chno="18" tvg-id="" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="AMOGUS", TMC
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230393830373532303039383138:363354494336436b494a776f4a796634
 http://161.49.17.2:6610/001/2/ch00000090990000001080/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="62" tvg-chno="19" tvg-id="dreamworks_hd" group-title="AMOGUS" tvg-logo="https://i.imgur.com/cgfKSDP.png", DreamWorks
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
  
 #EXTINF:-1 ch-number="63" tvg-chno="20" tvg-id="" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="AMOGUS", DreamWorks (Tagalized)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
  
 #EXTINF:-1 ch-number="64" tvg-chno="21" tvg-id="" tvg-logo="https://i.imgur.com/JOg1GGl.png" group-title="AMOGUS",CNN Philippines
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
-#EXTVLCOPT:http-origin=https://cignalplay.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd
  
 #EXTINF:-1 ch-number="65" tvg-chno="22" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="AMOGUS", Celestial Movies Pinoy
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230383933303132303032303231:6b5058557254355845335a6e63737030
 http://161.49.17.2:6610/001/2/ch00000090990000001077/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="66" tvg-chno="23" tvg-logo="https://i.pinimg.com/736x/5b/61/e1/5b61e1217670410cb3cbb5f2de8752ee.jpg" group-title="AMOGUS", SolarSports
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231323336323430303533343333:6a53385957735a304f6a307056793475
 http://161.49.17.2:6610/001/2/ch00000090990000001081/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="67" tvg-chno="24" tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c4/Metro_Channel_White_Logo_2018.png/revision/latest?cb=20210301130321" group-title="AMOGUS", Metro Channel
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363334313133373731323334343436:673478506852336979544a4f38475479
 http://161.49.17.2:6610/001/2/ch00000090990000001267/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="68" tvg-chno="25" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" group-title="AMOGUS", IBC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ecd238c0394592b8d3559c06b1faf5:05b47ae3be1368912ebe28f87480fc84
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/ibc13_sd_new/default1/index.mpd
  
 #EXTINF:-1 ch-number="69" tvg-chno="26" tvg-id="abcaustralia1" tvg-name="ABC Australia" tvg-logo="https://i.pinimg.com/736x/8f/80/00/8f80005ded179eeb226c62239fabeeee.jpg" group-title="AMOGUS", ABC Australia
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232303231333139323537333830:3139614a6335316d644f566d37444c75
 http://161.49.17.2:6610/001/2/ch00000090990000001111/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="70" tvg-chno="27" tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://i.pinimg.com/736x/fc/71/b8/fc71b8e682d7c33a927917ea54648282.jpg" group-title="AMOGUS", 3ABN
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323238373138303333383536:483831727543493439436c394f623444
 http://161.49.17.2:6610/001/2/ch00000090990000001183/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="71" tvg-chno="28" tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://i.pinimg.com/736x/69/78/86/6978866d5a91bec340b8e8bd234c950e.jpg" group-title="AMOGUS", ONHC
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323237303338303332343538:373648504f5155373054657665783851
 http://161.49.17.2:6610/001/2/ch00000090990000001175/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="72" tvg-chno="29" tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://i.pinimg.com/736x/80/05/50/80055036617c38afaf84ec253eb283d6.jpg" group-title="AMOGUS", TVe
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232303232313031323537373830:3567746e30367a714e3346344f415947
 http://161.49.17.2:6610/001/2/ch00000090990000001112/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="73" tvg-chno="30" tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://i.pinimg.com/736x/36/12/79/361279d48120709a668a7ac1c922a596.jpg" group-title="AMOGUS", EWTN
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231393133313335323234373039:4372743534626238333533784d336159
 http://161.49.17.2:6610/001/2/ch00000090990000001104/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="74" tvg-chno="31" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="AMOGUS", Discovery Channel
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323330323736303433313938:6774487273654e4b313631333258706f
 http://161.49.17.2:6610/001/2/ch00000090990000001194/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="75" tvg-chno="32" tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="AMOGUS", ANC
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363736353031333532343234:306763383633356a366c48595347707a
 http://161.49.17.2:6610/001/2/ch00000090990000001274/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="76" tvg-chno="33" tvg-logo="https://i.pinimg.com/736x/f0/64/92/f06492cc5c85dc5dce2efe15124e48c7.jpg" group-title="AMOGUS", Rock action
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735303936333737333135333133:6a51495039633034486a5a4a67677a4f
 http://161.49.17.2:6610/001/2/ch00000090990000001325/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="77" tvg-chno="34" tvg-id="DUMMY" tvg-name="RPN" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" group-title="AMOGUS", RPTV
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383439313133323034313530:78645370476a496d5756385231474332
 http://161.49.17.2:6610/001/2/ch00000090990000001094/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 ch-number="78" tvg-chno="35" tvg-id="DummyChannel" tvg-logo="https://i.pinimg.com/736x/b0/99/30/b09930e0329bb8444487393c62370e05.jpg" group-title="AMOGUS", Heart of Asia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=142785792608285652252258c4600998:b23431555664377457880ba990899880
 https://kaotv.ganbaruby23.xyz/dash/heartofasia/manifest.mpd
  
 #EXTINF:-1 tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://i.pinimg.com/736x/2c/03/cd/2c03cd362d3bb4e94eeea4919bdb2f17.jpg" group-title="AMOGUS", Hallypop
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233303437353134383939313936:686e36454a54544d3930343749713333
 http://161.49.17.2:6610/001/2/ch00000090990000001152/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF: -1 tvg-id="DummyChannel" tvg-logo="https://i.pinimg.com/736x/0d/9e/96/0d9e9638b9208f5c060637f843573c62.jpg" group-title="AMOGUS", I Heart Movies
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=694257966bc285652baba3c4600998ab:bebef555dede70957a98ba99feca645
 https://kaotv.ganbaruby23.xyz/dash/iheartmovies/manifest.mpd
@@ -620,208 +399,121 @@ https://kaotv.ganbaruby23.xyz/dash/iheartmovies/manifest.mpd
 #EXTINF:-1 group-title="AMOGUS" tvg-id="" tvg-logo="https://i.imgur.com/2TeKCBK.png", National Geographic Channel
 http://supersonictv.live:8080/611366/682256/22124
  
-#EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01095-cctn
+#EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", CCTN
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
  
-#EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01123-Mindanow network
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", Mindanao Network
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232313037353439323837363235:3546456775546d32585738574f477a33
 http://161.49.17.2:6610/001/2/ch00000090990000001123/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
-#EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01147-tbn asia
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", TBN Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353336373333353433323038:41783735743962647251314a4a383947
 http://161.49.17.2:6610/001/2/ch00000090990000001147/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
-#EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01148-dd national
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", DD National
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353336393335353433343536:397358334c5a30623539354d586d5348
 http://161.49.17.2:6610/001/2/ch00000090990000001148/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
-#EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01151-tap sports SD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", Tap Sports SD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index.mpd
  
-#EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01153-bloomberg tv
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", Bloomberg TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232363231313537363033363431:63524b336463684231714a4f35363351
 http://161.49.17.2:6610/001/2/ch00000090990000001153/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
-#EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01164-hunan tv
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", Hunan TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001164/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01165-BS fuji
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233343132303338323235353437:78347a4839653239344566736f326963
 http://161.49.17.2:6610/001/2/ch00000090990000001165/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01176-Al Saudiya
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323237343736303332383737:564b645766473531554563584d364651
 http://161.49.17.2:6610/001/2/ch00000090990000001176/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01177-rock of manila
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323237383336303333303033:386f3337674c36666e3861713930726f
 http://161.49.17.2:6610/001/2/ch00000090990000001177/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01195-lach tv
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323330343539303433333135:4e4273686b35786b47334b3330435778
 http://161.49.17.2:6610/001/2/ch00000090990000001195/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01199-ca
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233343036373532323037393834:374357657857375436756b6963453331
 http://161.49.17.2:6610/001/2/ch00000090990000001199/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01201-daai tv
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001201/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01202-bs 10-1
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001202/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01208-TML (fake CNN)
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363234383632393339373032363235:6d48695652315a7766774b4844783439
 http://161.49.17.2:6610/001/2/ch00000090990000001208/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01213-BS Nitte
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363234383632393339373032363235:6d48695652315a7766774b4844783439
 http://161.49.17.2:6610/001/2/ch00000090990000001213/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01216-anc hd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
  
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01249-dzmm sd mono
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363832363034333637353833:524349317875574c34386a32416c4633
 http://161.49.17.2:6610/001/2/ch00000090990000001249/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01265-wion
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363576363309363850533874953833:789349317a187534a34355a325bbc4151
 http://161.49.17.2:6610/001/2/ch00000090990000001265/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01287-aquarium
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31367562376756363850533874953833:789676317218753234355a325b090354
 http://161.49.17.2:6610/001/2/ch00000090990000001287/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01317-abante tv
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3136320936095066850533867753833:5679788918753078355932522c4151
 http://161.49.17.2:6610/001/2/ch00000090990000001317/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01327-Radio of maria
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735373535323639323831353936:4e31335931336d35324d4c3249383036
 http://161.49.17.2:6610/001/2/ch00000090990000001327/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01328-congress tv
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735373539353634323837313330:45697656385434514879435648537855
 http://161.49.17.2:6610/001/2/ch00000090990000001328/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-2 group-title="AMOGUS" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" tvg-id="Converge TV" tvg-name="manifest", 01344-cnbc
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
-#EXTVLCOPT:http-origin=http://161.49.17.2:6610
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735313533363732343239353434:5339317237756b6b3845333663626645
 http://161.49.17.2:6610/001/2/ch00000090990000001344/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -3230,3 +2922,16 @@ https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #KODIPROP:inputstream.adaptive.license_key=31363233323239393136303432373230:3132373248597249506d6e31326c3246
 https://vod.nathcreqtives.com/1182/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
+=============================================================end=============================================================
+Wallpaper:
+MXQ
+https://i.pinimg.com/1200x/13/e6/70/13e6705993c3c1402074defbc1e7b07a.jpg
+Google TV
+https://i.pinimg.com/1200x/5a/9a/3b/5a9a3b33238402ba5879449682e85f6c.jpg
+BlueStacks
+https://i.pinimg.com/1200x/23/95/b7/2395b7ef9cb7f16a68df58e2eca08f03.jpg
+ 
+Fan Ho Salt in the Philippines is producing and connected by Cable Salt corporation. Cable Salt is owned by Eleven State Difference Radio incorporated, Copyright Cable Salt network incorporated, all rights reserved 2025th.
+ 
+©Cable Salt 2025
+©4Salt network 2025
