@@ -573,159 +573,28 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 #EXTINF:-1 group-title="World TV:Sports" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , UFC
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
  
-#EXTINF:-1 group-title="ConPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , BNC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001124/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
- 
 #EXTINF:-1 group-title="World TV:Sports" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Blast sports
 https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
  
-#EXTINF:-1 group-title="Radio" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Shaddai radio
-https://in-icecast.eradioportal.com:8443/dwxi-streaming
- 
-#EXTINF:-1 group-title="World TV:Movies" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg"  Star Movies HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a0c89b4f25195fca9964f842522ae443:bcf2bff86943669873357ac51b46cf9d
-https://bpcdncs1.dialog.lk/bpk-token/1aa@d5ip45xod3z55m0dggmxhr4255yh04cguk4j4mca/GlobalManifest.mpd
- 
-#EXTINF:-1 group-title="World TV:Movies" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Best Action TV
-https://streams2.sofast.tv/v1/maste...412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:Movies" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Best Drama TV
-https://streams2.sofast.tv/v1/maste...a5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:Movies" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Best Thriller TV
-https://streams2.sofast.tv/v1/maste...a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
- 
 #EXTINF:-1 group-title="World TV:Sports" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Billiards+
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
- 
-#EXTINF:-1 group-title="World TV:Kids" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Cartoon Classics
-https://streams2.sofast.tv/v1/maste...c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Chrono
-https://streams2.sofast.tv/v1/maste...bca-9cd0-475e-ad4d-0cde6634de9c/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Chukker
-https://streams2.sofast.tv/v1/maste...6a3-0d30-491d-b5e7-e1afb6e02112/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Coeur Ocean TV
-https://streams2.sofast.tv/v1/maste...bcf-afe5-4416-9631-fa9c29b7d0e6/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Colour Blind
-https://streams2.sofast.tv/v1/maste...6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Comedy Tadka
-https://streams2.sofast.tv/WiseM3U8_27/sofast/cleanhls/master.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Cowboy Movie Channel
-https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Cuisine Culture
-https://streams2.sofast.tv/v1/maste...a9b-a901-4f31-b593-07555f7937d4/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Danger Vision
-https://streams2.sofast.tv/v1/maste...1f3-855a-455e-9353-ebbb069583a4/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Docu Vision
-https://streams2.sofast.tv/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/master.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Drive In Movie Channel
-https://streams2.sofast.tv/v1/maste...383-20ac-488f-b299-6577f66881ff/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Edgy TV
-https://streams2.sofast.tv/v1/maste...5ac-7129-4492-93c0-854b3c3138f0/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Edgy Urban
-https://streams2.sofast.tv/v1/maste...783-e0fe-405b-bfa7-349c4ff4916b/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Encore+
-https://streams2.sofast.tv/sofastpl...-b1a8-e879821e2187_1000014907_HLS/master.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , English TV
-https://streams2.sofast.tv/v1/maste...ebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Escape TV
-https://streams2.sofast.tv/v1/maste...549-1762-4d60-b8b7-db07ef7ee64b/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:News" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Euronews English
-https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
- 
-#EXTINF:-1 group-title="World TV:Sports" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Fight TV
-https://streams2.sofast.tv/v1/maste...fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
- 
+  
 #EXTINF:-1 group-title="World TV:Sports" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Goal TV
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
  
-#EXTINF:-1 group-title="World TV:Documentary" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , HD Travel TV
-https://streams2.sofast.tv/v1/maste...999-b5e1-4322-8d73-db8ebd8acb32/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Heart Felt TV
-https://streams2.sofast.tv/v1/maste...5d4-625a-448a-8ba7-d086e6462245/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Heritage Tourism
-https://streams2.sofast.tv/v1/maste...09e-ded1-40dd-a6dc-e3a6d0a92d72/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Heritage+
-https://streams2.sofast.tv/v1/maste...706-f2a8-4b0f-b081-40fe59a46f81/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Hi-5
+
+#EXTINF:-1 group-title="World TV:Kids" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Hi-5
 https://streams2.sofast.tv/WiseM3U8_31/sofast/cleanhls/master.m3u8
  
 #EXTINF:-1 group-title="World TV:Sports" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Homerun TV
 https://streams2.sofast.tv/WiseM3U8_29/sofast/cleanhls/master.m3u8
  
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Hoop TV
+#EXTINF:-1 group-title="World TV:Sports" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Hoop TV
 https://streams2.sofast.tv/WiseM3U8_28/sofast/cleanhls/master.m3u8
  
-#EXTINF:-1 group-title="World TV:Movies" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Horror TV
-https://streams2.sofast.tv/v1/maste...92b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
- 
+
 #EXTINF:-1 group-title="World TV:Sports Adventure" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Hunt Fish TV
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
- 
-#EXTINF:-1 group-title="AWorld TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , ITSF
-https://streams2.sofast.tv/v1/maste...c30-d157-4400-8f64-3c52b37c645c/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Jupiter TV
-https://streams2.sofast.tv/v1/maste...b21-ea01-42b4-85db-15dcfec98942/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:Comedy" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Just for Laughs Gags
-https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
- 
-#EXTINF:-1 group-title="World TV:Kids" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Kiddo+
-https://streams2.sofast.tv/sofastpl...-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
- 
-#EXTINF:-1 group-title="World TV:Kids" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Kozoom TV
-https://streams2.sofast.tv/v1/maste...243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:Movies" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Kung Fu+
-https://streams2.sofast.tv/v1/maste...a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:Comedy" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , LOL TV
-https://streams2.sofast.tv/v1/maste...5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Love 2 Hate TV
-https://streams2.sofast.tv/v1/maste...fb6-cec9-4a29-bc6c-90685947766e/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Luxury Dreams TV
-https://streams2.sofast.tv/v1/maste...7f7-cae4-4b19-afc0-32f4ba4ab4d0/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Mama Benz TV
-https://streams2.sofast.tv/v1/maste...e10-8d57-460a-a6be-731d90cfe7b1/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Mercury+
-https://streams2.sofast.tv/sofastpl...-a74b-beb972c4f342_1000015693_HLS/master.m3u8
- 
-#EXTINF:-1 group-title="World TV:Motor Sports" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , MotorRacing
-https://streams2.sofast.tv/v1/maste...aee-4061-4081-b5fc-d5786defb057/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Mundo Series
-https://streams2.sofast.tv/v1/maste...902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Naija Gold Reels
-https://streams2.sofast.tv/WiseM3U8_11/sofast/cleanhls/master.m3u8
  
 #EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Nautical Channel
 https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
@@ -733,163 +602,8 @@ https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
 #EXTINF:-1 group-title="World TV:Motor Sports" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Nitro TV
 https://streams2.sofast.tv/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/master.m3u8
  
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Outer Vision
-https://streams2.sofast.tv/v1/maste...8da-7c74-4dc3-999f-15088a0d942a/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , PeekFlick
-https://streams2.sofast.tv/WiseM3U8_26/sofast/cleanhls/master.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Ric+
-https://streams2.sofast.tv/WiseM3U8_32/sofast/cleanhls/master.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Sci-Fi World
-https://streams2.sofast.tv/v1/maste...052-6868-4365-ac45-52afe9008b25/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Space Series
-https://streams2.sofast.tv/v1/maste...9ef-d478-413c-b68f-c123494ac434/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:Sports Adventure" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Sport Fishing TV
-https://streams2.sofast.tv/v1/maste...b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Tensions TV
-https://streams2.sofast.tv/v1/maste...cea-0af6-4382-b2c6-e23525f6640d/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Test My Ride
+#EXTINF:-1 group-title="World TV:Motor Sports" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Test My Ride
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_21/master.m3u8
- 
-#EXTINF:-1 group-title="World TV:Documentary" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , The Explorers
-https://streams2.sofast.tv/v1/maste...ca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Trufa
-https://streams2.sofast.tv/v1/maste...2aa-8bf4-4711-a911-30c6d1ad8570/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Unchained TV
-https://streams2.sofast.tv/v1/maste...169-15ec-4f33-b16c-c9fc37853d61/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:Entertainment" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Action TV
-https://streams2.sofast.tv/v1/maste...e96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , VOA (Voice of America)
-https://streams2.sofast.tv/voa-eng/playlist.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Voyages+
-https://streams2.sofast.tv/v1/maste...526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , WeShort
-https://streams2.sofast.tv/v1/maste...bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8
- 
-#EXTINF:-1 group-title="World TV:Sports Adventure" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Xtrem Sports
-https://streams2.sofast.tv/v1/maste...a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
- 
-**********Salgu**********
-#EXTINF:-1 group-logo="https://static.wikia.nocookie.net/youtube/images/7/78/Card_cat-_Salgu.png/revision/latest/scale-to-width-down/1000?cb=20240602082541"
- 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="CigPH", Pilipinas live event 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a913faeecaac4813a55240bea0c68858:05b7d7eaba8d6410dbe234336d9b235a
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi1_new/default/index.mpd
- 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="CigPH", Pilipinas live event 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi2_new/default/index.mpd
- 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="CigPH", Pilipinas live event 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi3_new/default/index.mpd
- 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="CigPH", Pilipinas live event 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd
- 
-#EXTINF:-1 tvg-name="PILIPINAS LIVE EVENT #05" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="CigPH", Pilipinas live event 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
- 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="CigPH", Pilipinas live event 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
- 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="CigPH", Pilipinas live event 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
- 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="CigPH", Pilipinas live event 8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
- 
-#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="CigPH", Pilipinas live event 9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c7b9a2af9ad4076b155f06269b6adc2:ed6a8b11738cd27c0bee2d9e3fee178a
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
- 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #10" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="CigPH", Pilipinas live event 10
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="World TV:", Jawapos TV
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png" group-title="World TV:", SURABAYA TV
-https://e.siar.us/live/surabayatv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="World TV:", LINGKARTV
-https://lingkartv.my.id/hls/lingkartv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Inspira.png" group-title="World TV:", INSPIRA TV
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSVdhaMAbDI7t7HJv8iWxq3_ZvMcWQYQlsQ&usqp=CAU" group-title="World TV:", JITV HD
-http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/UGTV_Indonesia.png" group-title="World TV:", UGTV
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SANGAJI_TV_JOGJA.jpg" group-title="World TV:", SANGAJI TV
-https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="World TV:", Sakti TV
-https://saktitv.siar.us/saktitv/live/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="World TV:", Duta TV
-https://dutatv.siar.us/dutatv/live/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/2l424MY67Zj1YYcsreW8IV9oLfCYNI1X2XJdW8kMkd4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvaWQvdGh1bWIv/OC84Ni9EaG9ob1RW/LnBuZy8yMDBweC1E/aG9ob1RWLnBuZw" group-title="World TV:", Dhoho TV
-https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="World TV:Sports", Sony Sports Ten 1 HD
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="World TV:Sports", Sony Sports Ten 2 HD
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWNbDTu.png" group-title="World TV:Sports", Sony Sports Ten 3 HD
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TqTashc.png" group-title="World TV:Sports", Sony Sports Ten 4 HD
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="World TV:Sport", Sony Sports Ten 5 HD
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena.png" group-title="World TV:Sports", AstroArena1
-https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena2.png" group-title="World TV:Sports", AstroArena2
-https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="World TV:Sports", AstroBadminton1
-https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="World TV:Sports", AstroBadminton2
-https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="CigPH", One News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -981,50 +695,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001098/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=31363232363231343638363035363236:544962686d3165306836346e73673346
 http://161.49.17.2:6610/001/2/ch00000090990000001154/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
-**********Loaf**********
 
-#EXTINF:-1 group-logo="https://static.wikia.nocookie.net/youtube/images/f/fd/Card_cat-_Loaf.png/revision/latest/scale-to-width-down/1000?cb=20240602082606"
- 
-#EXTINF:-1 tvg-id="cctv4-1" tvg-name="CCTV4" tvg-logo="https://i.pinimg.com/736x/b2/9c/ee/b29cee5f64488f84c1958fb5ca3262e6.jpg" group-title="ConPH
-#KODIPROP:inputstream.adaptive.license_key=31363234393439353931383032393636:3570773244533748733935644c787a56
-http://161.49.17.2:6610/001/2/ch00000090990000001223/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="World TV:Sports", SuperSport1
-https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S2.png" group-title="World TV:Sports", SuperSport2
-https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S3.png" group-title="World TV:Sports", SuperSport3
-https://wahyu1ptv.pages.dev/SuperSport3-HD.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznSerieA.png" group-title="World TV:Sports", DaznSerieA
-https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznLaliga1.png" group-title="World TV:Sports", DaznLaliga1
-https://wahyu1ptv.pages.dev/DaznLaliga1-HD.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznLaliga2.png" group-title="World TV:Sports", DaznLaliga2
-https://wahyu1ptv.pages.dev/DaznLaliga2-HD.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="World TV:Motor Sports", SkySportMotoGP
-https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportF1-HD.png" group-title="World TV:Sports", SkySportF1
-https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Premiere-HD.png" group-title="World TV:Sports", Premiere
-https://wahyu1ptv.pages.dev/Premiere-HD.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports1.png" group-title="World TV:Sports", SetantaSports1
-https://wahyu1ptv.pages.dev/Setanta1-HD.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports2.png" group-title="World TV:Sports", SetantaSports2
-https://wahyu1ptv.pages.dev/Setanta2-HD.m3u8
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="World TV:Sports", AstroArenaBola1
-https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
- 
 
 
 **********Half**********
@@ -1032,22 +703,10 @@ https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
 
 #EXTINF:-1 group-logo="https://static.wikia.nocookie.net/youtube/images/e/e7/Card_cat-_Half.png/revision/latest/scale-to-width-down/1000?cb=20240602082636"
  
-#EXTINF:-1 group-title="World TV:Sports" tvg-logo="https://i.pinimg.com/736x/31/c8/fd/31c8fdce3420b0d9ed5c89e25003e349.jpg" , ESPN Radio
-https://stream-153.zeno.fm/c3z135w8zxhvv?
- 
-#EXTINF:-1 group-title="World TV" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , 77.96-OCN
-http://202.60.106.14:8080/207/playlist.m3u8
- 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="CigPH", Lifetime SD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd
- 
-#EXTINF:-1 tvg-logo="https://www.hollywoodreporter.com/wp-content/uploads/2014/05/disney_channel_logo_a_l.jpg?w=2000&h=1126&crop=1" group-title="World TV:Kids", Disney channel global
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key==be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
  
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/20/f0/9f/20f09f88d5b2db549ca0c686f2c6323f.jpg" group-title="CigPH", Animax SD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1056,109 +715,82 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/i
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="CigPH", KBS World
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
+#KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/HBO_Family_Asia_logo.svg" group-title="World TV:Movies", Star Action
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
-https://uselector.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd
-
- 
+  
 #EXTINF:-1 group-title="World TV:Movies" tvg-logo="https://i.pinimg.com/736x/68/62/cd/6862cd5ce275ab4faaa8630f25f89860.jpg",One
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
  
 #EXTINF:-1 group-title="World TV:Entertainment" tvg-logo="https://i.imgur.com/Nd9gqA2.png",K+
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
  
 #EXTINF:-1 group-title="World TV:Movies" tvg-id="" tvg-logo="https://i.imgur.com/YeqyD9W.png",Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NssgY79TONGNMWVzcbFYFw","kid":"H+kmhadYRNxUydrBJIAlEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
  
 #EXTINF:-1 group-title="World TV:Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png",AXN 960x540
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
  
 #EXTINF:-1 group-title="World TV:Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
  
 #EXTINF:-1 group-title="World TV:Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_Boo_%282024%29.png",Astro BOO
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
  
 #EXTINF:-1 group-title="World TV:Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png",HBO Family
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
  
 #EXTINF:-1 group-title="World TV:News" tvg-id="" tvg-logo="https://imgur.com/QMB9sFW.png", BBC Earth
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
  
 #EXTINF:-1 group-title="World TV:Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png", BBC Lifestyle
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
  
 #EXTINF:-1 group-title="World TV:Relax" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png", Love Nature
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
  
 #EXTINF:-1 group-title="World TV:Music" tvg-logo="https://static.epg.best/il/MTV.il.png", MTV Live
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
  
 #EXTINF:-1 group-title="World TV:Movies" tvg-logo="https://aqfadtv.xyz/logos/HITSNow.png", HITS Now
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5110
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
  
 #EXTINF:-1 group-title="World TV:Kids" tvg-logo="https://aqfadtv.xyz/logos/Moonbug.png", Moonbug
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5067
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
