@@ -44,7 +44,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001087/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=31363233323238353336303333363036:367662564c69425947353948374f4553
 http://161.49.17.2:6610/001/2/ch00000090990000001179/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
-#EXTINF:-1 group-title="" tvg-logo="https://i.pinimg.com/736x/f1/45/c5/f145c52c0fbbc79239b264257e55be2a.jpg", Arirang radio
+#EXTINF:-1 group-title="🇰🇷Radio" tvg-logo="https://i.pinimg.com/736x/f1/45/c5/f145c52c0fbbc79239b264257e55be2a.jpg", Arirang radio
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
  
 #EXTINF:-1 group-title="ConPH" tvg-logo="https://i.pinimg.com/736x/f9/6a/24/f96a2471611546297b7b16664627614b.jpg", Cinema One
@@ -186,8 +186,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/i
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
  
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" group-title="ConPH", Tap Sports HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233303437333337383938393931:4344324b7661386b4579323633343645
 http://161.49.17.2:6610/001/2/ch00000090990000001151/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -206,11 +204,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default/index
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
- 
-#EXTINF:-1 group-title="CigPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg", CableSalt PPV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f873dc6412b11edb8780242ac120002:7511efa4f5f1f82fe61776ba3b49fc10
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_disney+/default/index.mpd
  
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/96/40/69/9640692d57d82e289ebfbbff55e93194.jpg" group-title="ConPH", Arirang SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -294,8 +287,6 @@ http://161.49.17.2:6610/001/2/ch00000090990000001078/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230393830353534303039353831:506e354374394938446439344b6f3741
 http://161.49.17.2:6610/001/2/ch00000090990000001079/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
- 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/f4/95/97/f4959796bd9d8f8600750f603bd4b1e9.jpg" group-title="", Cartoon Channel PH
  
 #EXTINF:-1 ch-number="61" tvg-chno="18" tvg-id="" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="ConPH", TMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -405,16 +396,6 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=31363232313037353439323837363235:3546456775546d32585738574f477a33
 http://161.49.17.2:6610/001/2/ch00000090990000001123/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
-#EXTINF:-1 group-title="ConPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg", TBN Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232353336373333353433323038:41783735743962647251314a4a383947
-http://161.49.17.2:6610/001/2/ch00000090990000001147/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
- 
-#EXTINF:-1 group-title="ConPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg", DD National
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232353336393335353433343536:397358334c5a30623539354d586d5348
-http://161.49.17.2:6610/001/2/ch00000090990000001148/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
- 
 #EXTINF:-1 group-title="CigPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg", TAP Sports SD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
@@ -425,20 +406,10 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index
 #KODIPROP:inputstream.adaptive.license_key=31363232363231313537363033363431:63524b336463684231714a4f35363351
 http://161.49.17.2:6610/001/2/ch00000090990000001153/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
-#EXTINF:-1 group-title="ConPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg", Hunan TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001164/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
- 
 #EXTINF:-1 group-title="ConPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg", BS Fuji
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233343132303338323235353437:78347a4839653239344566736f326963
 http://161.49.17.2:6610/001/2/ch00000090990000001165/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
- 
-#EXTINF:-1 group-title="ConPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Saudiya
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233323237343736303332383737:564b645766473531554563584d364651
-http://161.49.17.2:6610/001/2/ch00000090990000001176/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 group-title="ConPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Rock of Manila
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -449,32 +420,12 @@ http://161.49.17.2:6610/001/2/ch00000090990000001177/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323330343539303433333135:4e4273686b35786b47334b3330435778
 http://161.49.17.2:6610/001/2/ch00000090990000001195/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
- 
-#EXTINF:-1 group-title="ConPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , CA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233343036373532323037393834:374357657857375436756b6963453331
-http://161.49.17.2:6610/001/2/ch00000090990000001199/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
- 
-#EXTINF:-1 group-title="ConPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , DAAI TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001201/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
- 
-#EXTINF:-1 group-title="ConPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , BS 101
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001202/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
- 
+  
 #EXTINF:-1 group-title="ConPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , TML (fake CNN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363234383632393339373032363235:6d48695652315a7766774b4844783439
 http://161.49.17.2:6610/001/2/ch00000090990000001208/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
- 
-#EXTINF:-1 group-title="ConPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , BS Nitte
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363234383632393339373032363235:6d48695652315a7766774b4844783439
-http://161.49.17.2:6610/001/2/ch00000090990000001213/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
- 
+  
 #EXTINF:-1 group-title="Wortld TV:News" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , ANC HD
 #KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
@@ -483,22 +434,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscb
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363832363034333637353833:524349317875574c34386a32416c4633
 http://161.49.17.2:6610/001/2/ch00000090990000001249/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
- 
-#EXTINF:-1 group-title="ConPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , WION
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363576363309363850533874953833:789349317a187534a34355a325bbc4151
-http://161.49.17.2:6610/001/2/ch00000090990000001265/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
- 
-#EXTINF:-! group-title="ConPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Aquarium
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31367562376756363850533874953833:789676317218753234355a325b090354
-http://161.49.17.2:6610/001/2/ch00000090990000001287/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
- 
-#EXTINF:-1 group-title="AConPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Abante TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3136320936095066850533867753833:5679788918753078355932522c4151
-http://161.49.17.2:6610/001/2/ch00000090990000001317/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
- 
+  
 #EXTINF:-1 group-title="ConPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Radio of Maria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735373535323639323831353936:4e31335931336d35324d4c3249383036
@@ -633,15 +569,11 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
  
 #EXTINF:-1 group-title="World TV:Kids" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
- 
-#EXTINF:-1 group-title="World TV:" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , Ace TV
-https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
- 
+  
 #EXTINF:-1 group-title="World TV:Sports" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , UFC
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
  
 #EXTINF:-1 group-title="ConPH" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" , BNC
-#EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001124/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
