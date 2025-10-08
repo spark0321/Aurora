@@ -1574,12 +1574,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscb
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.suMkdXmQPGKN9c7QCLf4vQAAAA?pid=Api&P=0&h=220" group-title="World TV:🇰🇷Movies", Korean Blockbuster
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"94bc19ad9cb04a7e6871e650a7f6529c":"83e7dc469eb303c4237db6750225f6be"}
-#EXTINF:-1 tvg-id="Amazon.US.KoreanBlockbusters" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/korean_blockbusters._SL170_FMpng_.png",Korean Blockbuster
-https://aba2opzaaaaaaaambptdxcmdygr3l.9be0b55c226b4023a71eca813144822a.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ol6pl6uagx/out/v1/92163be177b542c59d3b804d8c9dbee2/cenc.mpd
-
 
 ================= m3u8 ======================
 
