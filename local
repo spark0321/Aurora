@@ -990,12 +990,12 @@ https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",MGM+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={34bbe1d5cad94e81a2f2eb3275611f85:7e6a42fbe78e7ff8c20cb4eeb475ed17}
+#KODIPROP:inputstream.adaptive.license_key={bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5:7e6a42fbe78e7ff8c20cb4eeb475ed17}
 https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd
 
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/starz_kf._SL170_FMpng_.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Starz Kids & Family HD East
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e799d091a775e320fe991ac1157e54c:3905edab045510aa8e16a036dfdcbad4
+#KODIPROP:inputstream.adaptive.license_key=8e799d091a775e320fe991ac1157e54c:bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5
 https://abexsiiaaaaaaaamnprvn62bpf5ka.ottb.live.cf.ww.aiv-cdn.net/IAD/clients/dash/enc/kwj9ebjr2v/out/v1/e4240c0b0310427fa7c04bbece7689f4/cenc.mpd
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Euronews_logo_(1997-1998).svg/180px-Euronews_logo_(1997-1998).svg.png" group-title="🇺🇸News" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Euronews
@@ -1010,7 +1010,7 @@ https://live-atv-cdn.izzigo.tv/2/out/u/dash/NICKHD/default.mpd
 
 #EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/50/3/nick-jr-logo-png_seeklogo-506452.png?v=1957828675521029688" group-title="🇺🇸Kids",Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ff80f6edca24a644b8f5b4532e908a4:273d66feb7edc254d70d73aecddd31f8
+#KODIPROP:inputstream.adaptive.license_key=bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5:273d66feb7edc254d70d73aecddd31f8
 https://live-atv-cdn.izzigo.tv/4/out/u/dash/NICKJRHD/default.mpd
 
 #EXTINF:-1  tvg-logo="https://m7cdn.io/canaldigitaal/temp/img/channels/channels-new/90_NickMusic.png" group-title="🇺🇸Kids" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",NickMusic
@@ -1049,7 +1049,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/BvR9Mnjh/ESPN_Extra_new.png" group-title="🇺🇸Sports" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",ESPN 4
 #EXTVLCOPT:http-user-agent0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
+#KODIPROP:inputstream.adaptive.license_key=bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5:bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/pdJDJ3xS/espn5.png" group-title="🇺🇸Sports" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",ESPN 5
@@ -1117,7 +1117,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/7SKnOiI.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
+#KODIPROP:inputstream.adaptive.license_key=bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5:bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-FAMILY-HD/default.mpd
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Fx6qJIj.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",HBO HD
@@ -1127,7 +1127,7 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-HD/default.mpd
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/4wiKcEP.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",HBO Plus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
+#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/AL4mX4j.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",HBO Pop HD
@@ -1137,7 +1137,7 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/xDsrjlD.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",HBO Signature HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5782156290f035ef28ae66cca252eedd:10d8bb6d9f9852747298487ab3c4afa3
+#KODIPROP:inputstream.adaptive.license_key=5782156290f035ef28ae66cca252eedd:bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-SIGNATURE-HD/default.mpd
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/GLLJ9zE.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",HBO XTreme HD
@@ -1147,12 +1147,12 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/VU0rKXI.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",HBO2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
+#KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2-HD/default.mpd
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/mrewZuD.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Universal Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44a9e6477651b3b47f3a2b727d562835:1b87070d9fad5dee0a35ff014a2063a7
+#KODIPROP:inputstream.adaptive.license_key=44a9e6477651b3b47f3a2b727d562835:bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/72rddmc.png" group-title="🇺🇸Comedy" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Universal Comedy HD
@@ -1162,7 +1162,7 @@ https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/vK3Qajx.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Universal Crime HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a908a5d38a9c496ced27faa6bf5ff8e:85a5835a92bd7f87faf5ffbcb8814d33
+#KODIPROP:inputstream.adaptive.license_key=bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5:85a5835a92bd7f87faf5ffbcb8814d33
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/B3rak1A.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Universal Premiere HD
@@ -1177,7 +1177,7 @@ https://live-atv-cdn.izzigo.tv/2/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/kwMcgBz.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",AMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3290efe4c5cf67165e846a0742c22cd9:ddb94463c46af6037432fc026339c09d
+#KODIPROP:inputstream.adaptive.license_key=bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5:ddb94463c46af6037432fc026339c09d
 https://aba2ohkaaaaaaaama62xttrwjeeps.dd4bc9f2d43e4d9d8c0f402f186632fb.emt.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/gyczo3tdxu/out/v1/4e9f7dd1b08a404581818c3923af9a93/cenc.mpd
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/tkFtkpx.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",AMC+
@@ -1187,7 +1187,7 @@ https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/0f5clvxn6o/out
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/fxwLZXp.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90cc957ead3f42e98b46d14e8c4b08de:3ab7cff1e63b9efc40aa962023b4b6b8
+#KODIPROP:inputstream.adaptive.license_key=90cc957ead3f42e98b46d14e8c4b08de:bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/PARAMOUNT-HD/default.mpd
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/lyvKcFK.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Sony Channel
@@ -1237,7 +1237,7 @@ https://live-crave.video.9c9media.com/c5875a31f178e038f7cc572b1aa0defb996ce71717
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/ETZqCII.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Amazon Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
+#KODIPROP:inputstream.adaptive.license_key=bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5:2f688f94ef580a61eada6932598137e4
 https://abbfefcaaaaaaaamd5xd44ij4vbyj.a17d0dfbc05b48999f461f3f6cff0eb6.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 
 #EXTINF:-1  tvg-id="TSN 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="🇺🇸Sports" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",TSN 1
@@ -1246,14 +1246,14 @@ https://abbfefcaaaaaaaamd5xd44ij4vbyj.a17d0dfbc05b48999f461f3f6cff0eb6.emt.cf.ww
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
 #KODIPROP:key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/cenc.mpd
 
 #EXTINF:-1  tvg-id="TSN 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="🇺🇸Sports" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",TSN 2
 #EXTVLCOPT:http-user-agent0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
+#KODIPROP:inputstream=bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5:978dfdd53186ec587d940e0bd1e2ec42
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
-#KODIPROP:key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
+#KODIPROP:inputstream.adaptive.license_key=bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5:978dfdd53186ec587d940e0bd1e2ec42
+#KODIPROP:key=bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5:978dfdd53186ec587d940e0bd1e2ec42
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UhRluq1.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",UniversalTV
@@ -1266,7 +1266,7 @@ https://live-atv-cdn.izzigo.tv/4/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=086b401b6a619cdb0e61b2973d315d5a:c3360a5e54c649244b9776f21b9b9384
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/mmlfd2azxy/out/v1/bf22ff4619cf47098a6d5afb25d1dc7c/cenc.mpd
 
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.a-PnC_5fO04_LwJa6RXgtwAAAA?pid=Api&P=0" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Asian Drama SD
+#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.a-PnC_5fO04_LwJa6RXgtwAAAA?pid=Api&P=0" group-title="🇰🇷Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Asian Drama SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
@@ -1303,9 +1303,8 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 
 #EXTINF:-1 tvg-id="" tvg-name"" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.HsxQXq5NjwFf6JY3hJGiQQAAAA?pid=Api&P=0&h=220" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", HBO 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5
 https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
-
 
 #EXTINF:-1 tvg-id="" tvg-name"" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.L4HIeuBeWf-dfOzBpRs5kQAAAA?pid=Api&P=0&h=220" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", HBO Family
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1326,7 +1325,7 @@ https://cnt1-streamer4.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
 
 #EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.FVTEsy-SUc-AZNI6jmAEugAAAA?pid=Api&h=220&P=0" group-title="🇵🇭Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",GMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
+#KODIPROP:inputstream.adaptive.license_key=bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5:bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5
 https://vod.nathcreqtives.com/1093/manifest.mpd
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="🇵🇭Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Cinema One
@@ -1337,7 +1336,7 @@ https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/ind
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="🇵🇭Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Cinemo! Global
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
-https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
+https://d1bail49udbz1k.cloudfront.net/out/v1/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/index.mpd
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/1200px-DZMM_TeleRadyo.svg.png" group-title="🇵🇭News" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",DZMM TeleRadyo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1405,7 +1404,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
  
 #EXTINF:-1 group-title="🇺🇸Music" tvg-logo="https://static.epg.best/il/MTV.il.png" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", MTV Live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
+#KODIPROP:inputstream.adaptive.license_key=bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5:22f964a6d6927ccdba482e775cdff190
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
  
@@ -1455,7 +1454,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/bloomberg_sd.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
-https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
+https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/cenc.mpd
  
 #EXTINF:-1 group-title="🇺🇸Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png"  group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", YTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1496,20 +1495,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
  
-#EXTINF:-1 group-title="🇺🇸Infotainment" tvg-logo="https://i.imgur.com/61MSiq9.png" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", France24
+#EXTINF:-1 group-title="🇺🇸News" tvg-logo="https://i.imgur.com/61MSiq9.png" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", France24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b0c1cebd0c4518d600f52c354ed1910:76d409ffc4eaa012c61d8c31bd13df5d
+#KODIPROP:inputstream.adaptive.license_key=bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5:76d409ffc4eaa012c61d8c31bd13df5d
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
  
 #EXTINF:-1 group-title="🇺🇸News" tvg-logo="https://i.imgur.com/hWQBUvT.png" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Dateline
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002029fcdaae2385eedf0fd9332c3c90:33b97956f316d0b65e9fd28888e7c7a9
+#KODIPROP:inputstream.adaptive.license_key=002029fcdaae2385eedf0fd9332c3c90:bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc112xzr75)/master.mpd
  
 #EXTINF:-1 group-title="🇺🇸Kids" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
  
 #EXTINF:-1 group-title="🇺🇸Sports" tvg-logo="https://i.imgur.com/gfFaRwH.png" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Golf Channel
@@ -1546,14 +1545,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscb
  
 #EXTINF:-1 group-title="🇵🇭Entertainment" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.PUHchXn6Dcf2-CvgrOfP1AAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Kapamilya Channel 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.yuWViLzlF-0_QX04xig96gAAAA?pid=Api&P=0&h=220"group-title="🇺🇸Sports" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", SPOTV NOW
 #EXTVLCOPT:http-referrer=https://www.mana2.my/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#KODIPROP:inputstream.adaptive.license_key=bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/SpotvNow/index.mpd
 
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/z3iXx/0qx1Ef0zs0sHWOi4w.jpeg" group-title="🇬🇧Discovery+" group-logo="https://tweakers.net/i/9UYkoHhAr2ms9ZIcFriOWFpQBgM=/134x134/filters:strip_exif()/i/2004048020.png?f=meta", Animal Planet
@@ -1570,21 +1569,14 @@ https://mc-zlcfs7ps9x.bunny.run/channel/animalplanet/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=discoverychannel
 https://mc-zlcfs7ps9x.bunny.run/channel/discoverychannel/master.mpd
 
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/F6Zu3/TuRqQ3aWGpUEejlIg.jpeg" group-title="🇬🇧Discovery+" group-logo="https://tweakers.net/i/9UYkoHhAr2ms9ZIcFriOWFpQBgM=/134x134/filters:strip_exif()/i/2004048020.png?f=meta", Discovery History
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/V1cct/kM_KPgSrh4H65WzHA.jpeg" group-title="🇬🇧Discovery+" group-logo="https://tweakers.net/i/9UYkoHhAr2ms9ZIcFriOWFpQBgM=/134x134/filters:strip_exif()/i/2004048020.png?f=meta", Discovery Turbo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=dischistory
 https://mc-zlcfs7ps9x.bunny.run/channel/dischistory/master.mpd
 
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/_y6cX/Sy_z3GYxSK8WiFSMA.jpeg" group-title="🇬🇧Discovery+" group-logo="https://tweakers.net/i/9UYkoHhAr2ms9ZIcFriOWFpQBgM=/134x134/filters:strip_exif()/i/2004048020.png?f=meta", Discovery Science
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=science
-https://mc-zlcfs7ps9x.bunny.run/channel/science/master.mpd
-
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/V1cct/kM_KPgSrh4H65WzHA.jpeg" group-title="🇬🇧Discovery+" group-logo="https://tweakers.net/i/9UYkoHhAr2ms9ZIcFriOWFpQBgM=/134x134/filters:strip_exif()/i/2004048020.png?f=meta", Discovery Turbo
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/F6Zu3/TuRqQ3aWGpUEejlIg.jpeg" group-title="🇬🇧Discovery+" group-logo="https://tweakers.net/i/9UYkoHhAr2ms9ZIcFriOWFpQBgM=/134x134/filters:strip_exif()/i/2004048020.png?f=meta", Discovery History
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1713,12 +1705,9 @@ https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Rakuten TV Drama Movies (1080p)
 https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.iMmrlM_3MPMzyvqGN0ObngAAAA&pid=Api&P=0&h=180" group-title="🇰🇷Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",RAKUTEN VIKI
+#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.iMmrlM_3MPMzyvqGN0ObngAAAA&pid=Api&P=0&h=180" group-title="🇰🇷Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Rakuten Viki
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 
-#EXTINF:-1  tvg-name="ONE PIECE" tvg-logo="https://onepiece.opedia.pl/_media/logo.png" group-title="🇺🇸Kids" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",ONE PIECE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-
-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th?id=OIP.cictFByrEVyz5KpTv_86-gAAAA&pid=Api&P=0&h=180" group-title="🇺🇸Sports Adventure" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",MOTOAMERICA
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
@@ -1727,7 +1716,7 @@ https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
 https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.WF8p3yXHBEL_tvTxeustAAAAAA&pid=Api&P=0&h=180" group-title="🇰🇷Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",CJ ENM
-https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+https://d50a1g0nh14ou.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.nyPSQQE9eoub3qBM_uIyqgAAAA&pid=Api&P=0&h=180" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",DUBAI ONE
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
@@ -1787,145 +1776,73 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/pl
 https://dbrb49pjoymg4.cloudfront.net/10001/9995117/hls/master.m3u8?ads.xumo_channelId=9995117
 
 #EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th/id/OIP.uhKcFGdrFTlX2D_R4KJdOQAAAA?pid=Api&h=220&P=0" group-title="🇺🇸Music" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Stingray Greatest Holiday Hits
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991120
+https://dbrb49pjoymg4.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991120
 
 #EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.isLENlVOUf8ZTQ3yZqvNpQAAAA?pid=Api&h=220&P=0" group-title="🇺🇸Music" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Stingray Soul Storm Christmas
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991121
+https://dbrb49pjoymg4.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991121
 
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.6S4-lOLqi4BCGcowhP8bRgAAAA?pid=Api&h=220&P=0" group-title="🇺🇸Music" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Stingray Hot Country Christmas
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991118
+https://dbrb49pjoymg4.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991118
 
 #EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.B-r3KGFeLWtgDGdzNlXMTwAAAA?pid=Api&h=220&P=0" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Hi-Yah!
 https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302
 
 #EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.6wTwthTtoxtQ8BCnEiqeigAAAA?pid=Api&h=220&P=0" group-title="🇺🇸Comedy" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Just for Laughs Gags
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991204
+https://dbrb49pjoymg4.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991204
 
 #EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.W5vhRIgSvztYTjjrMi1A9AAAAA?pid=Api&P=0" group-title="🇺🇸Mystery" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Paranormal Files
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991769
+https://dbrb49pjoymg4.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991769
 
 #EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th/id/OIP.RpAWlT3PNEAmVFvbkhbGKwAAAA?pid=Api&h=220&P=0" group-title="🇺🇸Gameshow" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Fear Factor
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951130
+https://dbrb49pjoymg4.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951130
 
 #EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.ni_M4ph7cnmlDNzMYQQkcAAAAA?pid=Api&P=0" group-title="🇰🇷Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Kocowa K-Drama
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991348
+https://dbrb49pjoymg4.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991348
 
 #EXTINF:-1  tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e6416436e5d6510e9e22c23862deea23/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1732826277678_260x147_hex-efefef_CENTER_TastemadeFood.png" group-title="🇺🇸Food" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Tastemade
 https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.14uLBZpnnsXRqecPpBfQSwAAAA?pid=Api&P=0" group-title="🇺🇸Food" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Lidias Kitchen
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951151
+https://dbrb49pjoymg4.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951151
 
 #EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.uj2wOFLS6kL0FnClF1Ql1QAAAA?pid=Api&h=220&P=0" group-title="🇺🇸Food" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Food 52
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991340
+https://dbrb49pjoymg4.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991340
 
 #EXTINF:-1  tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/bab0626ab5655e569790befb4522806a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669078150668_BA_Logo_center.png" group-title="🇺🇸Food" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Bonappetit
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991140
+https://dbrb49pjoymg4.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991140
 
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.jnLv_osIrzg2-WJB3b8jRQAAAA?pid=Api&h=220&P=0" group-title="🇰🇷Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",New K movies and Series
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991386
+https://dbrb49pjoymg4.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991386
 
 #EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.9EH7ASuxTLhC5M-3cwmJqAAAAA?pid=Api&h=220&P=0" group-title="🇰🇷Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Jubao
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991779
+https://dbrb49pjoymg4.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991779
 
 #EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.7ZmKoue-suHBUjo46A_mIAAAAA?pid=Api&h=220&P=0" group-title="🇺🇸Music" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Stingray Classic Rock
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991119
+https://dbrb49pjoymg4.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991119
 
 #EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th/id/OIP.I2IJDDPvu-GiziNGAsN0-gAAAA?pid=Api&h=220&P=0" group-title="🇺🇸Music" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Stingray Hit list
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991117
+https://dbrb49pjoymg4.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991117
 
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.0LorF7BGBnMYjx03zp_ezgAAAA?pid=Api&h=220&P=0" group-title="🇺🇸Music" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Stingray Remember the 80s
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991742
+https://dbrb49pjoymg4.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991742
 
 #EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.bRRvXdnI5eTKf9F0FqDpQQAAAA?pid=Api&h=220&P=0" group-title="🇺🇸Music" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Iheart Alternative Radio
 https://dbrb49pjoymg4.cloudfront.net/10001/9995100/hls/playlist.m3u8?ads.xumo_channelId=9995101
 
 #EXTINF:-1  tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/b8c4f2efe56a512890042011e5cc0884/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673453935313_FilmRise-Cooking_260x147_copy.png" group-title="🇺🇸Food",Hells Kitchen
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991681
+https://dbrb49pjoymg4.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991681
 
 #EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.bYcHhK5HluWqygURul6HWQAAAA?pid=Api&P=0" group-title="🇺🇸Reality" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Xumo Reality TV
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991364
+https://dbrb49pjoymg4.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991364
 
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.IuRxo2LOXQkptb7ovF-2cQAAAA?pid=Api&P=0&h=220" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",SONY PIX HD Airtel
-http://89.187.189.98/SONYPIXHD/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.qZsz4V39SQjYV_mGfwxKfgAAAA?pid=Api&P=0&h=220" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",STARMOVIES SELECT HD
-http://89.187.189.98/STARMOVIESSELECTHD/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.8-eomJYFQwjgP8XLaD-8AAAAAA?pid=Api&P=0&h=220" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",STARMOVIES HD
-http://89.187.189.98/STARMOVIESHD/index.m3u8
-
-#EXTINF:-1  tvg-name="5 StarMax" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.NgpZ3qwXzs2R8t13BXqpOwAAAA?pid=Api&P=0&h=220 " group-title="🇺🇸Movies", 5 StarMax
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="🇺🇸Documentary" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Animal Planet
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="🇺🇸Kids" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Boomerang
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Bounce
-http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="🇺🇸Sports",Big Ten Network HD
-http://23.237.104.106:8080/USA_BTN/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Buzzr
-http://23.237.104.106:8080/USA_BUZZR/index.m3u8
-
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="🇺🇸Kids" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",CARTOON NETWORK
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-
-#EXTINF:-1  tvg-name="CBS SPORTS NETWORK" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="🇺🇸Sports" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", CBS SPORTS NETWORK
-http://23.237.104.106:8080/USA_CBS_SPORTS/index.m3u8
-
-#EXTINF:-1  tvg-name="CINEMAX EAST" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",CINEMAX EAST
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="🇺🇸Comedy" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", COMEDY CENTRAL
-http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="🇺🇸Food" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",COOKING
-http://23.237.104.106:8080/USA_COOKING/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" group-title="🇺🇸Documentary" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Destination America
-http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="🇺🇸Documentary" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Discovery Channel
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="🇺🇸Kids" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",DISNEY XD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",E ENTERTAINMENT TELEVISION
-http://23.237.104.106:8080/USA_E/index.m3u8
-
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="🇺🇸Sports" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",ESPN U
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="🇺🇸Food" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",FOOD NETWORK
-http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
-
-#EXTINF:-1  tvg-name="Fuse" tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Fuse
-http://23.237.104.106:8080/USA_FUSE/index.m3u8
-
-#EXTINF:-1  tvg-name="FX" tvg-id="FX.Networks.East.Coast.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",FX
+#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
-#EXTINF:-1  tvg-name="FXX" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",FXX
+#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 
-#EXTINF:-1  tvg-name="GOLTV" tvg-id="Gol.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/gol-tv-us.png" group-title="🇺🇸Sports" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",GOLTV
-http://23.237.104.106:8080/USA_GOLTV/index.m3u8
-
-#EXTINF:-1  tvg-name="Hallmark Channel" tvg-id="Hallmark.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="🇺🇸Movies",Hallmark Channel
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="🇺🇸Movies",Hallmark Channel
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
-
-#EXTINF:-1  tvg-name="HBO2" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",HBO2
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",HBO Comedy
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
@@ -1936,74 +1853,11 @@ http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/ifc-us.png" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",LMN
-http://23.237.104.106:8080/USA_LMN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.EwIc5Kb9iVNUUftThfLCbAAAAA?pid=Api&P=0&h=220" group-title="🇺🇸Motor Sports" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", MAVTV
-http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.sMmHRikznI7Ek-9_o7a8sQAAAA?pid=Api&P=0&h=220" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",CINEMAX MOREMAX
-http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",MSG
-http://23.237.104.106:8080/USA_MSG/index.m3u8
-
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="🇺🇸Music" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",MTV
-http://23.237.104.106:8080/USA_MTV/index.m3u8
-
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="🇺🇸Documentary" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",National Geographic Wild
-http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nesn-us.png" group-title="🇺🇸Sports" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",NESN
-http://23.237.104.106:8080/USA_NESN/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="🇺🇸Sports" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",NFL Network
-http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
-
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="🇺🇸Kids" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Nickelodeon
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Paramount Network
-http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", ReelzChannel
-http://23.237.104.106:8080/USA_REELZ/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Revolt
-http://23.237.104.106:8080/USA_REVOLT/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="🇺🇸Sports" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", SEC Network
-http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Showtime East
-http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/starz-cinema-us.png" group-title="🇺🇸Movies",STARZ CINEMA
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="🇺🇸Comedy" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Starz Comedy
-http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", SYFY
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
-
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", truTV
-http://23.237.104.106:8080/USA_TRUTV/index.m3u8
-
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", VH1
-http://23.237.104.106:8080/USA_VH1/index.m3u8
-
-#EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Vice
-http://23.237.104.106:8080/USA_VICETV/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="🇺🇸Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", WeTV
-http://23.237.104.106:8080/USA_WE_TV/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="🇺🇸Sports" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",YES Network
-http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8 
 
 #EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.TgQyeASzCzhlr7QWf-otDwAAAA?pid=Api&P=0" group-title="🇰🇷Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Hallypop
 https://jungotvstream.chanall.tv/jungotv/hallypop/playlist_1080p.m3u8 
@@ -2032,8 +1886,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f123330eca6a20040b328e8.m3u8
 #EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th/id/OIP.dT6R9ppAZ-n-XHNLGmIvRgAAAA?pid=Api&P=0&h=220" group-title="🇺🇸Kids" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Kartoon Channel HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
 
-#EXTINF:-1  tvg-id="Disney.XD.(East).(DISXD).jm" tvg-logo="https://i.imgur.com/XTzB1MO.png" group-title="🇺🇸Kids" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Disney XD
-http://212.102.60.231/DISNEY_XD/index.m3u8
 
 #EXTINF:-1  tvg-id="PBS.Kids.us" tvg-logo="https://blob.panzoid.com/creation-thumbnails/581095.jpg" group-title="🇺🇸Kids" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
@@ -2048,7 +1900,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://bit.ly/3B1M54o?/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20240924T011033SQUARE.png" group-title="🇺🇸Music",Vevo Retro Rock
-https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
+https://d2hdqrshyzxswl.cloudfront.net/v1/master/bc1q4h3rk4hgruu7auyf0dpxtx6hsh86xpq04jx5g5/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
 
 #EXTINF:-1 group-title="🇺🇸News" tvg-logo="https://i.pinimg.com/736x/09/79/f8/0979f8875df3f0db7534ece91ecde5d1.jpg" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", CCTN
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
@@ -2058,9 +1910,6 @@ https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/
  
 #EXTINF:-1 group-title="🇵🇭News" tvg-logo="https://i.pinimg.com/736x/5e/87/3b/5e873b75bbbe48170911d26fbf3481a3.jpg" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Super Radyo
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
- 
-#EXTINF:-1 group-title="🇺🇸Sports" tvg-logo="https://i.ibb.co/NTqmxxj/Hungarian-Fight-Championship-HFC-logo-removebg-preview.png" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", HFC
-https://ln.run/4x0dD
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/06/af/09/06af09376b2c651081223f853a78a17c.jpg" group-title="🇰🇷Entertainment" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Arirang HD (Signal low)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
