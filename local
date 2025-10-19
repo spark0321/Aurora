@@ -1960,7 +1960,20 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/pla
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.jnLv_osIrzg2-WJB3b8jRQAAAA?pid=Api&P=0&h=220" group-title="🇰🇷Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",NEW K-MOVIES
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.8_NFSh5pwHRtJm5Zb7ZV8QAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg" group-title="🇵🇭Entertainment",GMA 
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/medhigh.m3u8
 
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.ksOkYIYQYtjpvV353dDd4AAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg" group-title="🇵🇭Entertainment",TV5
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/medhigh.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.qvTtRpppZ_W34Ujj6Cex8AAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg" group-title="🇰🇷Movies",Kocowa
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/bccfb8bc-d47a-459e-b834-3a1c87928bf9/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.ZYaRvkJ-Q0z_uua4zxglyAAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg" group-title="🇺🇸Comedy",LOL!
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/7bfad4fe-4011-448f-8e69-141098c51e34/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.Z53ueR1pgzlyMJhxj9TAYgAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg" group-title="🇺🇸Comedy",GAGS
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7dcc1f2-4823-4d30-9b96-d36082f7be3e/3.m3u8
 
 
 ############## DishTV #################
