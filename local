@@ -1667,7 +1667,7 @@ https://mc-zlcfs7ps9x.bunny.run/channel/tntsports3/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports4
 https://mc-zlcfs7ps9x.bunny.run/channel/tntsports4/master.mpd
 
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.kRLfbFIpIhfgAN-__NB5AgAAAA?pid=Api&P=0&h=220" group-logo="" group-title="🇵🇭Radio", MOR
+#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.kRLfbFIpIhfgAN-__NB5AgAAAA?pid=Api&P=0&h=220" group-logo="" group-title="Radio🇵🇭", MOR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51b1911cb0b0494cb1cfba62943be0ad:f0ce78a0e0c5b14cb16769bd95d17b80
 https://abslive.akamaized.net/dash/live/2028025/mor3/manifest.mpd
