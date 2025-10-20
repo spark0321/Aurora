@@ -1047,10 +1047,10 @@ http://161.49.17.2:6410/001/2/ch00000090990000001104/manifest.mpd?JITPDRMType=Wi
 
 
 
-
 ########### World-TV #############
 
-#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/3/3/cnn-international-logo-png_seeklogo-32708.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",CNN MAX FHD | AMZN
+
+#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/3/3/cnn-international-logo-png_seeklogo-32708.png" group-title="🇺🇸News" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",CNN MAX FHD | AMZN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e83ba738e92cb13e764e14494641d0a7:9e49c0e4f83d9dac550026653c9eeecb
 https://otte-netskrt.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/lfboh9f8fh/out/v1/0c50ed44bc074cefa95d7ed4bd3bb793/cenc.mpd
@@ -1119,16 +1119,6 @@ https://otte-netskrt.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ghbjxtieft/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/mako-movies/images/d/d5/MGM_Holdings_logo.png/revision/latest/thumbnail/width/360/height/450?cb=20190126193754" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",MGM+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={34bbe1d5cad94e81a2f2eb3275611f85:7e6a42fbe78e7ff8c20cb4eeb475ed17}
-https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd
-
-#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/starz_kf._SL170_FMpng_.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Starz Kids & Family HD East
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e799d091a775e320fe991ac1157e54c:3905edab045510aa8e16a036dfdcbad4
-https://abexsiiaaaaaaaamnprvn62bpf5ka.ottb.live.cf.ww.aiv-cdn.net/IAD/clients/dash/enc/kwj9ebjr2v/out/v1/e4240c0b0310427fa7c04bbece7689f4/cenc.mpd
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Euronews_logo_(1997-1998).svg/180px-Euronews_logo_(1997-1998).svg.png" group-title="🇺🇸News" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Euronews
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1332,21 +1322,6 @@ https://live-atv-cdn.izzigo.tv/3/out/u/dash/SONY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=d6c0b2a5a6d7aa72f6f76f3607364cea:29772b450393146e8d1b56107f5163a2
 https://live-atv-cdn.izzigo.tv/4/out/u/dash/SONY-MOVIES-HD/default.mpd
 
-#EXTINF:-1  tvg-id="I558.65687.zap2it.com" tvg-logo="https://i.imgur.com/3fsnLQn.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",MGM+ Drive In
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2aa5443eab3841fca0804ed7df621e21:f6337da72d318e72e77742c7f8d2e698
-https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd
-
-#EXTINF:-1 tvg-name="MGM+ Hits" tvg-id="I558.65687.zap2it.com" tvg-logo="https://i.imgur.com/QKtbFDn.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",MGM+ Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e177abdd25b476dbb474fa7c2ee76b3:dc43cb2d4bd48774ef9620fda1158060
-https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/9TEprOp.png" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",MGM+ Marquee
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f2032b4cae944a0adf5ce111a2ff693:2b4a2855b0abde035714985be6db4bd0
-https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/index.mpd
-
 #EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th/id/OIP.iDZpcatBfRlEitGpqZwjswAAAA?pid=Api&P=0&h=220" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",CRAVE 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a107945066f45a9af2c32ea88be60f4:df97e849d68479ec16e395feda7627d0
@@ -1437,12 +1412,6 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.L4HIeuBeWf-dfOzBpRs5kQAAAA?pid=Api&P=0&h=220" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
-https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
-
 
 #EXTINF:-1 tvg-id="" tvg-name"" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.ci4_7FdWXQ-yVFf_Lv4-WQAAAA?pid=Api&P=0&h=220" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1799,10 +1768,12 @@ https://mc-zlcfs7ps9x.bunny.run/channel/tntsports3/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports4
 https://mc-zlcfs7ps9x.bunny.run/channel/tntsports4/master.mpd
 
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.kRLfbFIpIhfgAN-__NB5AgAAAA?pid=Api&P=0&h=220" group-logo="" group-title="Radio🇵🇭", MOR
+#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.kRLfbFIpIhfgAN-__NB5AgAAAA?pid=Api&P=0&h=220" group-logo="" group-title="🇵🇭Radio", MOR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51b1911cb0b0494cb1cfba62943be0ad:f0ce78a0e0c5b14cb16769bd95d17b80
 https://abslive.akamaized.net/dash/live/2028025/mor3/manifest.mpd
+
+
 
 ================= m3u8 ======================
 
@@ -1855,9 +1826,6 @@ https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Miramax.svg" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Miramax
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZ4gaheg_uSSQ6bT_utL9x9unBSWZDXfwgB6zKkNzIQ&s" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",ION Plus
-https://ad6cad3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSW9uUGx1c19ITFM/playlist.m3u8
 
 #EXTINF:-1  tvg-id="a96f9c338b3e5ab29ec3b436c01c84da" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.NAD_bvvyYDzltuur-0ki7gAAAA?pid=Api&P=0&h=220" group-title="🇺🇸Food" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",America's Test Kitchen
 https://jmp2.uk/rok-a96f9c338b3e5ab29ec3b436c01c84da.m3u8
@@ -1912,9 +1880,6 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.6S4-lOLqi4BCGcowhP8bRgAAAA?pid=Api&h=220&P=0" group-title="🇺🇸Music" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Stingray Hot Country Christmas
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991118
-
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.B-r3KGFeLWtgDGdzNlXMTwAAAA?pid=Api&h=220&P=0" group-title="🇺🇸Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Hi-Yah!
-https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302
 
 #EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.6wTwthTtoxtQ8BCnEiqeigAAAA?pid=Api&h=220&P=0" group-title="🇺🇸Comedy" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",Just for Laughs Gags
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991204
@@ -2092,20 +2057,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/pla
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.jnLv_osIrzg2-WJB3b8jRQAAAA?pid=Api&P=0&h=220" group-title="🇰🇷Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",NEW K-MOVIES
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.8_NFSh5pwHRtJm5Zb7ZV8QAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg" group-title="🇵🇭Entertainment",GMA 
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/medhigh.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.ksOkYIYQYtjpvV353dDd4AAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg" group-title="🇵🇭Entertainment",TV5
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/medhigh.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.qvTtRpppZ_W34Ujj6Cex8AAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg" group-title="🇰🇷Movies",Kocowa
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/bccfb8bc-d47a-459e-b834-3a1c87928bf9/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.ZYaRvkJ-Q0z_uua4zxglyAAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg" group-title="🇺🇸Comedy",LOL!
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/7bfad4fe-4011-448f-8e69-141098c51e34/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.Z53ueR1pgzlyMJhxj9TAYgAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg" group-title="🇺🇸Comedy",GAGS
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7dcc1f2-4823-4d30-9b96-d36082f7be3e/3.m3u8
 
 
 ############## DishTV #################
