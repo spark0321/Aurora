@@ -2060,7 +2060,7 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.v8Ou9c3pj-TX_ky2ZwOhiAAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg" group-title="🇺🇸Sports", NBA Regular Season 
 https://nba.warm98.workers.dev/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.guTfskZwBkdDTpIapXzdmgAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg" group-title="🇺🇸Sports combat", WWE Live Stream
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.guTfskZwBkdDTpIapXzdmgAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg" group-title="🇺🇸Combat Sports", WWE Live Stream
 https://wwe.warm98.workers.dev/playlist.m3u8
 
 ############## DishTV #################
