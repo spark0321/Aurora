@@ -2033,10 +2033,10 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
 #EXTINF:-1 group-title="🇺🇸Lifestyle" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.EZ9v5lq4mAZIZc0AMKgI4QAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Nautical Channel
 https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
  
-#EXTINF:-1 group-title="🇺🇸Motor Sports" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.KqGKwPBEdQt2wjFdjpudAwAAAA?pid=Api&P=0&h=220" , Nitro TV
+#EXTINF:-1 group-title="🇺🇸Motor Sports" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.KqGKwPBEdQt2wjFdjpudAwAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Nitro TV
 https://streams2.sofast.tv/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/master.m3u8
  
-#EXTINF:-1 group-title="🇺🇸Motor Sports" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.PDS_rTNg3ZxgNMZZ4HwmmAAAAA?pid=Api&P=0&h=220" , Test My Ride
+#EXTINF:-1 group-title="🇺🇸Motor Sports" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.PDS_rTNg3ZxgNMZZ4HwmmAAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg" , Test My Ride
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_21/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Plus_Logo_1920x1080.png" group-title="🇺🇸News" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", VoA
@@ -2045,7 +2045,7 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 #EXTINF:-2 group-title="🇺🇸Sports Adventure" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.bnF39WBIegkqCUgMB8NTmQAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", RedBull
 https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 
-#EXTINF:-1 group-title="🇺🇸News" tvg-logo="https://i.imgur.com/Q6swMsk.png", Reuters
+#EXTINF:-1 group-title="🇺🇸News" tvg-logo="https://i.imgur.com/Q6swMsk.png" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", Reuters
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_(2022).svg/1200px-PBS_Kids_logo_(2022).svg.png?20220814214903" group-title="🇺🇸Kids" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", PBS KIDS ASIA
@@ -2057,7 +2057,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/pla
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.jnLv_osIrzg2-WJB3b8jRQAAAA?pid=Api&P=0&h=220" group-title="🇰🇷Movies" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg",NEW K-MOVIES
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.v8Ou9c3pj-TX_ky2ZwOhiAAAAA?pid=Api&P=0&h=220" group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg" group-title="🇺🇸Sports", NBA Regular Season 
 
 
 ############## DishTV #################
