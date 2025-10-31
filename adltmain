@@ -105,260 +105,199 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTM3U
 
-x-url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml, https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml.gz, https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/tvpass-epg.xml, https://tvpass.org/epg.xml, https://github.com/atone77721/CIGNAL_EPG/raw/refs/heads/main/merged_epg.xml.gz"
-
-#EXTINF:-1 tvg-id="" tvg-name="Playboy" group-logo="https://i.imgur.com/1ryqkMd.png" parent-code="0000" tvg-logo="https://miamitv.com/images/6864282461d56_LIVE.jpg" group-title="Adult",Miami TV Live
-#EXTVLCOPT:http-origin=https://miamitv.com
-#EXTVLCOPT:http-referrer=https://miamitv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://59ec5453559f0.streamlock.net/LIVE1/LIVE/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Playboy" group-logo="https://i.imgur.com/1ryqkMd.png" parent-code="0000" tvg-logo="https://i.imgur.com/Fc9AdGR_d.png" group-title="Adult",Miami TV Fashion
+============================== R18 ==========================
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="🇺🇸R18",Miami TV Fashion
 #EXTVLCOPT:http-origin=https://miamitv.com
 #EXTVLCOPT:http-referrer=https://miamitv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://59ec5453559f0.streamlock.net/miamitvfashion/smil:34256/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Playboy" group-logo="https://i.imgur.com/1ryqkMd.png" parent-code="0000" tvg-logo="https://miamitv.com/images/1718228364.jpg" group-title="Adult",Jenny Live
+#EXTINF:-1 group-logo="" tvg-logo="https://miamitv.com/images/1718228364.jpg" group-title="🇺🇸R18",Jenny Live
 #EXTVLCOPT:http-origin=https://miamitv.com
 #EXTVLCOPT:http-referrer=https://miamitv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://59ec5453559f0.streamlock.net/JennyLive/smil:ROKU/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Playboy" group-logo="https://i.imgur.com/1ryqkMd.png" parent-code="0000" tvg-logo="https://miamitv.com/images/1718230773.jpg" group-title="Adult",Miami TV Gold
+#EXTINF:-1 group-logo="https://tse4.mm.bing.net/th/id/OIP.wGTMUYdGeyVMYhaYMKNC1AAAAA?pid=Api&P=0&h=220" tvg-logo="https://miamitv.com/images/1718230773.jpg" group-title="🇺🇸R18",Miami TV Gold
 #EXTVLCOPT:http-origin=https://miamitv.com
 #EXTVLCOPT:http-referrer=https://miamitv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://59ec5453559f0.streamlock.net/miamitvgold/smil:19869/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Playboy" group-logo="https://i.imgur.com/1ryqkMd.png" parent-code="0000" tvg-logo="https://miamitv.com/images/1720916971.jpg" group-title="Adult",Miami TV DJ
+#EXTINF:-1 group-logo="https://tse4.mm.bing.net/th/id/OIP.wGTMUYdGeyVMYhaYMKNC1AAAAA?pid=Api&P=0&h=220" tvg-logo="https://miamitv.com/images/1720916971.jpg" group-title="🇺🇸R18",Miami TV DJ
 #EXTVLCOPT:http-origin=https://miamitv.com
 #EXTVLCOPT:http-referrer=https://miamitv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://59ec5453559f0.streamlock.net/miamitvDJ/smil:56925/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Playboy" group-logo="https://i.imgur.com/1ryqkMd.png" parent-code="0000" tvg-logo="https://miamitv.com/images/680a51e802f7f_Miami%20TV%20Music.jpg" group-title="Adult",Miami TV Music
+#EXTINF:-1 group-logo="https://tse4.mm.bing.net/th/id/OIP.wGTMUYdGeyVMYhaYMKNC1AAAAA?pid=Api&P=0&h=220" tvg-logo="https://miamitv.com/images/680a51e802f7f_Miami%20TV%20Music.jpg" group-title="🇺🇸R18",Miami TV Music
 #EXTVLCOPT:http-origin=https://miamitv.com
 #EXTVLCOPT:http-referrer=https://miamitv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://59ec5453559f0.streamlock.net/miamitvmusic/smil:22596/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Playboy" group-logo="https://i.imgur.com/1ryqkMd.png" parent-code="0000" tvg-logo="https://miamitv.com/images/680a4d6de878f_Miami%20TV%20Models.jpg" group-title="Adult",Miami TV Models
+#EXTINF:-1 group-logo="https://tse4.mm.bing.net/th/id/OIP.wGTMUYdGeyVMYhaYMKNC1AAAAA?pid=Api&P=0&h=220" tvg-logo="https://miamitv.com/images/680a4d6de878f_Miami%20TV%20Models.jpg" group-title="🇺🇸R18",Miami TV Models
 #EXTVLCOPT:http-origin=https://miamitv.com
 #EXTVLCOPT:http-referrer=https://miamitv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://59ec5453559f0.streamlock.net/miamitvmodels/smil:529634/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Playboy" group-logo="https://i.imgur.com/1ryqkMd.png" parent-code="0000" tvg-logo="https://miamitv.com/images/66de27ad7d27e_Miami%20TV%20VIP.jpg" group-title="Adult",Miami TV VIP
+#EXTINF:-1 group-logo="https://tse4.mm.bing.net/th/id/OIP.wGTMUYdGeyVMYhaYMKNC1AAAAA?pid=Api&P=0&h=220" tvg-logo="https://miamitv.com/images/66de27ad7d27e_Miami%20TV%20VIP.jpg" group-title="🇺🇸R18",Miami TV VIP
 #EXTVLCOPT:http-origin=https://miamitv.com
 #EXTVLCOPT:http-referrer=https://miamitv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://59ec5453559f0.streamlock.net/miamitv/smil:95304/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Playboy.us" tvg-name="Playboy" group-logo="https://i.imgur.com/1ryqkMd.png" parent-code="0000" tvg-logo="https://i.imgur.com/Fc9AdGR_d.png" video-track="1024x576" group-title="Adult",Playboy TV
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+============================ R18 m3u8 =========================
 
-#EXTINF:-1 tvg-id="Babes.TV.cz" tvg-name="Babes TV" tvg-logo="https://www.poda.cz/wp-content/uploads/2024/04/babes-tv-2024.png" video-track="1024x576" group-title="Adult",Babes TV
-https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.XHvpZdbQ20A-GYZcDye6SwAAAA?pid=Api&P=0&h=220" group-logo="https://miamitv.com/images/66de27ad7d27e_Miami%20TV%20VIP.jpg" group-title="🇺🇸R18",Miami Fashion
+https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/5cc58e0b-3cd6-410c-8d1b-0f4e94a772a3/0.m3u8
 
-#EXTINF:-1 tvg-id="Erox.HD.sk" tvg-name="Erox HD" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/erox-hd.png" video-track="1024x576" group-title="Adult",Erox
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.iEiKajMoLBT3tviOz3X4SwAAAA?pid=Api&P=0&h=220" group-logo="https://miamitv.com/images/66de27ad7d27e_Miami%20TV%20VIP.jpg" group-title="🇺🇸R18",Miami Swim Bikini
+https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.30zcyrgew0n9JWTdt3P9SwAAAA?pid=Api&P=0&h=220" group-logo="https://miamitv.com/images/66de27ad7d27e_Miami%20TV%20VIP.jpg" group-title="🇺🇸R18",Kaloopy
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.A6i21isy2fn4RCtVW94TjQAAAA?pid=Api&P=0&h=220" group-logo="https://miamitv.com/images/66de27ad7d27e_Miami%20TV%20VIP.jpg" group-title="🇺🇸R18",Bikini Bottom TV
+https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.naY-U2F6g5bHlEcJJkR2vQAAAA?pid=Api&P=0&h=220" group-logo="https://miamitv.com/images/66de27ad7d27e_Miami%20TV%20VIP.jpg" group-title="🇺🇸R18",Afreeca TV
+https://glb.bozztv.com/glb/ushba43/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.Rmk6cTuqT9vcDZP6KuAQbwAAAA?pid=Api&P=0&h=220" group-logo="https://miamitv.com/images/66de27ad7d27e_Miami%20TV%20VIP.jpg" group-title="🇺🇸R18",Chic Midnight
+https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.hitxDf2L1WkKpFXpN3kv8QAAAA?pid=Api&P=0&h=220" group-logo="https://miamitv.com/images/66de27ad7d27e_Miami%20TV%20VIP.jpg" group-title="🇺🇸R18",Couture Midnight
+https://fl1004.bozztv.com/ushba75/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.B7P2gOviyprG7GRwdqV16AAAAA?pid=Api&P=0&h=220" group-logo="https://miamitv.com/images/66de27ad7d27e_Miami%20TV%20VIP.jpg" group-title="🇺🇸R18",Pulse Midnight
+https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.hODmU0LTMwUd-WeOpsRLIgAAAA?pid=Api&P=0&h=220" group-logo="https://miamitv.com/images/66de27ad7d27e_Miami%20TV%20VIP.jpg" group-title="🇺🇸R18",Vibe Midnight
+https://glb.bozztv.com/glb/ushba61/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.9cMq-E3iTurSumSnktQsaQAAAA?pid=Api&P=0&h=220" group-logo="https://miamitv.com/images/66de27ad7d27e_Miami%20TV%20VIP.jpg" group-title="🇺🇸R18",Fashion TV Midnite Secrets HD
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+======================= mpd Adult ======================================
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.OkA6g6jONKWSsBTCgRTwDQAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="🇺🇸Adult", Eroxx
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_erox/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="Eroxxx.HD.sk" tvg-name="Eroxxx HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/eroxxx.png" video-track="1024x576" group-title="Adult",Eroxxx
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.jwA5yiJ7H5K9i7bBx5jSeQAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="🇺🇸Adult", Brazzers Europe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_brazzers_europe/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.Dn7A4qgAS77i3V-XEuNl0gAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="🇺🇸Adult", Eroxxx
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_eroxxx/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="Dorcel.TV.cz" tvg-name="Dorcel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/1280px-Dorcel_TV.svg.png" video-track="1024x576" group-title="Adult",Dorcel
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.iD-B4fyP2ExndBQF_-ZV6wAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="🇺🇸Adult", Dorcel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_dorcel/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="Dorcel.XXX.cz" tvg-name="Dorcel XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo-Dorcelxxx.png/800px-Logo-Dorcelxxx.png" video-track="1024x576" group-title="Adult",Dorcel XXX
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.5Xwx0mA4Wy0eQI1vDS8xkgAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="🇺🇸Adult", Dorcel XXX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_dorcel_xxx/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="Brazzers.TV.Europe.sk" tvg-name="Brazzers TV Europe" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/1/18/Brazzers_TV_%282014-.n.v.%29.png" video-track="1024x576" group-title="Adult",Brazzers TV Europe
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash3.antik.sk/stream/hisi_brazzers_europe/playlist_cbcs.mpd
-
-#EXTINF:-1 tvg-id="True.Amateurs.HD.sk" tvg-name="True Amateurs HD" tvg-logo="https://i.imgur.com/MbXypW8.jpeg" video-track="1024x576" group-title="Adult",True Amateurs
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.jkqLldCezH8zkP83weh4MwAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="🇺🇸Adult", True Amateurs
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_true_amateurs/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="LEO.TV.sk" tvg-name="Leo TV" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/leo-tv.png" video-track="1024x576" group-title="Adult",Leo TV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.TP066o9KP3E2XjcZdzxYyAAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="🇺🇸Adult", Leo TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_leo_tv/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="Leo.TV.Gold.HD.sk" tvg-name="Loe TV Gold" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/03/leo-tv-gold.png" video-track="1024x576" group-title="Adult",Leo TV Gold
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.Jg-z5QzWUVekH4pvVxDAMwAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="🇺🇸Adult", Leo TV Gold
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_leo_gold/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="Extasy.cz" tvg-name="Extasy" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/extasy.png" video-track="1024x576" group-title="Adult",Extasy
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.kr8Zx7OvjkkzaQ95eOdRdAAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="🇺🇸Adult", Extasy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_extasy/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="Dusk.TV.sk" tvg-name="Dusk TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dusk_TV.svg/1280px-Dusk_TV.svg.png" video-track="1024x576" group-title="Adult",Dusk TV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.yOFHzE941MPWmlMBBxAuaAAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="🇺🇸Adult", Dusk TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_dusk/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="Babes.TV.cz" tvg-name="Babes TV" tvg-logo="https://www.poda.cz/wp-content/uploads/2024/04/babes-tv-2024.png" video-track="1024x576" group-title="Adult",Babes TV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iGKnjVyK752TpT6EBNsuvwAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="🇺🇸Adult", Babes TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="Pure.Babes.hr" tvg-name="Pure Babes" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/babes-pure-tv.png" video-track="1024x576" group-title="Adult",Pure Babes
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.oKqOpAqJiwi_zCL54cJmAgAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="🇺🇸Adult", Pure Babes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_pure_babes/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="Desire.TV.cz" tvg-name="Desire TV" tvg-logo="https://adult-tv-channels.click/assets/images/desire-tv.png" video-track="1024x576" group-title="Adult",Desire TV
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.7osbWU19wn_0hjlqlwPOKAAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="🇺🇸Adult", Desire TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_desire/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="Bang.U.hr" tvg-name="Bang U" tvg-logo="https://www.supernovabih.ba/wp-content/uploads/2022/07/TV_bang-u.png" video-track="1024x576" group-title="Adult",Bang U
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.MeObDvQ9TmkqUgM6C_9lRQAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="🇺🇸Adult", Bang U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_bang_u/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/passionxxx.png" video-track="1024x576" group-title="Adult",Passion XXX
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Odin/88.4324.2.10 Safari/537.36 Model/Hisense-MT9602 VIDAA/6.0(Tesla;SmartTV;VS0732FC1;MTK9602/V0000.06.13K.O1124;HD;VS0732F;)","Referer":"https://webtv.sk/tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.W09wuSVdHyLrt9zRONpynwAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="🇺🇸Adult", Passion XXX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash3.antik.sk/stream/hisi_passion_xxx/playlist_cbcs.mpd
 
-#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/kXCAjfoYWcZxGuOIA3HHDN0Lf4n.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/dTQLrV5V0jjL7drAEKQx5C3C7Jw.jpg" video-track="1024x576" group-title="Wow Mani",Episode 01
-https://hollymoviehd.com/streamsvr/PwGS_gfSlF/0-2?e=MmdQTTd6S0NuZVh0RmFlbTlmd2p1dVlnb3o1MDlzLzNFMDI0RzdRbllMaz0I
+===================== Adult m3u8 =============================
 
-#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/kXCAjfoYWcZxGuOIA3HHDN0Lf4n.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/dTQLrV5V0jjL7drAEKQx5C3C7Jw.jpg" video-track="1024x576" group-title="Wow Mani",Episode 02
-https://hollymoviehd.com/streamsvr/gkpQvLafrA/0-4?e=dUkxUzhRSWR0ZUJ3cS80cGMzWTluSjNGZWQ3a2N5Rnh0NlJ3dDhXeG1JND0A
+#EXTINF:-1 tvg-logo="https://www.poda.cz/wp-content/uploads/2024/04/babes-tv-2024.png" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="Adult TV",Babes TV
+https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
 
-#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/kXCAjfoYWcZxGuOIA3HHDN0Lf4n.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/dTQLrV5V0jjL7drAEKQx5C3C7Jw.jpg" video-track="1024x576" group-title="Wow Mani",Episode 03
-https://hollymoviehd.com/streamsvr/usUVQXLsyv/0-1?e=LzBpMzZpYmRTT1I3V1BSU0d6MnR6SXFHOVRla0VrYzJ5MEtKcnFpaGRxcz0E
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.l_Yv49fY9TVx6B8ixGMLuwAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="Adult TV", Playboy HD,
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
-#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/kXCAjfoYWcZxGuOIA3HHDN0Lf4n.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/dTQLrV5V0jjL7drAEKQx5C3C7Jw.jpg" video-track="1024x576" group-title="Wow Mani",Episode 04
-https://hollymoviehd.com/streamsvr/QaaFzSjcSK/0-2?e=U0ZJTFJzc1dZWXVPWEF6eWIzT1B6K2wwZVY0RmsrS0FUaHduS1ZJTlY3RT0O
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.-SSkI4dAFCRzYg-4pKppbgAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="Adult TV", Erox
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/kXCAjfoYWcZxGuOIA3HHDN0Lf4n.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/dTQLrV5V0jjL7drAEKQx5C3C7Jw.jpg" video-track="1024x576" group-title="Wow Mani",Episode 05
-https://hollymoviehd.com/streamsvr/7qQp9jEAay/0-4?e=VmZsK3R5VGVnRnIwSEh3RlUwR2tnc3JUY3loUHdzOXpEMlk0N0xJUUpsWT0E
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.BE9ScjpJTNrviRZNzjPhwwAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="Adult TV", Dorcel
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/kXCAjfoYWcZxGuOIA3HHDN0Lf4n.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/dTQLrV5V0jjL7drAEKQx5C3C7Jw.jpg" video-track="1024x576" group-title="Wow Mani",Episode 06
-https://hollymoviehd.com/streamsvr/QaaFzSjcSK/0-2?e=U0ZJTFJzc1dZWXVPWEF6eWIzT1B6K2wwZVY0RmsrS0FUaHduS1ZJTlY3RT0O
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.Dn7A4qgAS77i3V-XEuNl0gAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="Adult TV", Eroxxx
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/dKzHZwuvbVpUWwglgRW46v6W3kX.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/zryUBNyJ2sWPeSDcnm9zEKHTlp5.jpg" video-track="1024x576" group-title="Pantaxa Laiya",Episode 01
-https://hollymoviehd.com/streamsvr/C6ED1wCkrO/0-5?e=U05GMnJjbGVEQytrRkJOS2hPbGVuVlE2VzdYdTJCM3hLeDEvOStLR013cz0A
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.kr8Zx7OvjkkzaQ95eOdRdAAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="Adult TV", Extasy
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/dKzHZwuvbVpUWwglgRW46v6W3kX.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/hLtxU3GD5lClQtuTvF1tQlkNUnQ.jpg" video-track="1024x576" group-title="Pantaxa Laiya",Episode 02
-https://hollymoviehd.com/streamsvr/jlaGpRLpE3/0-5?e=QzZWeDFKcC9YTDF6QTZOQUNDNHV2dGJGdjh3aGZLRUV6aER5ZVVzNCtVQT0I
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.GRIKNSWQn0mb74ju5LSdZQAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="Adult TV", Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/dKzHZwuvbVpUWwglgRW46v6W3kX.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/r2afhTREzEli18PF8uq9WuyJNkz.jpg" video-track="1024x576" group-title="Pantaxa Laiya",Episode 03
-https://hollymoviehd.com/streamsvr/BAmxS6W5PA/0-4?e=Unk1UGpxN3gwdnp1WjBSNk5OdmRTNmZxcFR1allHc25LZlJybU13SW9IST0O
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iGKnjVyK752TpT6EBNsuvwAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="Adult TV", Babes tv HD
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/dKzHZwuvbVpUWwglgRW46v6W3kX.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/pvCIWjn8nigUs2ZCREtKCEefwhe.jpg" video-track="1024x576" group-title="Pantaxa Laiya",Episode 04
-https://hollymoviehd.com/streamsvr/ssPWL_MvXG/0-1?e=TXhMZTFqVVhTRm53NjA1cm1Ddk9zYStqdnR1ZXRseDNtUzgrOE1JeGsyUT0U
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.jwA5yiJ7H5K9i7bBx5jSeQAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="Adult TV", Brazzers TV Europe
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/dKzHZwuvbVpUWwglgRW46v6W3kX.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/xzagEdjDssopJLsvhAeusgyroLD.jpg" video-track="1024x576" group-title="Pantaxa Laiya",Episode 05
-https://hollymoviehd.com/streamsvr/U-J06SeRZ0/0-3?e=a0hVK2dnTDZRRHkrM1g1RUxhUml6K1RjcHcyZUlhZnJsYnZDTCtxQlBQST0E
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.bquOE2amIo7pJOxsBR6H9wAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="Adult TV", Leo gold
+http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/dKzHZwuvbVpUWwglgRW46v6W3kX.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/dd6akzUKzTHhdKsvJJZHbG65aRW.jpg" video-track="1024x576" group-title="Pantaxa Laiya",Episode 06
-https://hollymoviehd.com/streamsvr/zb90uS2-wJ/0-3?e=QmphRmdDc08wUmJoNFFFY1BwZ1hhb1lncHJNN1IyQjl0SnJYbEd3Y2NvYz0A
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.t0zKwSEhdKh4o5EUuAOdZgAAAA?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="Adult TV", Reality Kings
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.1B2tXM8jH3N42sLC-Nsd2QCWBQ?pid=Api&P=0&h=220" group-logo="https://pbs.twimg.com/profile_images/697086118949474306/GrQ0lMAY_400x400.jpg" group-title="Adult TV", Dusk! TV
+http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
 
 
 
