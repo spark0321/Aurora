@@ -28,100 +28,301 @@
 
 
 
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="" group-logo="" group-title="", Extasy
+#EXTM3U billed-msg=""
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/GEUL42b.png",㊙ Kapamilya Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/hisi_extasy/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Erox.HD.sk" tvg-name="Erox HD" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/erox-hd.png" video-track="1024x576" group-title="Adult",Erox
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/xStBUu7.png",㊙ Kapamilya Channel HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739dhttps://dash3.antik.sk/stream/hisi_erox/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Eroxxx.HD.sk" tvg-name="Eroxxx HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/eroxxx.png" video-track="1024x576" group-title="Adult",Eroxxx
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/D3qGmme.png",㊙ GMA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash3.antik.sk/stream/hisi_eroxxx/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Dorcel.TV.cz" tvg-name="Dorcel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/1280px-Dorcel_TV.svg.png" video-track="1024x576" group-title="Adult",Dorcel
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/YwKq8Ta.png",㊙ GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash3.antik.sk/stream/hisi_dorcel/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Dorcel.XXX.cz" tvg-name="Dorcel XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo-Dorcelxxx.png/800px-Logo-Dorcelxxx.png" video-track="1024x576" group-title="Adult",Dorcel XXX
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/jsCBRq0.png",㊙ TV5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/btiNwYt.png",㊙ One Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/DVSTY3w.png",㊙ A2Z
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/S4jZDXH.png",㊙ All TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash3.antik.sk/stream/hisi_dorcel_xxx/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Brazzers.TV.Europe.sk" tvg-name="Brazzers TV Europe" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/1/18/Brazzers_TV_%282014-.n.v.%29.png" video-track="1024x576" group-title="Adult",Brazzers TV Europe
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/ycPz1Uc.png",㊙ People's Television
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/PwFOHQb.png",㊙ IBC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/e6rZCVd.png",㊙ Net25
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash3.antik.sk/stream/hisi_brazzers_europe/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="True.Amateurs.HD.sk" tvg-name="True Amateurs HD" tvg-logo="https://i.imgur.com/MbXypW8.jpeg" video-track="1024x576" group-title="Adult",True Amateurs
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/rkz7ike.png",㊙ UNTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash3.antik.sk/stream/hisi_true_amateurs/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="LEO.TV.sk" tvg-name="Leo TV" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/leo-tv.png" video-track="1024x576" group-title="Adult",Leo TV
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/LpPaA89.png",㊙ RJ TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash3.antik.sk/stream/hisi_leo_tv/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001159/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Leo.TV.Gold.HD.sk" tvg-name="Loe TV Gold" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/03/leo-tv-gold.png" video-track="1024x576" group-title="Adult",Leo TV Gold
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/IDCHfXm.png",㊙ RPTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/Q81UWCk.png",㊙ TeleRadyo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash3.antik.sk/stream/hisi_leo_gold/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001249/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Extasy.cz" tvg-name="Extasy" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/extasy.png" video-track="1024x576" group-title="Adult",Extasy
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/3tbmAlN.png",㊙ Aliw Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash3.antik.sk/stream/hisi_extasy/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Dusk.TV.sk" tvg-name="Dusk TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dusk_TV.svg/1280px-Dusk_TV.svg.png" video-track="1024x576" group-title="Adult",Dusk TV
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/P1mCl2k.png",㊙ DZRH TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash3.antik.sk/stream/hisi_dusk/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Babes.TV.cz" tvg-name="Babes TV" tvg-logo="https://www.poda.cz/wp-content/uploads/2024/04/babes-tv-2024.png" video-track="1024x576" group-title="Adult",Babes TV
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/U8L0Liq.png",㊙ True FM TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/28X1hNb.png",㊙ Radyo Bandido TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash3.antik.sk/stream/hisi_babes/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001338/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Pure.Babes.hr" tvg-name="Pure Babes" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/babes-pure-tv.png" video-track="1024x576" group-title="Adult",Pure Babes
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/0Dy6Olh.png",㊙ Pinoy Xtreme
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash3.antik.sk/stream/hisi_pure_babes/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001098/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Desire.TV.cz" tvg-name="Desire TV" tvg-logo="https://adult-tv-channels.click/assets/images/desire-tv.png" video-track="1024x576" group-title="Adult",Desire TV
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/uyRZJAo.png",㊙ CLTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash3.antik.sk/stream/hisi_desire/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001314/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Bang.U.hr" tvg-name="Bang U" tvg-logo="https://www.supernovabih.ba/wp-content/uploads/2022/07/TV_bang-u.png" video-track="1024x576" group-title="Adult",Bang U
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/HhxOIJq.png",㊙ TVUP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/UIqEr2y.png",㊙ Knowledge Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash3.antik.sk/stream/hisi_bang_u/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001340/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/passionxxx.png" video-track="1024x576" group-title="Adult",Passion XXX
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/zVh11EA.png",㊙ Oras ng Himala TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash3.antik.sk/stream/hisi_passion_xxx/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001175/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/6lg5l6M.png",㊙ INC TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001092/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/ppBTVXN.png",㊙ EWTN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001104/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/JJlFY5Z.png",㊙ 3ABN International
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001183/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/3Sz8yWo.png",㊙ TV Maria
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa3998b9a4de40659725ebc5151250d6:998f1294b122bbf1a96c1ddc0cbb229f
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/tvmaria_prd.mpd
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/H2QFNam.png",㊙ MPTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/V0sxXci.png",㊙ UAAP Varsity
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/Wsj7iPd.png",㊙ Living Asia Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001154/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/zSv8YJ4.png",㊙ Mindanow Network
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001123/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/XzVYXaV.png",㊙ ANC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001274/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/bmP06bk.png",㊙ One News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/9dMuFE1.png",㊙ One PH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/aq6PzZB.png",㊙ Heart Of Asia
+http://tvnijuan.net:38081/live/tvnijuandemo/tvnijuandemo/609.ts
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/nudQeH7.png",㊙ I Heart Movies
+http://tvnijuan.net:38081/live/tvnijuandemo/tvnijuandemo/608.ts
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/KLdsqfm.png",㊙ SolarFlix
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001243/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/Pf8CNau.png",㊙ CineMo
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/3yzbJE5.png",㊙ Jeepney TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/hJ6MBiA.png",㊙ Cinema One
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/709Uy7N.png",㊙ PBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/8y3fc3F.png",㊙ VIVA Cinema
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/EUlYIWv.png",㊙ Celestial Movies Pinoy
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/ZbrvQpg.png",㊙ TMC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001080/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/e9vo9Z8.png",㊙ tvN Movies Pinoy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/ysY2Usa.png",㊙ Zee Sine
+https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/l2A1mt5.jpg",㊙ Sari-sari
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/Du6LQCi.png",㊙ BuKo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Local" tvg-logo="https://i.imgur.com/Iy35n22.png",㊙ DreamWorks ᵗᵃᵍᵃˡᶦᶻᵉᵈ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Jungo TV" tvg-logo="https://i.imgur.com/6PdFnkG.png",㊙ AWSN
+https://amg02188-amg02188c2-jungotv-northamerica-5717.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Jungo TV" tvg-logo="https://i.imgur.com/xICcgQ8.png",㊙ Black Belt
+https://jungotvstream.chanall.tv/jungotv/combatgo/stream.m3u8
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Jungo TV" tvg-logo="https://i.imgur.com/B4yeqQO.png",㊙ Front Row Channel
+https://jungotvstream.chanall.tv/jungotv/frontrow/stream.m3u8
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Jungo TV" tvg-logo="https://i.imgur.com/gYYYebi.png",㊙ Hallypop
+https://jungotvstream.chanall.tv/jungotv/hallypop/stream.m3u8
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Jungo TV" tvg-logo="https://i.imgur.com/pWCWUX2.png",㊙ Jungo Pinoy TV
+https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8
+
+#EXTINF:-1 group-title="𝑀𝑌𝑣𝑒𝑟𝑠𝑒 — Jungo TV" tvg-logo="https://i.imgur.com/DOpZtIf.png",㊙ ScreamFlix
+https://jungotvstream.chanall.tv/jungotv/screamflix/stream.m3u8
