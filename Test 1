@@ -1,123 +1,486 @@
-404 forbidden
+#EXTM3U
 
-
-
-
-#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
-
-
-#EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
-https://freem3u.xyz/api/live/play.m3u8?vid=163
-
-#EXTINF:-1 tvg-id="boomerang" group-title="Quốc tế" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo.jpg", Cartoonito
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1516887&extension=ts&play_token=EmvO2AH4kY
-
-#EXTINF:-1 tvg-id="animaxhd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Animax.jpg",Animax HD
-http://filex.tv:8080//live/drzain/002808/290854.ts
-
-#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc tế" tvg-logo="https://i.ytimg.com/vi/0jFG4yuzMRo/maxresdefault.jpg",BBC Earth
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=71995&extension=ts&play_token=mvpWiPu9Lp
-
-#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://freem3u.xyz/static/images/global/hgtv.png" group-title="Quốc tế",HGTV
-https://freem3u.xyz/api/live/play.mpd?vid=99
-
-#EXTINF:-1 tvg-id="ABCNewsLive" group-title="Quốc tế" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News
-https://c.mjh.nz/abc-nsw.m3u8
-
-#EXTINF:-1 tvg-id="france24fr" group-title="Quốc tế" tvg-logo="https://i.imgur.com/no9Mv3X.png",France 24 French
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/jP0rB8j.png",Sky News
-https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_mob.m3u8
-
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/xjuw11dfold3/7D9R6Lt76cBTPyRRpV9eit/64aba6ff966a6b286cbadd55aaf2d0ab/BBC-client-logo-256x256.png" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", BBC Treasures
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CINEMAX.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=f94bae425abea0ccacec08b2e72b7d07:8eea02108392c61aa79663bc064fc600
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aczgdiuxsu/out/v1/31374ef324ce4bd2bd278b78f4a97d60/cenc.mpd?encoding=segmentBase
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tQ9zy5vMX0Q/mqdefault.jpg" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", PBS Nature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key= {"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png", Cinema World
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=c9d9ff22763b83b4ff72001f9ce632c5:b55821341a79541aba79b759cc823be1
+https://ABCN5TDAAAAAAAAMJC7BDIU7VUW5U.OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qi23sqygqv/out/v1/cb1c6fe397164335b456dd8a33cb821b/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.0udeJuwXtKa_c2I7nPqJFwAAAA?pid=Api&P=0&h=220" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", MagellanTV Wildest
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
-#EXTINF:-1 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/6b/ba/a3/36/60/0a/6ba36-pwarnerhd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Warner TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=27adff179a63db8066aa6733cb30d918:5a4e36391d13c94a4bf925d8fd8a236c
+https://ABCN5TDAAAAAAAAMIVF7KHZNVZDEM.OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fsvs0bvb7h/out/v1/cac331ecba3b4d86b58a1a0a706a82eb/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.DjSyEgNucshW_mIx7T1SkwAAAA?pid=Api&P=0&h=220" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", GVTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế" tvg-logo="https://freight.cargo.site/w/1200/i/3cf72163d993c4d87263e6d4990ec4ccdd1e14b09ce89e6e35dee1de83ef4985/CN.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=8433937fe77d9c43a0345c5fc3d48d1e:48c16cc9cad6413adb2ad790d297c4f9
+https://ABCN5TDAAAAAAAAMJIPUXZWJ444R2.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vwa3vblnjz/out/v1/bd1e1744f61a43589869475ea9b45ef6/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.kYciPpWVeohQkmrVHvN39wAAAA?pid=Api&P=0&h=220" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", PBS Ken Burns
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
-#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://user-content.static.wf/avidwiki/9/9e/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=a94324af694aae8210572186c7cf1c04:63c879aa2e3128d12e12ba6956c99c01
+https://ABCN5TDAAAAAAAAMF2ECEYJEQUL24.OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zaf7e2tnmr/out/v1/94ef3b285f51419791b3b435ce449255/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.VQ2RmdAc6P8YH0t2oQ46CAAAAA?pid=Api&P=0&h=220" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", PBS Travel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WTKPYh1WdnvF/5QEqJQGgw","kid":"Z9riBSfGPa2qrmCaqRV3yw"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
-#EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC Cbeebies
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=a37ce8d3160b036da8fd40ccf583ac41:0b82dcfa0995bbc6f382a3d8ef066ab9
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mxbsynqple/out/v1/5d9a60deddcd460d8eb8d685dfe5e148/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", How To
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uDPR9AwmHveIlvl+BvgM3A","kid":"zKc6AGtLOaWVIHzrXtnKCg"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/c7/7f/fc/c6/69/9b/c7fc6-pdiscoveryhd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=6faaa019c4750430494f30858cd0174d:fff6edbf610f765d2deed97572ffaae4
+https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/1jfeesd7iv/out/v1/90757ad6933344b78ea6da676a8b8c97/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", PBS Documentaries
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vqWgcVfgxNF7Eas5lRf5Ug","kid":"60Fg6lU6Mh2JlVPk55b+wg"}],"type":"temporary"}
-https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
-#EXTINF:-1 tvg-id="dmax" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/vHmt91V.png", DMAX
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=5d97cf2527ef9b9d20afd7dd446af50b:87713be5a27996ee6901bd46a791f06b
+https://ABCN5TDAAAAAAAAMD23KPNOI6GMSP.OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5kgj4foeaa/out/v1/aac8e6bb3b924bdf896032592ada5a3c/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Nat Geo Sharks
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=7800bfe7a7b4f5c983c9dc3c500b0357:2be6d286bb03f70e43e4019f9d7c1d34
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Curiosity Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9a561b6adad89952415120e7061782d:09ac42a44dfc17aa31c160052bb1834c
+https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/out/v1/40523cc41143492b9995faf2d6f97ab6/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Dinos 24/7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c0a1b444fe06383801eb7e6c3d42c5b:49020a53f5703243d2c25dc090e83faf
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/x3nmcouwjh/out/v1/1afd49d8a5a4498680e97b0206006811/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", PBS Genealogy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a1319db5711198dbbcef15051cd7ed4:fa19bbf85c39454ae1fe1044d9499e39
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3qnbo1nztd/out/v1/2d032a09cb444d2b9fab58faf40db397/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Space & Beyond
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=016ea4104bdc43d9a1cf81d50f8ec0d6:d4fdfa9c49307246cdafb6598cbcb255
+https://ABCN5TDAAAAAAAAMH5VPAILONGLPD.OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1bqgd0dlxj/out/v1/a032ddc3b3cb4b509462280f7afda8a2/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", EarthDay 365
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e4f091aa3f162f2b37bb9bfc22d67e2:868caee53170b0b75804f4463ecd80d5
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6ovm8kpzl0/out/v1/2c07bb80f1c241b3828ce427530e9741/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Modern Marvels
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=163975022cfd582eefca8d9e3a9ef4ea:95e911ecff6b8bbcd8c5ca6ea4219d02
+https://ABCN5TDAAAAAAAAMAK35Q4ZQGNRSZ.OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xt0kntz2vb/out/v1/a5c9712cac43483baaf7314645fe6e9c/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Mythbusters
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dcf7207dd39c334d64c5059f6721639:d6b433c51aa8a84586126e42eb69bed0
+https://ABCN5TDAAAAAAAAMMQKF2JNMM57OR.OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugmfjiqwfd/out/v1/1c2804035667405cba6b37162ae105ea/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Rovr Pets
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a0b04c7e6cee331b1bfc3bade173679:7eb84ef9f9a595b8264c592acff00f82
+https://ABCN5TDAAAAAAAAMELGUIMGX22EER.OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xd2n6xcdrj/out/v1/241665ca85f54611bad30cb2ed23289f/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Real Disaster Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4398eb0b3eb86786e4ec7127312cd0:3fec84cee711701c7ada5163ba77b98d
+https://ABCN5TDAAAAAAAAMLRX37OVUZGIOI.OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/orgtigwisa/out/v1/de928716d3d845d5aa5635080fbd5098/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Mysterious World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d264da818cdcc2b79aed140c7513d30:f72e7aee419cfb474ee38ba664c5edef
+https://a51aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/9w8aklof7x/out/v1/9d30f39ba2464bb4a764e337ba0f03ad/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Love Nature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cec4c3c055a7f7e496cbe3abe06ae7c3:6b96bdc30b53ae19d40b4e17c66e5afd
+https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Combat War Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f61f911fcd0a2eb37ce0b1d9629dc56:dd6abd1f533209d1bbcf50a61ec23cc2
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/il20sicd8s/out/v1/d2bfb9b1f48a4929a61507d03620a681/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", The Jack Hanna Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e5886198b5a39670e10ec1016df0189:52280419504b2693427e8aff62810604
+https://ABCN5TDAAAAAAAAMJCILZVM7WLGAE.OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/pmsghnlchw/out/v1/4c81d0ae119b4b0296e7056ef0b3d3e1/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Tastemade Travel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54f6f82bb9346a4a401938aea437db8d:71add77d5bad70a435c2f52e132db459
+https://ABCN5TDAAAAAAAAMDPJAMPFNI2NPT.OTTB.live.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/g0qnqmieou/out/v1/72b8444277164b4aa2af9059b0644887/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84bb2e1d9e7d6eecf3983ad25612f171:effff701c5df21107721deb4a4e3dae0
+https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/jepxe7swiw/out/v1/83d03bb3d80d428789975e8adfae61d1/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Military Heroes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d59c706f0beacd15d11b9ca8a55a3b90:b3facec819b89b565ef5635bf8a77cb9
+https://ABCN5TDAAAAAAAAMDHWJYE232B3UL.OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rgzxepokao/out/v1/2be3181942bd4abdbc244bd614396ddd/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Modern Innovations by History
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d733f0ac4bd88702afb22ba8cd27aad9:5c3f0468b3e5e7c88d4f342812c08ea4
+https://a188aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hikx7374m8/out/v1/ce26c25968b34e0fa3a8c9a4ce222f67/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", History Untold
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e66c5d1959f79a1156b38a0d081843ee:ba4edb5fab98976c81d147e942d9e784
+https://a182aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/u00dw9gxcx/out/v1/362826aa6ec044578910c263b7aaa632/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", History Hit Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbfd8a5d79b8b84e5b65be1a0ee17dba:99e5e91fc3f9c297abed36000fb1fe88
+https://ABCN5TDAAAAAAAAMKLAKT4BIRE5C4.OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w91wojgmz7/out/v1/e105d6321667470d872c9bb3d519e6d5/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Love Pets
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21b379c7df9e11ae0c1abc7935a4db76:44211b296758cefbd3f1a23b83956de4
+https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/28xmz0fakt/out/v1/de469857b7f347dba089ad4288cc6e47/cenc.mpd?encoding=segmentBas
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Travel and Adventure
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d4056f8f4078c5f5a5cfb283dd6cddc:c590b5ad9d3a6eac5cc27507ce34089e
+https://a76aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wrc2mmbfhf/out/v1/6b5f96b0ac5c4e6f9306f9606432ae87/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", Science is Amazing
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8cdce02de4ee021313752bf3f4170fb4:60dbfbe941a0462e0d56a95c7b9e3bee
+https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/d9iunfir77/out/v1/4c1ded14e2db44d59915910e6dc2284d/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", AWE Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03d14cc90a5ab5cbfbb62b2132c8505f:ce0b46c7325e4967a3c2ded1759f1369
+https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/drkiqfev9p/out/v1/cfd6e6a288ec4a2084e2bf41be993722/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", True History
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4d68bcc5dfb7b3d46f5d8acc435e84d:21e94e24b5a1b1edca66764857471584
+https://ABCN5TDAAAAAAAAMKFSR4WL4XZXJZ.OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q3gjkjvw6b/out/v1/ae342f822d9045f683a622f5b39c8daa/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", StarTalk
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a72a67b3a71fad6f4b7863336184e4:2c41a547022ec33cc99720c2d4c1b7e8
+https://a73aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/20e3xywbum/out/v1/45f29ac5121847959c3a60ae068e729b/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-id="BBCAlba.uk@SD",BBC Alba (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCAlba.uk@SD",BBC Alba (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCFour.uk@UK",BBC Four (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCFour.uk@UK",BBC Four HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCFour.uk@UK",BBC Four HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCNews.uk@Africa",BBC News (1080p) [Geo-blocked]
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCNews.uk@Africa",BBC News (720p)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@Africa",BBC News (540p) [Geo-blocked]
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@Africa",BBC News (540p)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@Africa",BBC News HD (720p) [Geo-blocked]
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCNews.uk@Africa",BBC News HD (720p) [Geo-blocked]
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@ChannelIslands",BBC One Channel Islands (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@ChannelIslands",BBC One Channel Islands (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@East",BBC One East (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@East",BBC One East (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@YorkshireHD",BBC One East (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@EastMidlandsHD",BBC One East Midlands (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@EastMidlands",BBC One East Midlands (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@YorkshireHD",BBC One East Yorkshire (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@Yorkshire",BBC One East Yorkshire (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@London",BBC One London (1080p) [Geo-blocked]
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@London",BBC One London (720p) [Geo-blocked]
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@London",BBC One London (720p) [Geo-blocked]
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@London",BBC One London (540p) [Geo-blocked]
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@NorthEastCumbriaHD",BBC One North East (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@NorthEastCumbria",BBC One North East (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@NorthEastCumbria",BBC One North East (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@NorthWestHD",BBC One North West (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@NorthWest",BBC One North West (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@NorthernIrelandHD",BBC One Northern Ireland HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@NorthernIreland",BBC One Northern Ireland HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@NorthernIreland",BBC One Northern Ireland HD (720p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@Scotland",BBC One Scotland (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@ScotlandHD",BBC One Scotland HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@ScotlandHD",BBC One Scotland HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@ScotlandHD",BBC One Scotland HD (720p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@South",BBC One South (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@South",BBC One South (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@South",BBC One South (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@SouthEast",BBC One South East (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@SouthEast",BBC One South East (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@SouthEast",BBC One South East (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@SouthWest",BBC One South West (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@SouthWest",BBC One South West (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@SouthWest",BBC One South West (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@Wales",BBC One Wales (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@Wales",BBC One Wales (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@Wales",BBC One Wales (720p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@Wales",BBC One Wales (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@West",BBC One West (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@West",BBC One West (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@West",BBC One West (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@WestMidlands",BBC One West Midlands (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@WestMidlands",BBC One West Midlands (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@WestMidlands",BBC One West Midlands (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@YorkshireHD",BBC One Yorks (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@Yorkshire",BBC One Yorks (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCOne.uk@Yorkshire",BBC One Yorks (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCParliament.uk@SD",BBC Parliament (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCParliament.uk@SD",BBC Parliament (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
+
+
+#EXTINF:-1 tvg-id="BBCRedButton1.uk@SD",BBC RB 1 (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton1.uk@SD",BBC RB 1 (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton1.uk@SD",BBC Red Button 1 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_001/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton1.uk@SD",BBC Red Button 1 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_001/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton2.uk@SD",BBC Red Button 2 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton2.uk@SD",BBC Red Button 2 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton3.uk@SD",BBC Red Button 3 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton3.uk@SD",BBC Red Button 3 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton4.uk@SD",BBC Red Button 4 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton4.uk@SD",BBC Red Button 4 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton5.uk@SD",BBC Red Button 5 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton5.uk@SD",BBC Red Button 5 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton6.uk@SD",BBC Red Button 6 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton6.uk@SD",BBC Red Button 6 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton7.uk@SD",BBC Red Button 7 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton7.uk@SD",BBC Red Button 7 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton8.uk@SD",BBC Red Button 8 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton8.uk@SD",BBC Red Button 8 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton9.uk@SD",BBC Red Button 9 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton9.uk@SD",BBC Red Button 9 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton10.uk@SD",BBC Red Button 10 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton10.uk@SD",BBC Red Button 10 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton11.uk@SD",BBC Red Button 11 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton11.uk@SD",BBC Red Button 11 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton12.uk@SD",BBC Red Button 12 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton12.uk@SD",BBC Red Button 12 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton13.uk@SD",BBC Red Button 13 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton13.uk@SD",BBC Red Button 13 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton14.uk@SD",BBC Red Button 14 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton14.uk@SD",BBC Red Button 14 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton15.uk@SD",BBC Red Button 15 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton15.uk@SD",BBC Red Button 15 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton16.uk@SD",BBC Red Button 16 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton16.uk@SD",BBC Red Button 16 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton17.uk@SD",BBC Red Button 17 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton17.uk@SD",BBC Red Button 17 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton18.uk@SD",BBC Red Button 18 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton18.uk@SD",BBC Red Button 18 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton19.uk@SD",BBC Red Button 19 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton19.uk@SD",BBC Red Button 19 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton20.uk@SD",BBC Red Button 20 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton20.uk@SD",BBC Red Button 20 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton21.uk@SD",BBC Red Button 21 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton21.uk@SD",BBC Red Button 21 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton22.uk@SD",BBC Red Button 22 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton22.uk@SD",BBC Red Button 22 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton23.uk@SD",BBC Red Button 23 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton23.uk@SD",BBC Red Button 23 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCRedButton24.uk@SD",BBC Red Button 24 (1080p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCRedButton24.uk@SD",BBC Red Button 24 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCScotland.uk@SD",BBC Scotland (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCScotland.uk@SD",BBC Scotland HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCScotland.uk@SD",BBC Scotland HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCThree.uk@SD",BBC Three (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="BBCThree.uk@SD",BBC Three HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCThree.uk@SD",BBC Three HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCThree.uk@SD",BBC Three HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCThree.uk@SD",BBC Three HD (720p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD",BBC Two HD (1080p) [Geo-blocked]
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD",BBC Two HD (720p) [Geo-blocked]
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD",BBC Two HD (720p) [Geo-blocked]
+https://vs-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD",BBC Two HD (720p) [Geo-blocked]
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD",BBC Two HD (540p) [Geo-blocked]
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIreland",BBC Two Northern Ireland (540p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIrelandHD",BBC Two Northern Ireland HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIrelandHD",BBC Two Northern Ireland HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIrelandHD",BBC Two Northern Ireland HD (720p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@Wales",BBC Two Wales (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCTwo.uk@Wales",BBC Two Wales (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BBCUHD1.uk@SD",BBC UHD 1 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-id="BBCUHD2.uk@SD",BBC UHD 2 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_02/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-id="BBCUHD3.uk@SD",BBC UHD 3 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-id="BBCUHD4.uk@SD",BBC UHD 4 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-id="BBCUHD5.uk@SD",BBC UHD 5 (2160p) [Geo-blocked] [Not 24/7]
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
+#EXTINF:-1 tvg-id="CBBC.uk@SD",CBBC HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="CBBC.uk@SD",CBBC HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="CBBC.uk@SD",CBBC HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="CBBC.uk@SD",CBBC HD (720p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="CBeebies.uk@SD",CBeebies HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="CBeebies.uk@SD",CBeebies HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="CBeebies.uk@SD",CBeebies HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="CBeebies.uk@SD",CBeebies HD (720p) [Geo-blocked]
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="S4C.uk@SD",S4C (1080p) [Geo-blocked]
+https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
+#EXTINF:-1 tvg-id="S4C.uk@SD",S4C (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:s4cpbs/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="", Super Ecran 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae52099e609c738e35f7746596a7676e:9EA99F22A6907BB7036B3CA14C5AAC20
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mm4sc8ctls/out/v1/5ed6b106d3ce414f9fe3b14925db1b57/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 
 
 
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="", Super Ecran 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://abk5cwbaaaaaaaamp6ufeb7kz4btj.otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xrikgkpu1b/out/v1/3dbeaf4d85124501afa119e3f0917041/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#KODIPROP:inputstream.adaptive.license_key=13a4b64a8e7d38ab401276e943bacbf6:9EA99F22A6907BB7036B3CA14C5AAC20
 
 
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="", Super Ecran 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/waa5mlaa7n/out/v1/d49f6823908542338d155274ec4a9f9f/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#KODIPROP:inputstream.adaptive.license_key=0a8ff131cdaae2f0fa645b53973a5cab:9EA99F22A6907BB7036B3CA14C5AAC20
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="", Super Ecran 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4vxsklalvp/out/v1/efb54e44fc9e48cfbe39e4fd13948b10/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#KODIPROP:inputstream.adaptive.license_key=481d9f1e88d07d62d3a6681df8079a6e:9EA99F22A6907BB7036B3CA14C5AAC20
