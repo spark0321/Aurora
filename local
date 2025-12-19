@@ -153,7 +153,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mp
 #KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
 
-
 #EXTINF:-1  tvg-id="ibc" tvg-logo="https://i.imgur.com/CTHhr3Q.png" group-title="CigPH" group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMESLoQEXw3EdeqyBqXoXURZe_5bBpPThP-6c9hdIarEH2RD5A_aem_bwCjbjg5M0372sYj8YRTjg",IBC 13
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ecd238c0394592b8d3559c06b1faf5:05b47ae3be1368912ebe28f87480fc84
@@ -886,35 +885,35 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 
 
 
-################ Universal ########################
+################ Universal Studio ########################
 
 
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.5JR6gryI4p8DDWghirs7JAAAAA?pid=Api&h=220&P=0" group-title="🇺🇸Movies" group-logo="https://tse2.mm.bing.net/th/id/OIP.WNfdkKbcWzzdatVSBU_eTgAAAA?pid=Api&P=0&h=220",UNIVERSAL_CINEMA_HD
+#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.5JR6gryI4p8DDWghirs7JAAAAA?pid=Api&h=220&P=0" group-title="Universal Studio" group-logo="https://tse2.mm.bing.net/th/id/OIP.WNfdkKbcWzzdatVSBU_eTgAAAA?pid=Api&P=0&h=220",UNIVERSAL_CINEMA_HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66ee81febe768875ae2fee5b8f512e15:54882694734874f280259fb8b6766ab3
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CINEMA_HD)/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th/id/OIP.86ZK2OpLid59-HODXOvtYwAAAA?pid=Api&P=0" group-title="🇺🇸Comedy" group-logo="https://tse2.mm.bing.net/th/id/OIP.WNfdkKbcWzzdatVSBU_eTgAAAA?pid=Api&P=0&h=220",UNIVERSAL_COMEDY_HD
+#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th/id/OIP.86ZK2OpLid59-HODXOvtYwAAAA?pid=Api&P=0" group-title="Universal Studio" group-logo="https://tse2.mm.bing.net/th/id/OIP.WNfdkKbcWzzdatVSBU_eTgAAAA?pid=Api&P=0&h=220",UNIVERSAL_COMEDY_HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a778fbd54a4b2285cea8d44c514a2fd:d9befb259f2523d17dd5f7ae5ba2dd74
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_COMEDY_HD)/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.uC8ULYN2JbMWE5f_5wp18AAAAA?pid=Api&P=0" group-title="🇺🇸Documentary" group-logo="https://tse2.mm.bing.net/th/id/OIP.WNfdkKbcWzzdatVSBU_eTgAAAA?pid=Api&P=0&h=220",UNIVERSAL_CRIME_HD
+#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.uC8ULYN2JbMWE5f_5wp18AAAAA?pid=Api&P=0" group-title="Universal Studio" group-logo="https://tse2.mm.bing.net/th/id/OIP.WNfdkKbcWzzdatVSBU_eTgAAAA?pid=Api&P=0&h=220",UNIVERSAL_CRIME_HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd87aca2d338122cbd283bdd3a0f7502:2bd42314bdcf4028eeb25fcf61b7b6e3
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CRIME_HD)/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.88QQKf2tqoyTNb1Jay_EOQAAAA?pid=Api&P=0&h=220" group-title="🇺🇸Entertainment" group-logo="https://tse2.mm.bing.net/th/id/OIP.WNfdkKbcWzzdatVSBU_eTgAAAA?pid=Api&P=0&h=220",UNIVERSAL_CHANNEL_HD
+#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.88QQKf2tqoyTNb1Jay_EOQAAAA?pid=Api&P=0&h=220" group-title="Universal Studio" group-logo="https://tse2.mm.bing.net/th/id/OIP.WNfdkKbcWzzdatVSBU_eTgAAAA?pid=Api&P=0&h=220",UNIVERSAL_CHANNEL_HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96388f9c9cbc73d4256a97974f9a2aef:c2cd19c2e73c8b7d6c384ba745161444
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CHANNEL_HD)/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.QwlYD6IHr3yimLe7zm6rkgAAAA?pid=Api&h=220&P=0" group-title="🇺🇸Movies" group-logo="https://tse2.mm.bing.net/th/id/OIP.WNfdkKbcWzzdatVSBU_eTgAAAA?pid=Api&P=0&h=220",UNIVERSAL_PREMIER_HD
+#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.QwlYD6IHr3yimLe7zm6rkgAAAA?pid=Api&h=220&P=0" group-title="Universal Studio" group-logo="https://tse2.mm.bing.net/th/id/OIP.WNfdkKbcWzzdatVSBU_eTgAAAA?pid=Api&P=0&h=220",UNIVERSAL_PREMIER_HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d01c9488e528697a9cd8ebe35b067729:abb4d0aff05248ae5e53d3e8454671d6
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_PREMIER_HD)/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.P3jT0SlBXLGRPLum56295QAAAA?pid=Api&P=0" group-title="🇺🇸Reality" group-logo="https://tse2.mm.bing.net/th/id/OIP.WNfdkKbcWzzdatVSBU_eTgAAAA?pid=Api&P=0&h=220",UNIVERSAL_REALITY_HD
+#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.P3jT0SlBXLGRPLum56295QAAAA?pid=Api&P=0" group-title="Universal Studio" group-logo="https://tse2.mm.bing.net/th/id/OIP.WNfdkKbcWzzdatVSBU_eTgAAAA?pid=Api&P=0&h=220",UNIVERSAL_REALITY_HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aeced86dd6c5ecf4f39cd193109f39f7:afcb5b67f584f2eeb1783474644a9f8e
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_REALITY_HD)/manifest.mpd
@@ -935,11 +934,6 @@ https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/0f5clvxn6o/out
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
- 
-#EXTINF:-1 group-title="Motor Sports" tvg-logo="https://i.imgur.com/MfkSpMr.png" group-logo="https://tse1.mm.bing.net/th/id/OIP.BV7IeIuWw6L2Z68ev9zmogAAAA?pid=Api&P=0&h=220", Top Gear
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0020a49a0d48d25362f30057e72f0b4a":"86abf8c2a6f693a958c6492bef11ee81"}
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc124p21qf)/master.mpd
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Movies" group-logo="https://tse1.mm.bing.net/th/id/OIP.BV7IeIuWw6L2Z68ev9zmogAAAA?pid=Api&P=0&h=220",Movies Action (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
@@ -959,7 +953,7 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="Movies" group-logo="https://tse1.mm.bing.net/th/id/OIP.BV7IeIuWw6L2Z68ev9zmogAAAA?pid=Api&P=0&h=220",Hallmark Channel
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CINEMAX.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" group-logo="https://tse1.mm.bing.net/th/id/OIP.BV7IeIuWw6L2Z68ev9zmogAAAA?pid=Api&P=0&h=220" , Cinemax HD
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CINEMAX.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" group-logo="https://tse1.mm.bing.net/th/id/OIP.BV7IeIuWw6L2Z68ev9zmogAAAA?pid=Api&P=0&h=220" , Cinemax HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -967,7 +961,7 @@ http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Movie" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-logo="https://tse1.mm.bing.net/th/id/OIP.BV7IeIuWw6L2Z68ev9zmogAAAA?pid=Api&P=0&h=220" , Cinema World
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Movies" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png" group-logo="https://tse1.mm.bing.net/th/id/OIP.BV7IeIuWw6L2Z68ev9zmogAAAA?pid=Api&P=0&h=220" , Cinema World
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -975,7 +969,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="warnertvhd" group-title="Movie" tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/6b/ba/a3/36/60/0a/6ba36-pwarnerhd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8" group-logo="https://tse1.mm.bing.net/th/id/OIP.BV7IeIuWw6L2Z68ev9zmogAAAA?pid=Api&P=0&h=220" , Warner TV
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Movies" tvg-logo="https://s7774.cdn.mytvnet.vn/vimages/6b/ba/a3/36/60/0a/6ba36-pwarnerhd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8" group-logo="https://tse1.mm.bing.net/th/id/OIP.BV7IeIuWw6L2Z68ev9zmogAAAA?pid=Api&P=0&h=220" , Warner TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1042,10 +1036,10 @@ https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 
 ################## Home ############################
 
-#EXTINF:-1  tvg-id="5a1dec25daac971f191b10e808ec0c5d" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.Vx8uIhs0qI2SbseRzmU9ZgAAAA?pid=Api&P=0&h=220" group-title="🇺🇸Home" group-logo="https://tse1.mm.bing.net/th/id/OIP.q_gZlRXSEK-HCx6-Gt87RwAAAA?pid=Api&P=0&h=220",Tastemade Home
+#EXTINF:-1  tvg-id="5a1dec25daac971f191b10e808ec0c5d" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.Vx8uIhs0qI2SbseRzmU9ZgAAAA?pid=Api&P=0&h=220" group-title="Home" group-logo="https://tse1.mm.bing.net/th/id/OIP.q_gZlRXSEK-HCx6-Gt87RwAAAA?pid=Api&P=0&h=220",Tastemade Home
 https://jmp2.uk/rok-5a1dec25daac971f191b10e808ec0c5d.m3u8
 
-#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.ACi3nMaNv39l9dhM_MbC1QAAAA?pid=Api&h=220&P=0" group-title="🇺🇸Home" group-logo="https://tse1.mm.bing.net/th/id/OIP.q_gZlRXSEK-HCx6-Gt87RwAAAA?pid=Api&P=0&h=220",The Design Network
+#EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.ACi3nMaNv39l9dhM_MbC1QAAAA?pid=Api&h=220&P=0" group-title="Home" group-logo="https://tse1.mm.bing.net/th/id/OIP.q_gZlRXSEK-HCx6-Gt87RwAAAA?pid=Api&P=0&h=220",The Design Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00441-thedesignnetwor-thedesignnetwork-tablo/playlist.m3u8
 
 #EXTINF:-1  tvg-id="9c7a717f25a15b9997c6e3fd5f43a1a6" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.X467IyJ_9d5lmJwEhfMQCgAAAA?pid=Api&P=0&h=220" group-title="Home" group-logo="https://tse1.mm.bing.net/th/id/OIP.q_gZlRXSEK-HCx6-Gt87RwAAAA?pid=Api&P=0&h=220",Homeful
@@ -1153,14 +1147,19 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 
 
 
-#################### Motor Sports ##############
-
+################# Lifestyle #################
 
 #EXTINF:-1 group-title="🇺🇸Lifestyle" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.mrw23DS2GsyTUM3DeFPiaQAAAA?pid=Api&P=0&h=220" group-logo="https://tse2.mm.bing.net/th/id/OIP.ONcu3NcxCmp6wpZhx3JTMQAAAA?pid=Api&P=0&h=220", Hunt Fish TV
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
  
 #EXTINF:-1 group-title="🇺🇸Lifestyle" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.EZ9v5lq4mAZIZc0AMKgI4QAAAA?pid=Api&P=0&h=220" group-logo="https://tse2.mm.bing.net/th/id/OIP.ONcu3NcxCmp6wpZhx3JTMQAAAA?pid=Api&P=0&h=220", Nautical Channel
 https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
+
+
+
+
+
+#################### Motor Sports ##############
  
 #EXTINF:-1 group-title="Motor Sports" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.KqGKwPBEdQt2wjFdjpudAwAAAA?pid=Api&P=0&h=220"  group-logo="https://tse2.mm.bing.net/th/id/OIP.ONcu3NcxCmp6wpZhx3JTMQAAAA?pid=Api&P=0&h=220" , Nitro TV
 https://streams2.sofast.tv/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/master.m3u8
@@ -1195,6 +1194,12 @@ https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.GkbOxAX8Wc8YIGplv1m0wgAAAA?pid=Api&P=0&h=220" group-title="Motor Sports" group-logo="https://tse2.mm.bing.net/th/id/OIP.ONcu3NcxCmp6wpZhx3JTMQAAAA?pid=Api&P=0&h=220" ,MTRSPT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Motor Sports" tvg-logo="https://i.imgur.com/MfkSpMr.png" group-logo="https://tse1.mm.bing.net/th/id/OIP.BV7IeIuWw6L2Z68ev9zmogAAAA?pid=Api&P=0&h=220", Top Gear
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0020a49a0d48d25362f30057e72f0b4a":"86abf8c2a6f693a958c6492bef11ee81"}
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc124p21qf)/master.mpd
+
 
 
 ################### KR TV ###########################
@@ -1253,7 +1258,12 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 #KODIPROP:inputstream.adaptive.license_key=51b1911cb0b0494cb1cfba62943be0ad:f0ce78a0e0c5b14cb16769bd95d17b80
 https://abslive.akamaized.net/dash/live/2028025/mor3/manifest.mpd
 
+
+
+
 ################## Amazon #################################
+
+
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/xjuw11dfold3/7D9R6Lt76cBTPyRRpV9eit/64aba6ff966a6b286cbadd55aaf2d0ab/BBC-client-logo-256x256.png" group-logo="https://pngimg.com/d/amazon_PNG18.png" group-title="Amazon", BBC Treasures
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f94bae425abea0ccacec08b2e72b7d07:8eea02108392c61aa79663bc064fc600
@@ -1439,37 +1449,6 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 
 #EXTINF:-1 group-title="Combat Sports" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.36OKH0963IDia03VOgPzigAAAA?pid=Api&P=0&h=220"  group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", UFC
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
