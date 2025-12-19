@@ -1104,7 +1104,7 @@ https://ottnav.jiwonxo00.workers.dev/MTV.m3u8
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.fNCi_vblVJ2jwdD74SZt0AAAAA?pid=Api&P=0&h=220" group-title="Music" group-logo="https://tse1.mm.bing.net/th/id/OIP.4w7zbgGoKzUuBo8De9UK4AAAAA?pid=Api&P=0&h=220",MUSIC JAPAN TV
 https://ottnav.jiwonxo00.workers.dev/MUSICJAPAN.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="🇺🇸Music" group-logo="https://tse1.mm.bing.net/th/id/OIP.4w7zbgGoKzUuBo8De9UK4AAAAA?pid=Api&P=0&h=220",MYX Global
+#EXTINF:-1  tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="Music" group-logo="https://tse1.mm.bing.net/th/id/OIP.4w7zbgGoKzUuBo8De9UK4AAAAA?pid=Api&P=0&h=220",MYX Global
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
 https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
@@ -1149,10 +1149,10 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 
 ################# Lifestyle #################
 
-#EXTINF:-1 group-title="🇺🇸Lifestyle" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.mrw23DS2GsyTUM3DeFPiaQAAAA?pid=Api&P=0&h=220" group-logo="https://tse2.mm.bing.net/th/id/OIP.ONcu3NcxCmp6wpZhx3JTMQAAAA?pid=Api&P=0&h=220", Hunt Fish TV
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.mrw23DS2GsyTUM3DeFPiaQAAAA?pid=Api&P=0&h=220" group-logo="https://tse2.mm.bing.net/th/id/OIP.ONcu3NcxCmp6wpZhx3JTMQAAAA?pid=Api&P=0&h=220", Hunt Fish TV
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
  
-#EXTINF:-1 group-title="🇺🇸Lifestyle" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.EZ9v5lq4mAZIZc0AMKgI4QAAAA?pid=Api&P=0&h=220" group-logo="https://tse2.mm.bing.net/th/id/OIP.ONcu3NcxCmp6wpZhx3JTMQAAAA?pid=Api&P=0&h=220", Nautical Channel
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.EZ9v5lq4mAZIZc0AMKgI4QAAAA?pid=Api&P=0&h=220" group-logo="https://tse2.mm.bing.net/th/id/OIP.ONcu3NcxCmp6wpZhx3JTMQAAAA?pid=Api&P=0&h=220", Nautical Channel
 https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
 
 
@@ -1164,10 +1164,10 @@ https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
 #EXTINF:-1 group-title="Motor Sports" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.KqGKwPBEdQt2wjFdjpudAwAAAA?pid=Api&P=0&h=220"  group-logo="https://tse2.mm.bing.net/th/id/OIP.ONcu3NcxCmp6wpZhx3JTMQAAAA?pid=Api&P=0&h=220" , Nitro TV
 https://streams2.sofast.tv/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/master.m3u8
  
-#EXTINF:-1 group-title="Motor Sportss" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.PDS_rTNg3ZxgNMZZ4HwmmAAAAA?pid=Api&P=0&h=220"  group-logo="https://tse2.mm.bing.net/th/id/OIP.ONcu3NcxCmp6wpZhx3JTMQAAAA?pid=Api&P=0&h=220" , Test My Ride
+#EXTINF:-1 group-title="Motor Sports" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.PDS_rTNg3ZxgNMZZ4HwmmAAAAA?pid=Api&P=0&h=220"  group-logo="https://tse2.mm.bing.net/th/id/OIP.ONcu3NcxCmp6wpZhx3JTMQAAAA?pid=Api&P=0&h=220" , Test My Ride
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_21/master.m3u8
 
-#EXTINF:-2 group-title="" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.bnF39WBIegkqCUgMB8NTmQAAAA?pid=Api&P=0&h=220" group-logo="https://tse2.mm.bing.net/th/id/OIP.ONcu3NcxCmp6wpZhx3JTMQAAAA?pid=Api&P=0&h=220", RedBull
+#EXTINF:-2 group-title="Motor Sports" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.bnF39WBIegkqCUgMB8NTmQAAAA?pid=Api&P=0&h=220" group-logo="https://tse2.mm.bing.net/th/id/OIP.ONcu3NcxCmp6wpZhx3JTMQAAAA?pid=Api&P=0&h=220", RedBull
 https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.jQ-8TiqUzkcQdfElcM_-aAAAAA?pid=Api&h=220&P=0" group-title="Motor Sports" group-logo="https://tse2.mm.bing.net/th/id/OIP.ONcu3NcxCmp6wpZhx3JTMQAAAA?pid=Api&P=0&h=220", Redbull TV
