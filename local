@@ -845,7 +845,7 @@ https://live-crave.video.9c9media.com/c5875a31f178e038f7cc572b1aa0defb996ce71717
 
 ######################### TSN #########################
 
-#EXTINF:-1  tvg-id="TSN 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="Sports" group-logo="https://tse3.mm.bing.net/th/id/OIP.AHhVTBZ_iwxWtX0eqVv5WAAAAA?pid=Api&P=0&h=220",TSN 1
+#EXTINF:-1  tvg-id="TSN 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="TSN" group-logo="https://tse3.mm.bing.net/th/id/OIP.AHhVTBZ_iwxWtX0eqVv5WAAAAA?pid=Api&P=0&h=220",TSN 1
 #EXTVLCOPT:http-user-agent0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -853,7 +853,7 @@ https://live-crave.video.9c9media.com/c5875a31f178e038f7cc572b1aa0defb996ce71717
 #KODIPROP:key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
 
-#EXTINF:-1  tvg-id="TSN 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="Sports" group-logo="https://tse3.mm.bing.net/th/id/OIP.AHhVTBZ_iwxWtX0eqVv5WAAAAA?pid=Api&P=0&h=220",TSN 2
+#EXTINF:-1  tvg-id="TSN 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="TSN" group-logo="https://tse3.mm.bing.net/th/id/OIP.AHhVTBZ_iwxWtX0eqVv5WAAAAA?pid=Api&P=0&h=220",TSN 2
 #EXTVLCOPT:http-user-agent0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1449,7 +1449,5 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 
 #EXTINF:-1 group-title="Combat Sports" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.36OKH0963IDia03VOgPzigAAAA?pid=Api&P=0&h=220"  group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", UFC
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
-
-
 
 
