@@ -96,7 +96,19 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U billed-msg="🇵🇭 LivePass™  Mabuhay 🇵🇭"
+
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
 
@@ -494,11 +506,64 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd
 
 
-============================================================================================
+############### I Want PH ############################
 
+#EXTINF:-1 tvg-id="gmt+8" tvg-logo="https://encrypted-tbn0.gstatic.com/...quyF6bbkUQnTuZ5t00GipGPp3j74qAl_N2z4lvfE&s=10" group-title="IWANTPH" group-logo="https://tse4.mm.bing.net/th/id/OIP.yy30pPnEPtREqVnIXiW-lQAAAA?pid=Api&P=0&h=220", ANC Global (iWANT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
+https://d3cjss68xc4sia.cloudfront.net/out/v1/89ea8db23cb24a91bfa5d0795f8d759e/index.mpd
 
+#EXTINF:-1 tvg-id="gmt+8" tvg-logo="https://encrypted-tbn0.gstatic.com/...oPBJvUNKdq71QpaMb7Ym8hUV8So93iKz_TZFVWKg&s=10" group-title="IWANTPH" group-logo="https://tse4.mm.bing.net/th/id/OIP.yy30pPnEPtREqVnIXiW-lQAAAA?pid=Api&P=0&h=220" , Cinema One Global (iWANT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
+https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 
-########### Fox #############
+#EXTINF:-1 tvg-id="gmt+8" tvg-logo="https://encrypted-tbn0.gstatic.com/...XBSeurJ13GdTTGcTXk5zMNiYHL_AaCV18p1Ug0hg&s=10" group-title="IWANTPH" group-logo="https://tse4.mm.bing.net/th/id/OIP.yy30pPnEPtREqVnIXiW-lQAAAA?pid=Api&P=0&h=220", Cinemo Global (iWANT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
+https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
+
+#EXTINF:-1 tvg-id="gmt+8" tvg-logo="https://encrypted-tbn0.gstatic.com/...138Ur1GBRX8kbmhiEFACZ6prCUhu-mjtCxt8ts2k&s=10" group-title="IWANTPH" group-logo="https://tse4.mm.bing.net/th/id/OIP.yy30pPnEPtREqVnIXiW-lQAAAA?pid=Api&P=0&h=220", DZMM Teleradyo Global (iWANT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
+https://d14c00opfjb50c.cloudfront.net/out/v1/0fa4eb67579d41cca4ed146c93aa855f/index.mpd
+
+#EXTINF:-1 tvg-id="gmt+8" tvg-logo="https://encrypted-tbn0.gstatic.com/...OGzy3xxxZ-bPetfdSh18C_hyo1o1g6wMAkrw7uFw&s=10" group-title="IWANTPH" group-logo="https://tse4.mm.bing.net/th/id/OIP.yy30pPnEPtREqVnIXiW-lQAAAA?pid=Api&P=0&h=220", GMA Pinoy TV (Bonus Channel)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
+https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
+
+#EXTINF:-1 tvg-id="gmt+8" tvg-logo="https://encrypted-tbn0.gstatic.com/...VLowuk9M-gKpaKGVTAQnW0Liew8NV8qx7MpBwj9A&s=10" group-title="IWANTPH" group-logo="https://tse4.mm.bing.net/th/id/OIP.yy30pPnEPtREqVnIXiW-lQAAAA?pid=Api&P=0&h=220", Kapamilya Channel Global (iWANT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
+
+#EXTINF:-1 tvg-id="gmt+8" tvg-logo="https://encrypted-tbn0.gstatic.com/..._wuT7afe9ZcCoFecUrE3BLedMjsL7iNygfW79R6c&s=10" group-title="IWANTPH" group-logo="https://tse4.mm.bing.net/th/id/OIP.yy30pPnEPtREqVnIXiW-lQAAAA?pid=Api&P=0&h=220", MYX Global (iWANT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
+https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
+
+#EXTINF:-1 tvg-id="gmt+8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm6PG0IoW0IqoJXi8eHXseb7Ac9ylTyCrPpNVnbHtBpA&s" group-title="IWANTPH" group-logo="https://tse4.mm.bing.net/th/id/OIP.yy30pPnEPtREqVnIXiW-lQAAAA?pid=Api&P=0&h=220", TFC Asia (iWANT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
+
+#EXTINF:-1 tvg-id="gmt+8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm6PG0IoW0IqoJXi8eHXseb7Ac9ylTyCrPpNVnbHtBpA&s" group-title="IWANTPH" group-logo="https://tse4.mm.bing.net/th/id/OIP.yy30pPnEPtREqVnIXiW-lQAAAA?pid=Api&P=0&h=220", TFC Canada (iWANT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c700e42ffc64d9b82d94cf57a2302fa:44d038e1fdcaefb3e75ffb4e42537279
+https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd
+
+#EXTINF:-1 tvg-id="gmt+8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm6PG0IoW0IqoJXi8eHXseb7Ac9ylTyCrPpNVnbHtBpA&s" group-title="IWANTPH" group-logo="https://tse4.mm.bing.net/th/id/OIP.yy30pPnEPtREqVnIXiW-lQAAAA?pid=Api&P=0&h=220", TFC Europe (iWANT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=457c50351e2a4c42a5c34cfb5c0b0682:03a2754079e082f7dec48ad362e3899e
+https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/index.mpd
+
+#EXTINF:-1 tvg-id="gmt+8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm6PG0IoW0IqoJXi8eHXseb7Ac9ylTyCrPpNVnbHtBpA&s" group-title="IWANTPH" group-logo="https://tse4.mm.bing.net/th/id/OIP.yy30pPnEPtREqVnIXiW-lQAAAA?pid=Api&P=0&h=220", TFC Premium (iWANT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
+
+########################### Fox ##########################
 
 
 #EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th/id/OIP.PGDmxWRWck-P0ESmHfv-hAAAAA?pid=Api&P=0" group-title="Fox" group-logo="https://tse4.mm.bing.net/th/id/OIP.X1no9TJrzCMkO_6TgN56dgAAAA?pid=Api&P=0&h=220",Fox Sports 1
@@ -1449,5 +1514,19 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 
 #EXTINF:-1 group-title="Combat Sports" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.36OKH0963IDia03VOgPzigAAAA?pid=Api&P=0&h=220"  group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg", UFC
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
