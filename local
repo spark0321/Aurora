@@ -854,6 +854,59 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
+################ HBO IZZIGO ##############
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.-XsVMkT4AJcngRq6ih3S1wAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="HBO IZZIO", HBO POP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
+ 
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.pLDq7bdXIxV4Lt_wuAQaSgAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="HBO IZZIO", HBO Mundi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba4052ca5eb6f8ff6b98d47d098b2dec:bb3e4bfa1821d2bdc25c9a0970e4e3b8
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-MUNDI-HD/default.mpd
+
+########################## MGM+ ########################################
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.LsidjuwWwhzF_FNk-ihXZgAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",Fawesome
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5389
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP._we9oWnuUDbxTTZQTh4N5AAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",Fawesome Horror
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5388
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.3cxLu5rLpo_lbDHyTQ9H3QAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",Crime ThrillHer
+https://f2ea7639.wurl.com/master/f3...GVyX0hMUw/playlist.m3u8?ads.wurl_channel=1056
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.m7IVJHMgxIqBap5yTWya0AAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",TCL Romance
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814628/hls/master.m3u8?ads.xumo_channelId=88814628
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.QeQ5Ft9_YIc1MLZpWMdLRgAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",Dread TV
+https://epicpictures-dreadtv-1-us.ono.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.mw_Psda_qGDY0iSfw0CTqAAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",Scares by Shudder
+https://caef39cc.wurl.com/master/f3...Rlcl9ITFM/playlist.m3u8?ads.wurl_channel=1566
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.ehwVviQxfQd7wnn4mDschwAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",TCL Horror
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884638/hls/master.m3u8?&ads.xumo_channelId=88884638
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.27VPGO7e4Yrhku4DB46sXwAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",MGM Presents Horror
+https://linear-1217.frequency.stream/dist/tcltv/1217/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.d8fjfJtJJSvn4bM8pN_nTAAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",Teen Wolf by MGM
+https://linear-1143.frequency.stream/dist/tcltv/1143/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.oDk2eB-WWSWnPgSFePo2OQAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",The Outer Limits by MGM
+https://linear-1145.frequency.stream/dist/tcltv/1145/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.IkKHliKAFtPuojaAhzJc0AAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",MGM presents Western
+https://linear-1148.frequency.stream/dist/tcltv/1148/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.N2S0Fvv5wQVWY1GSVpI_1gAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",MGM Presents Action
+https://linear-1147.frequency.stream/dist/tcltv/1147/hls/master/playlist.m3u8
+
+
+
 ################# Documentary ##################
 
 #EXTINF:-1  tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png" group-title="Documentary" group-logo="https://tse4.mm.bing.net/th/id/OIP.3s0gjA6SyWaB6mOei10XIgAAAA?pid=Api&P=0&h=220",Discovery Turbo
@@ -983,12 +1036,49 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=aeced86dd6c5ecf4f39cd193109f39f7:afcb5b67f584f2eeb1783474644a9f8e
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_REALITY_HD)/manifest.mpd
   
+################### Universal IZZIGO ###########
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.shGfII9JYnMpTfGat0I_dwAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIO",Universal Crime
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993021/hls/master.m3u8?ads.xumo_channelId=99993021
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.P3jT0SlBXLGRPLum56295QCgBG?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIO", Universal Reality
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02a02bce7a3c518386e0da4e5ec0188d:071c7cc4c2f33e1e2d3fa3807d1bbbcc
+https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-REALITY-HD/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.5JR6gryI4p8DDWghirs7JAAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIO", Universal Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a9e6477651b3b47f3a2b727d562835:1b87070d9fad5dee0a35ff014a2063a7
+https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-CINEMA-HD/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.hhTZ7K9uts28hwJQB5w03wAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIO", Universal Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
+https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-COMEDY-HD/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.shGfII9JYnMpTfGat0I_dwAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIO", Universal Crime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a908a5d38a9c496ced27faa6bf5ff8e:85a5835a92bd7f87faf5ffbcb8814d33
+https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-CRIME-HD/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.QwlYD6IHr3yimLe7zm6rkgAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIO", Universal Premiere
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ccd5dd0c86a40ed719b83e1801bcd88:6d5e62525837ba9b7e09cfb8716116ba
+https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-PREMIERE-HD/manifest.mpd
 
 
 
 
 ################## Movies ###################
 
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.afDDXyYjnNQm--pBfpVaKQAAAA?pid=Api&P=0&h=220" group-logo="https://tse1.mm.bing.net/th/id/OIP.BV7IeIuWw6L2Z68ev9zmogAAAA?pid=Api&P=0&h=220" group-title="Movies", A&E
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65439188fe819667ba31731f59c7c28b:011efcb86dc0c336c1bb61d602c71691
+https://covoslivechannels2dash.clar...ASH_FK/Live/Channel(AE_MUNDO_HD)/manifest.mpd
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/tkFtkpx.png" group-title="Movies" group-logo="https://tse1.mm.bing.net/th/id/OIP.BV7IeIuWw6L2Z68ev9zmogAAAA?pid=Api&P=0&h=220",AMC+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1096,7 +1186,31 @@ https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.7H1B_iqeqYw9HcaZfdASeAAAAA?pid=Api&P=0&h=220" group-title="Rakuten TV" group-logo="https://tse3.mm.bing.net/th/id/OIP.I-lUivawXn51PtEIgRJegwAAAA?pid=Api&P=0&h=220", RAKUTEN SCI FI
 https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
 
+##################### Xumo #############################
 
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.ShpTINO-dK9NVwERpk-QAgAAAA?pid=Api&P=0&h=220" group-logo="https://tse1.mm.bing.net/th/id/OIP.obwMmCGmAaK2GpRQMqnnSgAAAA?pid=Api&P=0&h=220" group-title="XUMO", World's Most Evil Killers
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884570/hls/master.m3u8?ads.xumo_channelId=88884570
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.iOjDEgSUc373Yq1MMnRJuwAAAA?pid=Api&P=0&h=220" group-logo="https://tse1.mm.bing.net/th/id/OIP.obwMmCGmAaK2GpRQMqnnSgAAAA?pid=Api&P=0&h=220" group-title="XUMO", World's Wildest Police Videos
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884549/hls/master.m3u8?ads.xumo_channelId=88884549
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.Zor65sH-_nb6_lIz41CP3QAAAA?pid=Api&P=0&h=220" group-logo="https://tse1.mm.bing.net/th/id/OIP.obwMmCGmAaK2GpRQMqnnSgAAAA?pid=Api&P=0&h=220" group-title="XUMO", The FBI files
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884569/hls/master.m3u8?ads.xumo_channelId=88884569
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.SO3MmRhNmjz_l264N4cHfQAAAA?pid=Api&P=0&h=220" group-logo="https://tse1.mm.bing.net/th/id/OIP.obwMmCGmAaK2GpRQMqnnSgAAAA?pid=Api&P=0&h=220" group-title="XUMO", Air and Space Channel
+https://9c8418ea80924443bf6a437d9be...RandSPACE/playlist.m3u8?ads.wurl_channel=1684
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.Mvn9-4xXRz2idG6nnyXOBQAAAA?pid=Api&P=0&h=220" group-logo="https://tse1.mm.bing.net/th/id/OIP.obwMmCGmAaK2GpRQMqnnSgAAAA?pid=Api&P=0&h=220" group-title="XUMO", Car Chase
+https://dai.google.com/linear/hls/event/RjvF1cd0Qx-65Dz14THpPA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.4wfnrFM7ctpVJ85h0N95VwAAAA?pid=Api&P=0&h=220" group-logo="https://tse1.mm.bing.net/th/id/OIP.obwMmCGmAaK2GpRQMqnnSgAAAA?pid=Api&P=0&h=220" group-title="XUMO", Oxygen True Crime Archives
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814608a/hls/master.m3u8?ads.xumo_channelId=88814608a
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.cW7H8cgb5wPxi59EeH4ftQAAAA?pid=Api&P=0&h=220" group-logo="https://tse1.mm.bing.net/th/id/OIP.obwMmCGmAaK2GpRQMqnnSgAAAA?pid=Api&P=0&h=220" group-title="XUMO", Crime Cults Killers by A&E
+https://6d524948.wurl.com/master/f3...uYWxfSExT/playlist.m3u8?ads.wurl_channel=1055
+
+#EXTINF:-1 tvg-logo="" group-logo="" group-title="XUMO", CGTN China Travel
+https://amg01314-cgtn-amg01314c7-lg...1314-cgtn-cgtnchinatravel-lguae/playlist.m3u8
 
 
 ################## Home ############################
