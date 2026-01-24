@@ -618,14 +618,6 @@ https://otte-netskrt.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ghbjxtieft/
 #KODIPROP:inputstream.adaptive.license_key=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png/v1/fill/w_707,h_668/wwe_network_logo_by_jjk100_d8txzp1-fullview.png" group-logo="https://tse4.mm.bing.net/th/id/OIP.JT40uD0nUy7SgAUTbNhvFgAAAA?pid=Api&P=0&h=220", WWE Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
-
-#EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th?id=OIP.nyPSQQE9eoub3qBM_uIyqgAAAA&pid=Api&P=0&h=180" group-title="Entertainment" group-logo="https://tse4.mm.bing.net/th/id/OIP.JT40uD0nUy7SgAUTbNhvFgAAAA?pid=Api&P=0&h=220",DUBAI ONE
-https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-
 #EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.bYcHhK5HluWqygURul6HWQAAAA?pid=Api&P=0" group-title="Entertainment" group-logo="https://tse4.mm.bing.net/th/id/OIP.JT40uD0nUy7SgAUTbNhvFgAAAA?pid=Api&P=0&h=220",Xumo Reality TV
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991364
 
@@ -645,28 +637,10 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/CJYMh2F.png" group-title="Sports" group-logo="https://tse2.mm.bing.net/th/id/OIP.Qwcbx1q-bbYPx17zU157yQAAAA?pid=Api&P=0&h=220",NFL Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"002007110c69a23803173b50eab05f23":"590d6e8f4ca81319f9bb29104f571990"}
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master.mpd
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/PN0fjNF/90-removebg-preview.png" group-logo="https://tse2.mm.bing.net/th/id/OIP.Qwcbx1q-bbYPx17zU157yQAAAA?pid=Api&P=0&h=220", NBC Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/VMx7Xxl.png" group-logo="https://tse2.mm.bing.net/th/id/OIP.Qwcbx1q-bbYPx17zU157yQAAAA?pid=Api&P=0&h=220", NFL
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
- 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/dAPtBTh.png" group-logo="https://tse2.mm.bing.net/th/id/OIP.Qwcbx1q-bbYPx17zU157yQAAAA?pid=Api&P=0&h=220", Premier League
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
- 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.7177-LEDz21mpF76xiK6rAAAAA?pid=Api&P=0&h=220"  group-logo="https://tse2.mm.bing.net/th/id/OIP.Qwcbx1q-bbYPx17zU157yQAAAA?pid=Api&P=0&h=220", Blast sports
-https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.7x2eH9GVkv8JSHrEwVC5EQAAAA?pid=Api&P=0&h=220" group-logo="https://tse2.mm.bing.net/th/id/OIP.Qwcbx1q-bbYPx17zU157yQAAAA?pid=Api&P=0&h=220" , Billiards+
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
@@ -687,20 +661,12 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 ################### News #############################
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Euronews_logo_(1997-1998).svg/180px-Euronews_logo_(1997-1998).svg.png" group-title="News" group-logo="https://tse2.mm.bing.net/th/id/OIP.KSUlbVELsYE-cqAvXCvmqAAAAA?pid=Api&P=0&h=220",Euronews
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
+
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="News" group-logo="https://tse2.mm.bing.net/th/id/OIP.KSUlbVELsYE-cqAvXCvmqAAAAA?pid=Api&P=0&h=220",Channel News Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
 https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/hWQBUvT.png" group-logo="https://tse2.mm.bing.net/th/id/OIP.KSUlbVELsYE-cqAvXCvmqAAAAA?pid=Api&P=0&h=220", Dateline
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002029fcdaae2385eedf0fd9332c3c90:33b97956f316d0b65e9fd28888e7c7a9
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc112xzr75)/master.mpd
 
 #EXTINF:-1  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="News" group-logo="https://tse2.mm.bing.net/th/id/OIP.KSUlbVELsYE-cqAvXCvmqAAAAA?pid=Api&P=0&h=220",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
@@ -834,16 +800,6 @@ http://filex.tv:8080//live/drzain/002808/290854.ts
 #KODIPROP:inputstream.adaptive.license_key=e8c6a262b77b153530a6caaf2e07944a:81071cf5808c0387adab93d8ff9b1f09
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.HsxQXq5NjwFf6JY3hJGiQQAAAA?pid=Api&P=0&h=220" group-title="HBO" group-logo="https://tse1.mm.bing.net/th/id/OIP.moEQ-sI9cknRSl_Kd4oKnAAAAA?pid=Api&P=0&h=220", HBO 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
-https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
- 
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.ClzsXZVI-VwHqUBHpI4vfQAAAA?pid=Api&P=0&h=220" group-title="HBO" group-logo="https://tse1.mm.bing.net/th/id/OIP.moEQ-sI9cknRSl_Kd4oKnAAAAA?pid=Api&P=0&h=220", HBO Signature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
-https://cnt1-streamer4.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
-
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="HBO" group-logo="https://tse1.mm.bing.net/th/id/OIP.moEQ-sI9cknRSl_Kd4oKnAAAAA?pid=Api&P=0&h=220",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
@@ -856,13 +812,13 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
 ################ HBO IZZIGO ##############
 
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.-XsVMkT4AJcngRq6ih3S1wAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="HBO IZZIO", HBO POP
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.-XsVMkT4AJcngRq6ih3S1wAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="HBO IZZIGO", HBO POP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
 https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
  
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.pLDq7bdXIxV4Lt_wuAQaSgAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="HBO IZZIO", HBO Mundi
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.pLDq7bdXIxV4Lt_wuAQaSgAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="HBO IZZIGO", HBO Mundi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba4052ca5eb6f8ff6b98d47d098b2dec:bb3e4bfa1821d2bdc25c9a0970e4e3b8
 https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-MUNDI-HD/default.mpd
@@ -875,17 +831,11 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5389
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP._we9oWnuUDbxTTZQTh4N5AAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",Fawesome Horror
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5388
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.3cxLu5rLpo_lbDHyTQ9H3QAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",Crime ThrillHer
-https://f2ea7639.wurl.com/master/f3...GVyX0hMUw/playlist.m3u8?ads.wurl_channel=1056
-
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.m7IVJHMgxIqBap5yTWya0AAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",TCL Romance
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814628/hls/master.m3u8?ads.xumo_channelId=88814628
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.QeQ5Ft9_YIc1MLZpWMdLRgAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",Dread TV
 https://epicpictures-dreadtv-1-us.ono.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.mw_Psda_qGDY0iSfw0CTqAAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",Scares by Shudder
-https://caef39cc.wurl.com/master/f3...Rlcl9ITFM/playlist.m3u8?ads.wurl_channel=1566
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.ehwVviQxfQd7wnn4mDschwAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.0Cr6daIplrSwsxur4_QKVQAAAA?pid=Api&P=0&h=220" group-title="MGM+",TCL Horror
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88884638/hls/master.m3u8?&ads.xumo_channelId=88884638
@@ -960,7 +910,6 @@ https://live-crave.video.9c9media.com/c5875a31f178e038f7cc572b1aa0defb996ce71717
 
 
 
-
 ######################### TSN #########################
 
 #EXTINF:-1  tvg-id="TSN 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="TSN" group-logo="https://tse3.mm.bing.net/th/id/OIP.AHhVTBZ_iwxWtX0eqVv5WAAAAA?pid=Api&P=0&h=220",TSN 1
@@ -981,9 +930,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/
 
 
 
-
-
-
 ###################### Comedy ######################
 
 #EXTINF:-1  tvg-logo="https://tse1.mm.bing.net/th/id/OIP.2JbJRYi11g4dCYpaFxIGWgAAAA?pid=Api&P=0&h=220" group-title="Comedy" group-logo="https://tse3.mm.bing.net/th/id/OIP.bbmjwIfV_LgZk-iOpXEYLwAAAA?pid=Api&P=0&h=220g",Mr Bean
@@ -996,9 +942,6 @@ https://jmp2.uk/rok-4f628a666da552d7a9ea9157e079d56b.m3u8
 
 #EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.6wTwthTtoxtQ8BCnEiqeigAAAA?pid=Api&h=220&P=0" group-title="Comedy" group-logo="https://tse3.mm.bing.net/th/id/OIP.bbmjwIfV_LgZk-iOpXEYLwAAAA?pid=Api&P=0&h=220",Just for Laughs Gags
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991204
-
-
-
 
 
 
@@ -1038,34 +981,34 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
   
 ################### Universal IZZIGO ###########
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.shGfII9JYnMpTfGat0I_dwAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIO",Universal Crime
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.shGfII9JYnMpTfGat0I_dwAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIGO",Universal Crime
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993021/hls/master.m3u8?ads.xumo_channelId=99993021
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.P3jT0SlBXLGRPLum56295QCgBG?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIO", Universal Reality
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.P3jT0SlBXLGRPLum56295QCgBG?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIGO", Universal Reality
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=02a02bce7a3c518386e0da4e5ec0188d:071c7cc4c2f33e1e2d3fa3807d1bbbcc
 https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-REALITY-HD/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.5JR6gryI4p8DDWghirs7JAAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIO", Universal Cinema
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.5JR6gryI4p8DDWghirs7JAAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIGO", Universal Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44a9e6477651b3b47f3a2b727d562835:1b87070d9fad5dee0a35ff014a2063a7
 https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-CINEMA-HD/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.hhTZ7K9uts28hwJQB5w03wAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIO", Universal Comedy
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.hhTZ7K9uts28hwJQB5w03wAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIGO", Universal Comedy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c
 https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-COMEDY-HD/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.shGfII9JYnMpTfGat0I_dwAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIO", Universal Crime
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.shGfII9JYnMpTfGat0I_dwAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIGO", Universal Crime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a908a5d38a9c496ced27faa6bf5ff8e:85a5835a92bd7f87faf5ffbcb8814d33
 https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-CRIME-HD/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.QwlYD6IHr3yimLe7zm6rkgAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIO", Universal Premiere
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.QwlYD6IHr3yimLe7zm6rkgAAAA?pid=Api&P=0&h=220" group-logo="https://tse4.mm.bing.net/th/id/OIP.-HNqA9k1kZzGSKiyd70FaQAAAA?pid=Api&P=0&h=220" group-title="Universal IZZIGO", Universal Premiere
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ccd5dd0c86a40ed719b83e1801bcd88:6d5e62525837ba9b7e09cfb8716116ba
 https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-PREMIERE-HD/manifest.mpd
@@ -1197,20 +1140,11 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88884549/hls/master.m3u8?ads.xumo_ch
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.Zor65sH-_nb6_lIz41CP3QAAAA?pid=Api&P=0&h=220" group-logo="https://tse1.mm.bing.net/th/id/OIP.obwMmCGmAaK2GpRQMqnnSgAAAA?pid=Api&P=0&h=220" group-title="XUMO", The FBI files
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88884569/hls/master.m3u8?ads.xumo_channelId=88884569
 
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.SO3MmRhNmjz_l264N4cHfQAAAA?pid=Api&P=0&h=220" group-logo="https://tse1.mm.bing.net/th/id/OIP.obwMmCGmAaK2GpRQMqnnSgAAAA?pid=Api&P=0&h=220" group-title="XUMO", Air and Space Channel
-https://9c8418ea80924443bf6a437d9be...RandSPACE/playlist.m3u8?ads.wurl_channel=1684
-
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.Mvn9-4xXRz2idG6nnyXOBQAAAA?pid=Api&P=0&h=220" group-logo="https://tse1.mm.bing.net/th/id/OIP.obwMmCGmAaK2GpRQMqnnSgAAAA?pid=Api&P=0&h=220" group-title="XUMO", Car Chase
 https://dai.google.com/linear/hls/event/RjvF1cd0Qx-65Dz14THpPA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.4wfnrFM7ctpVJ85h0N95VwAAAA?pid=Api&P=0&h=220" group-logo="https://tse1.mm.bing.net/th/id/OIP.obwMmCGmAaK2GpRQMqnnSgAAAA?pid=Api&P=0&h=220" group-title="XUMO", Oxygen True Crime Archives
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814608a/hls/master.m3u8?ads.xumo_channelId=88814608a
-
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.cW7H8cgb5wPxi59EeH4ftQAAAA?pid=Api&P=0&h=220" group-logo="https://tse1.mm.bing.net/th/id/OIP.obwMmCGmAaK2GpRQMqnnSgAAAA?pid=Api&P=0&h=220" group-title="XUMO", Crime Cults Killers by A&E
-https://6d524948.wurl.com/master/f3...uYWxfSExT/playlist.m3u8?ads.wurl_channel=1055
-
-#EXTINF:-1 tvg-logo="" group-logo="" group-title="XUMO", CGTN China Travel
-https://amg01314-cgtn-amg01314c7-lg...1314-cgtn-cgtnchinatravel-lguae/playlist.m3u8
 
 
 ################## Home ############################
@@ -1264,9 +1198,6 @@ https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xu
 
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.14uLBZpnnsXRqecPpBfQSwAAAA?pid=Api&P=0" group-title="Food" group-logo="https://tse4.mm.bing.net/th/id/OIP.tVwmwXDDLFQyFI2md8memAAAAA?pid=Api&P=0&h=220",Lidias Kitchen
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951151
-
-#EXTINF:-1  tvg-logo="https://tse3.mm.bing.net/th/id/OIP.uj2wOFLS6kL0FnClF1Ql1QAAAA?pid=Api&h=220&P=0" group-title="Food" group-logo="https://tse4.mm.bing.net/th/id/OIP.tVwmwXDDLFQyFI2md8memAAAAA?pid=Api&P=0&h=220",Food 52
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991340
 
 #EXTINF:-1  tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/bab0626ab5655e569790befb4522806a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669078150668_BA_Logo_center.png" group-title="Food" group-logo="https://tse4.mm.bing.net/th/id/OIP.tVwmwXDDLFQyFI2md8memAAAAA?pid=Api&P=0&h=220",Bonappetit
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991140
@@ -1368,23 +1299,13 @@ https://streams2.sofast.tv/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.KqGKwPBEdQt2wjFdjpudAwAAAA?pid=Api&P=0&h=220" group-title="Motor Sports" group-logo="https://tse2.mm.bing.net/th/id/OIP.ONcu3NcxCmp6wpZhx3JTMQAAAA?pid=Api&P=0&h=220" ,Nitro TV
 https://streams2.sofast.tv/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.sUHrsw2kCgoYzUYF15GwhgAAAA?pid=Api&P=0&h=220" group-title="Motor Sports" group-logo="https://tse2.mm.bing.net/th/id/OIP.ONcu3NcxCmp6wpZhx3JTMQAAAA?pid=Api&P=0&h=220" ,Nitro Circus TV
-https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.GkbOxAX8Wc8YIGplv1m0wgAAAA?pid=Api&P=0&h=220" group-title="Motor Sports" group-logo="https://tse2.mm.bing.net/th/id/OIP.ONcu3NcxCmp6wpZhx3JTMQAAAA?pid=Api&P=0&h=220" ,MTRSPT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-
-#EXTINF:-1 group-title="Motor Sports" tvg-logo="https://i.imgur.com/MfkSpMr.png" group-logo="https://tse1.mm.bing.net/th/id/OIP.BV7IeIuWw6L2Z68ev9zmogAAAA?pid=Api&P=0&h=220", Top Gear
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0020a49a0d48d25362f30057e72f0b4a":"86abf8c2a6f693a958c6492bef11ee81"}
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc124p21qf)/master.mpd
 
 
 
 ################### KR TV ###########################
 
-#EXTINF:-1 group-title="🇰🇷TV" tvg-logo="https://i.pinimg.com/736x/f1/45/c5/f145c52c0fbbc79239b264257e55be2a.jpg" group-logo="https://tse4.mm.bing.net/th/id/OIP.57BDjZNDyfHPH5Du6E1JQgAAAA?pid=Api&P=0&h=220", Arirang radio
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://tse4.mm.bing.net/th/id/OIP.jnLv_osIrzg2-WJB3b8jRQAAAA?pid=Api&P=0&h=220" group-title="🇰🇷TV" group-logo="https://tse4.mm.bing.net/th/id/OIP.57BDjZNDyfHPH5Du6E1JQgAAAA?pid=Api&P=0&h=220",NEW K-MOVIES
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
@@ -2664,12 +2585,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://static.epg.best/il/MTV.il.png" ,MTV Live
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://aqfadtv.xyz/logos/HITSNow.png" ,HITS Now
 #KODIPROP:inputstreamaddon=inputstream.adaptive
