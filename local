@@ -1018,10 +1018,7 @@ https://zap-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSAL-PREMIERE-HD/manifest.mpd
 
 ################## Movies ###################
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.afDDXyYjnNQm--pBfpVaKQAAAA?pid=Api&P=0&h=220" group-logo="https://tse1.mm.bing.net/th/id/OIP.BV7IeIuWw6L2Z68ev9zmogAAAA?pid=Api&P=0&h=220" group-title="Movies", A&E
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65439188fe819667ba31731f59c7c28b:011efcb86dc0c336c1bb61d602c71691
-https://covoslivechannels2dash.clar...ASH_FK/Live/Channel(AE_MUNDO_HD)/manifest.mpd
+
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/tkFtkpx.png" group-title="Movies" group-logo="https://tse1.mm.bing.net/th/id/OIP.BV7IeIuWw6L2Z68ev9zmogAAAA?pid=Api&P=0&h=220",AMC+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
